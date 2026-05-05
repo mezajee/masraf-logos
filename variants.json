@@ -1111,5 +1111,22 @@
       "file": "acaihub.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/acaihub.ae_logodev.png"
     }
+  ],
+  "oceanairtravels.com": [
+    {
+      "source": "favicon",
+      "file": "oceanairtravels.com_favicon.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oceanairtravels.com_favicon.jpg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "oceanairtravels.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oceanairtravels.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "oceanairtravels.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oceanairtravels.com_logodev.png"
+    }
   ]
 }
