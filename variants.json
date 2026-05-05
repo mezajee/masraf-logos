@@ -2820,5 +2820,22 @@
       "file": "tesla.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tesla.com_logodev.png"
     }
+  ],
+  "fas": [
+    {
+      "source": "worldvectorlogo",
+      "file": "fas_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fas_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "fas_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fas_wikipedia.svg"
+    },
+    {
+      "source": "logodev_name",
+      "file": "fas_logodev_name.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fas_logodev_name.png"
+    }
   ]
 }
