@@ -3437,5 +3437,22 @@
       "file": "rebel-omakase.com_wikipedia.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rebel-omakase.com_wikipedia.svg"
     }
+  ],
+  "cafepeloton.ae": [
+    {
+      "source": "worldvectorlogo",
+      "file": "cafepeloton.ae_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cafepeloton.ae_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "cafepeloton.ae_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cafepeloton.ae_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "cafepeloton.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cafepeloton.ae_logodev.png"
+    }
   ]
 }
