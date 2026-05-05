@@ -3836,5 +3836,12 @@
       "file": "xstrike.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xstrike.com_logodev.png"
     }
+  ],
+  "archerscoffee.com": [
+    {
+      "source": "logodev",
+      "file": "archerscoffee.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/archerscoffee.com_logodev.png"
+    }
   ]
 }
