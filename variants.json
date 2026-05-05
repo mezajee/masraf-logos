@@ -3600,5 +3600,12 @@
       "file": "ifortuna.cz_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ifortuna.cz_logodev.png"
     }
+  ],
+  "happyhomedxb.com": [
+    {
+      "source": "worldvectorlogo",
+      "file": "happyhomedxb.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/happyhomedxb.com_worldvectorlogo.svg"
+    }
   ]
 }
