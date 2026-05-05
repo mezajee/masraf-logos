@@ -814,5 +814,12 @@
       "file": "izzy-restaurant_wikipedia.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/izzy-restaurant_wikipedia.svg"
     }
+  ],
+  "clipmyhorse.tv": [
+    {
+      "source": "favicon",
+      "file": "clipmyhorse.tv_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/clipmyhorse.tv_favicon.png"
+    }
   ]
 }
