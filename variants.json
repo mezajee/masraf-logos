@@ -3751,5 +3751,22 @@
       "file": "champion.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/champion.com_logodev.png"
     }
+  ],
+  "emarat.ae": [
+    {
+      "source": "favicon",
+      "file": "emarat.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emarat.ae_favicon.png"
+    },
+    {
+      "source": "logodev_name",
+      "file": "emarat.ae_logodev_name.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emarat.ae_logodev_name.png"
+    },
+    {
+      "source": "logodev",
+      "file": "emarat.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emarat.ae_logodev.png"
+    }
   ]
 }
