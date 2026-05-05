@@ -3893,5 +3893,32 @@
       "file": "keslerlee.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/keslerlee.com_favicon.png"
     }
+  ],
+  "lego.me": [
+    {
+      "source": "favicon",
+      "file": "lego.me_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lego.me_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "lego.me_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lego.me_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "lego.me_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lego.me_wikipedia.svg"
+    },
+    {
+      "source": "seeklogo",
+      "file": "lego.me_seeklogo.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lego.me_seeklogo.png"
+    },
+    {
+      "source": "logodev",
+      "file": "lego.me_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lego.me_logodev.png"
+    }
   ]
 }
