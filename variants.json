@@ -3165,5 +3165,22 @@
       "file": "emiratespost.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emiratespost.ae_logodev.png"
     }
+  ],
+  "homebakery.ae": [
+    {
+      "source": "worldvectorlogo",
+      "file": "homebakery.ae_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/homebakery.ae_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "homebakery.ae_wikipedia.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/homebakery.ae_wikipedia.jpg"
+    },
+    {
+      "source": "logodev",
+      "file": "homebakery.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/homebakery.ae_logodev.png"
+    }
   ]
 }
