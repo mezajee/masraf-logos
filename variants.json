@@ -3278,5 +3278,12 @@
       "file": "collegeboard.org_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/collegeboard.org_logodev.png"
     }
+  ],
+  "al-sadara-gents-salon": [
+    {
+      "source": "worldvectorlogo",
+      "file": "al-sadara-gents-salon_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-sadara-gents-salon_worldvectorlogo.svg"
+    }
   ]
 }
