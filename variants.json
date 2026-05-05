@@ -181,5 +181,22 @@
       "file": "kitopi.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kitopi.com_logodev.png"
     }
+  ],
+  "fitnglam.ae": [
+    {
+      "source": "wikipedia",
+      "file": "fitnglam.ae_wikipedia.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fitnglam.ae_wikipedia.jpg"
+    },
+    {
+      "source": "logodev_name",
+      "file": "fitnglam.ae_logodev_name.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fitnglam.ae_logodev_name.png"
+    },
+    {
+      "source": "logodev",
+      "file": "fitnglam.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fitnglam.ae_logodev.png"
+    }
   ]
 }
