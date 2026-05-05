@@ -983,5 +983,12 @@
       "file": "pharmacie-principale.ch_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pharmacie-principale.ch_logodev.png"
     }
+  ],
+  "cimalpes.com": [
+    {
+      "source": "logodev",
+      "file": "cimalpes.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cimalpes.com_logodev.png"
+    }
   ]
 }
