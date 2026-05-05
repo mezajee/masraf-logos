@@ -2639,5 +2639,17 @@
       "file": "organicfoodsandcafe.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/organicfoodsandcafe.com_logodev.png"
     }
+  ],
+  "nshamacommunity.ae": [
+    {
+      "source": "wikipedia",
+      "file": "nshamacommunity.ae_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nshamacommunity.ae_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "nshamacommunity.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nshamacommunity.ae_logodev.png"
+    }
   ]
 }
