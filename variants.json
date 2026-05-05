@@ -2378,5 +2378,12 @@
       "file": "almaya.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/almaya.ae_logodev.png"
     }
+  ],
+  "al-manara-mini-mart": [
+    {
+      "source": "worldvectorlogo",
+      "file": "al-manara-mini-mart_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-manara-mini-mart_worldvectorlogo.svg"
+    }
   ]
 }
