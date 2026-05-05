@@ -783,5 +783,12 @@
       "file": "oxygengyms.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oxygengyms.com_logodev.png"
     }
+  ],
+  "mxodidesigns.com": [
+    {
+      "source": "logodev",
+      "file": "mxodidesigns.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mxodidesigns.com_logodev.png"
+    }
   ]
 }
