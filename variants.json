@@ -2603,5 +2603,17 @@
       "file": "alijaza.ae_worldvectorlogo.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alijaza.ae_worldvectorlogo.svg"
     }
+  ],
+  "bluewatersdubai.ae": [
+    {
+      "source": "favicon",
+      "file": "bluewatersdubai.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bluewatersdubai.ae_favicon.png"
+    },
+    {
+      "source": "logodev",
+      "file": "bluewatersdubai.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bluewatersdubai.ae_logodev.png"
+    }
   ]
 }
