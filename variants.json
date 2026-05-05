@@ -1234,5 +1234,32 @@
       "file": "gatheron.ae_wikipedia.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gatheron.ae_wikipedia.svg"
     }
+  ],
+  "store.supercell.com": [
+    {
+      "source": "favicon",
+      "file": "store.supercell.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/store.supercell.com_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "store.supercell.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/store.supercell.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "store.supercell.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/store.supercell.com_wikipedia.svg"
+    },
+    {
+      "source": "seeklogo",
+      "file": "store.supercell.com_seeklogo.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/store.supercell.com_seeklogo.png"
+    },
+    {
+      "source": "logodev",
+      "file": "store.supercell.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/store.supercell.com_logodev.png"
+    }
   ]
 }
