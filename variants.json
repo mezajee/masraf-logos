@@ -910,5 +910,22 @@
       "file": "emiratesparkings.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emiratesparkings.com_logodev.png"
     }
+  ],
+  "digitaldubai.ae": [
+    {
+      "source": "worldvectorlogo",
+      "file": "digitaldubai.ae_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/digitaldubai.ae_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "digitaldubai.ae_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/digitaldubai.ae_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "digitaldubai.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/digitaldubai.ae_logodev.png"
+    }
   ]
 }
