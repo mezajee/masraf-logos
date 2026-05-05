@@ -3134,5 +3134,12 @@
       "file": "temu.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/temu.com_logodev.png"
     }
+  ],
+  "loopdubai.com": [
+    {
+      "source": "wikipedia",
+      "file": "loopdubai.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/loopdubai.com_wikipedia.svg"
+    }
   ]
 }
