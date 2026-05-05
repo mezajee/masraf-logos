@@ -5,5 +5,22 @@
       "file": "puzzlesupps.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/puzzlesupps.com_logodev.png"
     }
+  ],
+  "bigtbarbecue.com": [
+    {
+      "source": "favicon",
+      "file": "bigtbarbecue.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bigtbarbecue.com_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "bigtbarbecue.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bigtbarbecue.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "bigtbarbecue.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bigtbarbecue.com_wikipedia.svg"
+    }
   ]
 }
