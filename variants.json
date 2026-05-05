@@ -1741,5 +1741,12 @@
       "file": "ae.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ae.com_logodev.png"
     }
+  ],
+  "sellpass.io": [
+    {
+      "source": "logodev",
+      "file": "sellpass.io_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sellpass.io_logodev.png"
+    }
   ]
 }
