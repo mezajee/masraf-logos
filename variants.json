@@ -2550,5 +2550,17 @@
       "file": "sea.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sea.com_logodev.png"
     }
+  ],
+  "wejdancafe.com": [
+    {
+      "source": "favicon",
+      "file": "wejdancafe.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wejdancafe.com_favicon.png"
+    },
+    {
+      "source": "logodev",
+      "file": "wejdancafe.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wejdancafe.com_logodev.png"
+    }
   ]
 }
