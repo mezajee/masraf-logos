@@ -2856,5 +2856,17 @@
       "file": "jeanblancsports.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/jeanblancsports.com_logodev.png"
     }
+  ],
+  "s3v.com": [
+    {
+      "source": "favicon",
+      "file": "s3v.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/s3v.com_favicon.png"
+    },
+    {
+      "source": "logodev",
+      "file": "s3v.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/s3v.com_logodev.png"
+    }
   ]
 }
