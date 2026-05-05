@@ -3785,5 +3785,22 @@
       "file": "iex.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/iex.ae_logodev.png"
     }
+  ],
+  "store.steampowered.com": [
+    {
+      "source": "favicon",
+      "file": "store.steampowered.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/store.steampowered.com_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "store.steampowered.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/store.steampowered.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "store.steampowered.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/store.steampowered.com_logodev.png"
+    }
   ]
 }
