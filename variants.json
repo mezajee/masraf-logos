@@ -3802,5 +3802,27 @@
       "file": "store.steampowered.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/store.steampowered.com_logodev.png"
     }
+  ],
+  "apple.com": [
+    {
+      "source": "favicon",
+      "file": "apple.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/apple.com_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "apple.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/apple.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "seeklogo",
+      "file": "apple.com_seeklogo.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/apple.com_seeklogo.png"
+    },
+    {
+      "source": "logodev",
+      "file": "apple.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/apple.com_logodev.png"
+    }
   ]
 }
