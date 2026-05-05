@@ -1046,5 +1046,17 @@
       "file": "ounass.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ounass.com_logodev.png"
     }
+  ],
+  "ae.haagendazsmea.com": [
+    {
+      "source": "wikipedia",
+      "file": "ae.haagendazsmea.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ae.haagendazsmea.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "ae.haagendazsmea.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ae.haagendazsmea.com_logodev.png"
+    }
   ]
 }
