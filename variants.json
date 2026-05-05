@@ -1864,5 +1864,22 @@
       "file": "lululemon.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lululemon.com_logodev.png"
     }
+  ],
+  "urbanoutfitters.com": [
+    {
+      "source": "worldvectorlogo",
+      "file": "urbanoutfitters.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/urbanoutfitters.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "urbanoutfitters.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/urbanoutfitters.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "urbanoutfitters.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/urbanoutfitters.com_logodev.png"
+    }
   ]
 }
