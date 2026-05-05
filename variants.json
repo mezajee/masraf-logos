@@ -1813,5 +1813,22 @@
       "file": "qkoasianmarket.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/qkoasianmarket.com_logodev.png"
     }
+  ],
+  "dintaifungae.com": [
+    {
+      "source": "favicon",
+      "file": "dintaifungae.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dintaifungae.com_favicon.png"
+    },
+    {
+      "source": "wikipedia",
+      "file": "dintaifungae.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dintaifungae.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "dintaifungae.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dintaifungae.com_logodev.png"
+    }
   ]
 }
