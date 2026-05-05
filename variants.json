@@ -1656,5 +1656,12 @@
       "file": "g2g.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/g2g.com_logodev.png"
     }
+  ],
+  "sit-el-kull": [
+    {
+      "source": "worldvectorlogo",
+      "file": "sit-el-kull_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sit-el-kull_worldvectorlogo.svg"
+    }
   ]
 }
