@@ -3920,5 +3920,17 @@
       "file": "lego.me_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lego.me_logodev.png"
     }
+  ],
+  "atbdubai.com": [
+    {
+      "source": "favicon",
+      "file": "atbdubai.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/atbdubai.com_favicon.png"
+    },
+    {
+      "source": "logodev",
+      "file": "atbdubai.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/atbdubai.com_logodev.png"
+    }
   ]
 }
