@@ -2574,5 +2574,27 @@
       "file": "cafu.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cafu.com_logodev.png"
     }
+  ],
+  "carrefouruae.com": [
+    {
+      "source": "favicon",
+      "file": "carrefouruae.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/carrefouruae.com_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "carrefouruae.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/carrefouruae.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "carrefouruae.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/carrefouruae.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "carrefouruae.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/carrefouruae.com_logodev.png"
+    }
   ]
 }
