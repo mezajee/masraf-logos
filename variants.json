@@ -2721,5 +2721,22 @@
       "file": "self-des-bosses_worldvectorlogo.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/self-des-bosses_worldvectorlogo.svg"
     }
+  ],
+  "lepilatus.com": [
+    {
+      "source": "favicon",
+      "file": "lepilatus.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lepilatus.com_favicon.png"
+    },
+    {
+      "source": "wikipedia",
+      "file": "lepilatus.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lepilatus.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "lepilatus.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lepilatus.com_logodev.png"
+    }
   ]
 }
