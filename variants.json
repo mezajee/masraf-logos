@@ -2056,5 +2056,12 @@
       "file": "virginmegastore.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/virginmegastore.ae_logodev.png"
     }
+  ],
+  "cavo-espresso-bar": [
+    {
+      "source": "seeklogo",
+      "file": "cavo-espresso-bar_seeklogo.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cavo-espresso-bar_seeklogo.png"
+    }
   ]
 }
