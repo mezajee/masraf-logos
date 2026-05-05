@@ -3576,5 +3576,12 @@
       "file": "al-khawaneej-pharmacy.business.site_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-khawaneej-pharmacy.business.site_logodev.png"
     }
+  ],
+  "abprinthouse.com": [
+    {
+      "source": "worldvectorlogo",
+      "file": "abprinthouse.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/abprinthouse.com_worldvectorlogo.svg"
+    }
   ]
 }
