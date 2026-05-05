@@ -1423,5 +1423,17 @@
       "file": "asma.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/asma.ae_logodev.png"
     }
+  ],
+  "selfridges.com": [
+    {
+      "source": "wikipedia",
+      "file": "selfridges.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/selfridges.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "selfridges.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/selfridges.com_logodev.png"
+    }
   ]
 }
