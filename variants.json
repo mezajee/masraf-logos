@@ -2402,5 +2402,22 @@
       "file": "pullandbear.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pullandbear.com_logodev.png"
     }
+  ],
+  "etisalat.ae": [
+    {
+      "source": "worldvectorlogo",
+      "file": "etisalat.ae_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/etisalat.ae_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "etisalat.ae_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/etisalat.ae_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "etisalat.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/etisalat.ae_logodev.png"
+    }
   ]
 }
