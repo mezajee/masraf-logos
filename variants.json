@@ -107,5 +107,12 @@
       "file": "li.me_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/li.me_logodev.png"
     }
+  ],
+  "delore.uk": [
+    {
+      "source": "logodev",
+      "file": "delore.uk_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/delore.uk_logodev.png"
+    }
   ]
 }
