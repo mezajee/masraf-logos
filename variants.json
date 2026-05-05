@@ -720,5 +720,22 @@
       "file": "uae.voxcinemas.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uae.voxcinemas.com_logodev.png"
     }
+  ],
+  "synkro.club": [
+    {
+      "source": "wikipedia",
+      "file": "synkro.club_wikipedia.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/synkro.club_wikipedia.png"
+    },
+    {
+      "source": "logodev_name",
+      "file": "synkro.club_logodev_name.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/synkro.club_logodev_name.png"
+    },
+    {
+      "source": "logodev",
+      "file": "synkro.club_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/synkro.club_logodev.png"
+    }
   ]
 }
