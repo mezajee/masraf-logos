@@ -1094,5 +1094,22 @@
       "file": "ahdubai.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ahdubai.com_logodev.png"
     }
+  ],
+  "acaihub.ae": [
+    {
+      "source": "favicon",
+      "file": "acaihub.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/acaihub.ae_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "acaihub.ae_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/acaihub.ae_worldvectorlogo.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "acaihub.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/acaihub.ae_logodev.png"
+    }
   ]
 }
