@@ -1542,5 +1542,27 @@
       "file": "maxfashion.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maxfashion.com_logodev.png"
     }
+  ],
+  "daralmarefa.ae": [
+    {
+      "source": "favicon",
+      "file": "daralmarefa.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/daralmarefa.ae_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "daralmarefa.ae_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/daralmarefa.ae_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "daralmarefa.ae_wikipedia.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/daralmarefa.ae_wikipedia.png"
+    },
+    {
+      "source": "logodev",
+      "file": "daralmarefa.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/daralmarefa.ae_logodev.png"
+    }
   ]
 }
