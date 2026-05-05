@@ -1719,5 +1719,27 @@
       "file": "altayer.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/altayer.com_logodev.png"
     }
+  ],
+  "ae.com": [
+    {
+      "source": "favicon",
+      "file": "ae.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ae.com_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "ae.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ae.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "ae.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ae.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "ae.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ae.com_logodev.png"
+    }
   ]
 }
