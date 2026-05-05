@@ -234,5 +234,17 @@
       "file": "selectshopframe.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/selectshopframe.com_logodev.png"
     }
+  ],
+  "delmamarineuae.com": [
+    {
+      "source": "favicon",
+      "file": "delmamarineuae.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/delmamarineuae.com_favicon.png"
+    },
+    {
+      "source": "logodev",
+      "file": "delmamarineuae.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/delmamarineuae.com_logodev.png"
+    }
   ]
 }
