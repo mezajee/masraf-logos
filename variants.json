@@ -1065,5 +1065,22 @@
       "file": "drivu.co_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/drivu.co_logodev.png"
     }
+  ],
+  "justgroup.ae": [
+    {
+      "source": "favicon",
+      "file": "justgroup.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/justgroup.ae_favicon.png"
+    },
+    {
+      "source": "wikipedia",
+      "file": "justgroup.ae_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/justgroup.ae_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "justgroup.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/justgroup.ae_logodev.png"
+    }
   ]
 }
