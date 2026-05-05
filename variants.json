@@ -3824,5 +3824,17 @@
       "file": "apple.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/apple.com_logodev.png"
     }
+  ],
+  "xstrike.com": [
+    {
+      "source": "favicon",
+      "file": "xstrike.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xstrike.com_favicon.png"
+    },
+    {
+      "source": "logodev",
+      "file": "xstrike.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xstrike.com_logodev.png"
+    }
   ]
 }
