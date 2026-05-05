@@ -2162,5 +2162,17 @@
       "file": "asmaasgroup.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/asmaasgroup.com_logodev.png"
     }
+  ],
+  "cipriani.com": [
+    {
+      "source": "favicon",
+      "file": "cipriani.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cipriani.com_favicon.png"
+    },
+    {
+      "source": "logodev",
+      "file": "cipriani.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cipriani.com_logodev.png"
+    }
   ]
 }
