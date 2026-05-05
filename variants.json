@@ -1203,5 +1203,17 @@
       "file": "rimowa.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rimowa.com_logodev.png"
     }
+  ],
+  "laifai.ae": [
+    {
+      "source": "favicon",
+      "file": "laifai.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/laifai.ae_favicon.png"
+    },
+    {
+      "source": "logodev",
+      "file": "laifai.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/laifai.ae_logodev.png"
+    }
   ]
 }
