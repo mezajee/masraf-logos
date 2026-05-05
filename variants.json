@@ -2315,5 +2315,17 @@
       "file": "alyousuf.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alyousuf.com_logodev.png"
     }
+  ],
+  "rumailahfarms.com": [
+    {
+      "source": "favicon",
+      "file": "rumailahfarms.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rumailahfarms.com_favicon.png"
+    },
+    {
+      "source": "logodev",
+      "file": "rumailahfarms.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rumailahfarms.com_logodev.png"
+    }
   ]
 }
