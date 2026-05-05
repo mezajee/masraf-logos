@@ -1135,5 +1135,27 @@
       "file": "c10-cafe_wikipedia.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/c10-cafe_wikipedia.svg"
     }
+  ],
+  "pinkberryme.com": [
+    {
+      "source": "favicon",
+      "file": "pinkberryme.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pinkberryme.com_favicon.png"
+    },
+    {
+      "source": "wikipedia",
+      "file": "pinkberryme.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pinkberryme.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev_name",
+      "file": "pinkberryme.com_logodev_name.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pinkberryme.com_logodev_name.png"
+    },
+    {
+      "source": "logodev",
+      "file": "pinkberryme.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pinkberryme.com_logodev.png"
+    }
   ]
 }
