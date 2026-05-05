@@ -1748,5 +1748,17 @@
       "file": "sellpass.io_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sellpass.io_logodev.png"
     }
+  ],
+  "efzinfresh.com": [
+    {
+      "source": "favicon",
+      "file": "efzinfresh.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/efzinfresh.com_favicon.png"
+    },
+    {
+      "source": "logodev",
+      "file": "efzinfresh.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/efzinfresh.com_logodev.png"
+    }
   ]
 }
