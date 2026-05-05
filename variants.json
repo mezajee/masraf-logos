@@ -294,5 +294,27 @@
       "file": "nintendo.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nintendo.com_logodev.png"
     }
+  ],
+  "uae.sharafdg.com": [
+    {
+      "source": "favicon",
+      "file": "uae.sharafdg.com_favicon.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uae.sharafdg.com_favicon.jpg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "uae.sharafdg.com_wikipedia.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uae.sharafdg.com_wikipedia.png"
+    },
+    {
+      "source": "logodev_name",
+      "file": "uae.sharafdg.com_logodev_name.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uae.sharafdg.com_logodev_name.png"
+    },
+    {
+      "source": "logodev",
+      "file": "uae.sharafdg.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uae.sharafdg.com_logodev.png"
+    }
   ]
 }
