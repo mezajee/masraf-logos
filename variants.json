@@ -1157,5 +1157,22 @@
       "file": "pinkberryme.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pinkberryme.com_logodev.png"
     }
+  ],
+  "eatkokoro.xyz": [
+    {
+      "source": "favicon",
+      "file": "eatkokoro.xyz_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eatkokoro.xyz_favicon.png"
+    },
+    {
+      "source": "seeklogo",
+      "file": "eatkokoro.xyz_seeklogo.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eatkokoro.xyz_seeklogo.png"
+    },
+    {
+      "source": "logodev",
+      "file": "eatkokoro.xyz_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eatkokoro.xyz_logodev.png"
+    }
   ]
 }
