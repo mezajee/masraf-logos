@@ -2220,5 +2220,17 @@
       "file": "lineproperty.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lineproperty.com_logodev.png"
     }
+  ],
+  "3fils.com": [
+    {
+      "source": "favicon",
+      "file": "3fils.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/3fils.com_favicon.png"
+    },
+    {
+      "source": "logodev",
+      "file": "3fils.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/3fils.com_logodev.png"
+    }
   ]
 }
