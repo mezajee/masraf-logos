@@ -2063,5 +2063,27 @@
       "file": "cavo-espresso-bar_seeklogo.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cavo-espresso-bar_seeklogo.png"
     }
+  ],
+  "alboommarine.com": [
+    {
+      "source": "favicon",
+      "file": "alboommarine.com_favicon.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alboommarine.com_favicon.jpg"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "alboommarine.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alboommarine.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "alboommarine.com_wikipedia.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alboommarine.com_wikipedia.png"
+    },
+    {
+      "source": "logodev",
+      "file": "alboommarine.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alboommarine.com_logodev.png"
+    }
   ]
 }
