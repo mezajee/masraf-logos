@@ -560,5 +560,17 @@
       "file": "cznburak.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cznburak.com_logodev.png"
     }
+  ],
+  "wrap-and-crunch": [
+    {
+      "source": "wikipedia",
+      "file": "wrap-and-crunch_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wrap-and-crunch_wikipedia.svg"
+    },
+    {
+      "source": "seeklogo",
+      "file": "wrap-and-crunch_seeklogo.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wrap-and-crunch_seeklogo.png"
+    }
   ]
 }
