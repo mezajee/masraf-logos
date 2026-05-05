@@ -1881,5 +1881,27 @@
       "file": "urbanoutfitters.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/urbanoutfitters.com_logodev.png"
     }
+  ],
+  "atlantis.com": [
+    {
+      "source": "favicon",
+      "file": "atlantis.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/atlantis.com_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "atlantis.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/atlantis.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "atlantis.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/atlantis.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "atlantis.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/atlantis.com_logodev.png"
+    }
   ]
 }
