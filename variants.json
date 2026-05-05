@@ -2453,5 +2453,12 @@
       "file": "calo.app_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/calo.app_logodev.png"
     }
+  ],
+  "tea-flo-cafeteria": [
+    {
+      "source": "wikipedia",
+      "file": "tea-flo-cafeteria_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tea-flo-cafeteria_wikipedia.svg"
+    }
   ]
 }
