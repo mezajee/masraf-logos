@@ -3720,5 +3720,12 @@
       "file": "asterhospitals.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/asterhospitals.ae_logodev.png"
     }
+  ],
+  "unknown-paypal-merchant": [
+    {
+      "source": "wikipedia",
+      "file": "unknown-paypal-merchant_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/unknown-paypal-merchant_wikipedia.svg"
+    }
   ]
 }
