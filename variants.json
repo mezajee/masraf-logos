@@ -2781,5 +2781,22 @@
       "file": "raspoutine.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/raspoutine.com_logodev.png"
     }
+  ],
+  "maisontournier.com": [
+    {
+      "source": "worldvectorlogo",
+      "file": "maisontournier.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maisontournier.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "maisontournier.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maisontournier.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "maisontournier.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maisontournier.com_logodev.png"
+    }
   ]
 }
