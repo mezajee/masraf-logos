@@ -3583,5 +3583,22 @@
       "file": "abprinthouse.com_worldvectorlogo.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/abprinthouse.com_worldvectorlogo.svg"
     }
+  ],
+  "ifortuna.cz": [
+    {
+      "source": "worldvectorlogo",
+      "file": "ifortuna.cz_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ifortuna.cz_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "ifortuna.cz_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ifortuna.cz_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "ifortuna.cz_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ifortuna.cz_logodev.png"
+    }
   ]
 }
