@@ -3418,5 +3418,12 @@
       "file": "planetme.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/planetme.ae_logodev.png"
     }
+  ],
+  "al-shara-computers-mobiles": [
+    {
+      "source": "worldvectorlogo",
+      "file": "al-shara-computers-mobiles_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-shara-computers-mobiles_worldvectorlogo.svg"
+    }
   ]
 }
