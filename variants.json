@@ -39,5 +39,17 @@
       "file": "rozebiohealth.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rozebiohealth.com_logodev.png"
     }
+  ],
+  "easytip.net": [
+    {
+      "source": "favicon",
+      "file": "easytip.net_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/easytip.net_favicon.png"
+    },
+    {
+      "source": "logodev",
+      "file": "easytip.net_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/easytip.net_logodev.png"
+    }
   ]
 }
