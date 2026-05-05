@@ -3206,5 +3206,17 @@
       "file": "globalvillage.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/globalvillage.ae_logodev.png"
     }
+  ],
+  "tickete.co": [
+    {
+      "source": "favicon",
+      "file": "tickete.co_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tickete.co_favicon.png"
+    },
+    {
+      "source": "logodev",
+      "file": "tickete.co_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tickete.co_logodev.png"
+    }
   ]
 }
