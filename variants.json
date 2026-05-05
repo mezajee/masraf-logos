@@ -1663,5 +1663,32 @@
       "file": "sit-el-kull_worldvectorlogo.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sit-el-kull_worldvectorlogo.svg"
     }
+  ],
+  "massimodutti.com": [
+    {
+      "source": "favicon",
+      "file": "massimodutti.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/massimodutti.com_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "massimodutti.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/massimodutti.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "massimodutti.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/massimodutti.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev_name",
+      "file": "massimodutti.com_logodev_name.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/massimodutti.com_logodev_name.png"
+    },
+    {
+      "source": "logodev",
+      "file": "massimodutti.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/massimodutti.com_logodev.png"
+    }
   ]
 }
