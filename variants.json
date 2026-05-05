@@ -2126,5 +2126,17 @@
       "file": "marly-perfume-and-beauty_seeklogo.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/marly-perfume-and-beauty_seeklogo.png"
     }
+  ],
+  "pdl-dubai.com": [
+    {
+      "source": "wikipedia",
+      "file": "pdl-dubai.com_wikipedia.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pdl-dubai.com_wikipedia.png"
+    },
+    {
+      "source": "logodev",
+      "file": "pdl-dubai.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pdl-dubai.com_logodev.png"
+    }
   ]
 }
