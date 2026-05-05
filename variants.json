@@ -1903,5 +1903,22 @@
       "file": "atlantis.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/atlantis.com_logodev.png"
     }
+  ],
+  "aquaventureworld.com": [
+    {
+      "source": "favicon",
+      "file": "aquaventureworld.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aquaventureworld.com_favicon.png"
+    },
+    {
+      "source": "wikipedia",
+      "file": "aquaventureworld.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aquaventureworld.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "aquaventureworld.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aquaventureworld.com_logodev.png"
+    }
   ]
 }
