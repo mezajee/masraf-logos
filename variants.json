@@ -3734,5 +3734,22 @@
       "file": "darkroomdubai.com_wikipedia.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/darkroomdubai.com_wikipedia.svg"
     }
+  ],
+  "champion.com": [
+    {
+      "source": "worldvectorlogo",
+      "file": "champion.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/champion.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "champion.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/champion.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "champion.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/champion.com_logodev.png"
+    }
   ]
 }
