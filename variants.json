@@ -2868,5 +2868,27 @@
       "file": "s3v.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/s3v.com_logodev.png"
     }
+  ],
+  "ski-service.fr": [
+    {
+      "source": "favicon",
+      "file": "ski-service.fr_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ski-service.fr_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "ski-service.fr_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ski-service.fr_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "ski-service.fr_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ski-service.fr_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "ski-service.fr_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ski-service.fr_logodev.png"
+    }
   ]
 }
