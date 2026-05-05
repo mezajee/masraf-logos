@@ -1341,5 +1341,22 @@
       "file": "eleven-green.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eleven-green.com_logodev.png"
     }
+  ],
+  "aliexpress.com": [
+    {
+      "source": "favicon",
+      "file": "aliexpress.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aliexpress.com_favicon.png"
+    },
+    {
+      "source": "wikipedia",
+      "file": "aliexpress.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aliexpress.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "aliexpress.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aliexpress.com_logodev.png"
+    }
   ]
 }
