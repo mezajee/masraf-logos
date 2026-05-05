@@ -1760,5 +1760,22 @@
       "file": "efzinfresh.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/efzinfresh.com_logodev.png"
     }
+  ],
+  "moe.gov.ae": [
+    {
+      "source": "favicon",
+      "file": "moe.gov.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/moe.gov.ae_favicon.png"
+    },
+    {
+      "source": "wikipedia",
+      "file": "moe.gov.ae_wikipedia.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/moe.gov.ae_wikipedia.png"
+    },
+    {
+      "source": "logodev",
+      "file": "moe.gov.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/moe.gov.ae_logodev.png"
+    }
   ]
 }
