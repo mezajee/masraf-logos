@@ -2232,5 +2232,27 @@
       "file": "3fils.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/3fils.com_logodev.png"
     }
+  ],
+  "aceuae.com": [
+    {
+      "source": "worldvectorlogo",
+      "file": "aceuae.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aceuae.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "aceuae.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aceuae.com_wikipedia.svg"
+    },
+    {
+      "source": "seeklogo",
+      "file": "aceuae.com_seeklogo.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aceuae.com_seeklogo.png"
+    },
+    {
+      "source": "logodev",
+      "file": "aceuae.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aceuae.com_logodev.png"
+    }
   ]
 }
