@@ -2897,5 +2897,22 @@
       "file": "sixsenses.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sixsenses.com_logodev.png"
     }
+  ],
+  "dubaidutyfree.com": [
+    {
+      "source": "favicon",
+      "file": "dubaidutyfree.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dubaidutyfree.com_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "dubaidutyfree.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dubaidutyfree.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "dubaidutyfree.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dubaidutyfree.com_logodev.png"
+    }
   ]
 }
