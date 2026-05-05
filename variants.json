@@ -3059,5 +3059,22 @@
       "file": "mycandyhearts.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mycandyhearts.com_logodev.png"
     }
+  ],
+  "performancetuning.ae": [
+    {
+      "source": "favicon",
+      "file": "performancetuning.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/performancetuning.ae_favicon.png"
+    },
+    {
+      "source": "wikipedia",
+      "file": "performancetuning.ae_wikipedia.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/performancetuning.ae_wikipedia.png"
+    },
+    {
+      "source": "logodev",
+      "file": "performancetuning.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/performancetuning.ae_logodev.png"
+    }
   ]
 }
