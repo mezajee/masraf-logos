@@ -1515,5 +1515,32 @@
       "file": "gamestreet.ae_wikipedia.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gamestreet.ae_wikipedia.svg"
     }
+  ],
+  "maxfashion.com": [
+    {
+      "source": "favicon",
+      "file": "maxfashion.com_favicon.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maxfashion.com_favicon.jpg"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "maxfashion.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maxfashion.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "maxfashion.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maxfashion.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev_name",
+      "file": "maxfashion.com_logodev_name.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maxfashion.com_logodev_name.png"
+    },
+    {
+      "source": "logodev",
+      "file": "maxfashion.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maxfashion.com_logodev.png"
+    }
   ]
 }
