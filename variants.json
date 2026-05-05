@@ -3314,5 +3314,27 @@
       "file": "saddledubai.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/saddledubai.com_logodev.png"
     }
+  ],
+  "alnoorrashidiya.com": [
+    {
+      "source": "favicon",
+      "file": "alnoorrashidiya.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alnoorrashidiya.com_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "alnoorrashidiya.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alnoorrashidiya.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "alnoorrashidiya.com_wikipedia.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alnoorrashidiya.com_wikipedia.jpg"
+    },
+    {
+      "source": "logodev",
+      "file": "alnoorrashidiya.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alnoorrashidiya.com_logodev.png"
+    }
   ]
 }
