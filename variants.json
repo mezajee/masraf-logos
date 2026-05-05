@@ -3182,5 +3182,12 @@
       "file": "homebakery.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/homebakery.ae_logodev.png"
     }
+  ],
+  "parkonic.com": [
+    {
+      "source": "logodev",
+      "file": "parkonic.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/parkonic.com_logodev.png"
+    }
   ]
 }
