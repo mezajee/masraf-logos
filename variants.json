@@ -1174,5 +1174,17 @@
       "file": "eatkokoro.xyz_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eatkokoro.xyz_logodev.png"
     }
+  ],
+  "binsina.ae": [
+    {
+      "source": "favicon",
+      "file": "binsina.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/binsina.ae_favicon.png"
+    },
+    {
+      "source": "logodev",
+      "file": "binsina.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/binsina.ae_logodev.png"
+    }
   ]
 }
