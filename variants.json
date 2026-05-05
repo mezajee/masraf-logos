@@ -1564,5 +1564,17 @@
       "file": "daralmarefa.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/daralmarefa.ae_logodev.png"
     }
+  ],
+  "ae.loccitane.com": [
+    {
+      "source": "wikipedia",
+      "file": "ae.loccitane.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ae.loccitane.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "ae.loccitane.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ae.loccitane.com_logodev.png"
+    }
   ]
 }
