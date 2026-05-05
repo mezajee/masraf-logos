@@ -1457,5 +1457,22 @@
       "file": "sita.aero_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sita.aero_logodev.png"
     }
+  ],
+  "crochet.ae": [
+    {
+      "source": "wikipedia",
+      "file": "crochet.ae_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/crochet.ae_wikipedia.svg"
+    },
+    {
+      "source": "logodev_name",
+      "file": "crochet.ae_logodev_name.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/crochet.ae_logodev_name.png"
+    },
+    {
+      "source": "logodev",
+      "file": "crochet.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/crochet.ae_logodev.png"
+    }
   ]
 }
