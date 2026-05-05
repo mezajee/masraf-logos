@@ -1491,5 +1491,17 @@
       "file": "dropdubai.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dropdubai.ae_logodev.png"
     }
+  ],
+  "alfuttaim.com": [
+    {
+      "source": "wikipedia",
+      "file": "alfuttaim.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alfuttaim.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "alfuttaim.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alfuttaim.com_logodev.png"
+    }
   ]
 }
