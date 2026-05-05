@@ -114,5 +114,17 @@
       "file": "delore.uk_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/delore.uk_logodev.png"
     }
+  ],
+  "careem.com": [
+    {
+      "source": "worldvectorlogo",
+      "file": "careem.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/careem.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "careem.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/careem.com_logodev.png"
+    }
   ]
 }
