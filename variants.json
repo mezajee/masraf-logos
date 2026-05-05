@@ -258,5 +258,12 @@
       "file": "verde-beach.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/verde-beach.com_logodev.png"
     }
+  ],
+  "al-manara-light-cafeteria": [
+    {
+      "source": "worldvectorlogo",
+      "file": "al-manara-light-cafeteria_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-manara-light-cafeteria_worldvectorlogo.svg"
+    }
   ]
 }
