@@ -1377,5 +1377,22 @@
       "file": "thesetaihotel.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thesetaihotel.com_logodev.png"
     }
+  ],
+  "ziina.com": [
+    {
+      "source": "favicon",
+      "file": "ziina.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ziina.com_favicon.png"
+    },
+    {
+      "source": "wikipedia",
+      "file": "ziina.com_wikipedia.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ziina.com_wikipedia.png"
+    },
+    {
+      "source": "logodev",
+      "file": "ziina.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ziina.com_logodev.png"
+    }
   ]
 }
