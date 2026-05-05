@@ -220,5 +220,12 @@
       "file": "neptunesystems.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/neptunesystems.com_logodev.png"
     }
+  ],
+  "goat.com": [
+    {
+      "source": "logodev",
+      "file": "goat.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/goat.com_logodev.png"
+    }
   ]
 }
