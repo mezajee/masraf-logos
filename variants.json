@@ -759,5 +759,17 @@
       "file": "coldstonearabia.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/coldstonearabia.com_logodev.png"
     }
+  ],
+  "brrnbarre.com": [
+    {
+      "source": "wikipedia",
+      "file": "brrnbarre.com_wikipedia.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/brrnbarre.com_wikipedia.jpg"
+    },
+    {
+      "source": "logodev",
+      "file": "brrnbarre.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/brrnbarre.com_logodev.png"
+    }
   ]
 }
