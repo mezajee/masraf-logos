@@ -3336,5 +3336,32 @@
       "file": "alnoorrashidiya.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alnoorrashidiya.com_logodev.png"
     }
+  ],
+  "tfl.gov.uk": [
+    {
+      "source": "favicon",
+      "file": "tfl.gov.uk_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tfl.gov.uk_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "tfl.gov.uk_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tfl.gov.uk_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "tfl.gov.uk_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tfl.gov.uk_wikipedia.svg"
+    },
+    {
+      "source": "seeklogo",
+      "file": "tfl.gov.uk_seeklogo.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tfl.gov.uk_seeklogo.png"
+    },
+    {
+      "source": "logodev",
+      "file": "tfl.gov.uk_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tfl.gov.uk_logodev.png"
+    }
   ]
 }
