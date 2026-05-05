@@ -1295,5 +1295,27 @@
       "file": "rowleysrestaurants.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rowleysrestaurants.com_logodev.png"
     }
+  ],
+  "hudsongroup.com": [
+    {
+      "source": "favicon",
+      "file": "hudsongroup.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hudsongroup.com_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "hudsongroup.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hudsongroup.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "hudsongroup.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hudsongroup.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "hudsongroup.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hudsongroup.com_logodev.png"
+    }
   ]
 }
