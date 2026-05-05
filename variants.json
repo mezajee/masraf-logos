@@ -2499,5 +2499,22 @@
       "file": "instagram.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/instagram.com_logodev.png"
     }
+  ],
+  "dm.gov.ae": [
+    {
+      "source": "favicon",
+      "file": "dm.gov.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dm.gov.ae_favicon.png"
+    },
+    {
+      "source": "wikipedia",
+      "file": "dm.gov.ae_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dm.gov.ae_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "dm.gov.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dm.gov.ae_logodev.png"
+    }
   ]
 }
