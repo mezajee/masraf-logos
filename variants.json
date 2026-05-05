@@ -3504,5 +3504,22 @@
       "file": "dealer.porsche.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dealer.porsche.com_logodev.png"
     }
+  ],
+  "enoctasjeel.com": [
+    {
+      "source": "favicon",
+      "file": "enoctasjeel.com_favicon.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/enoctasjeel.com_favicon.jpg"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "enoctasjeel.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/enoctasjeel.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "enoctasjeel.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/enoctasjeel.com_logodev.png"
+    }
   ]
 }
