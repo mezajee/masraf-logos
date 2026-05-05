@@ -3382,5 +3382,12 @@
       "file": "royalparks.org.uk_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/royalparks.org.uk_logodev.png"
     }
+  ],
+  "jshop.tech": [
+    {
+      "source": "favicon",
+      "file": "jshop.tech_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/jshop.tech_favicon.png"
+    }
   ]
 }
