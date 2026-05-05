@@ -2385,5 +2385,22 @@
       "file": "al-manara-mini-mart_worldvectorlogo.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-manara-mini-mart_worldvectorlogo.svg"
     }
+  ],
+  "pullandbear.com": [
+    {
+      "source": "worldvectorlogo",
+      "file": "pullandbear.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pullandbear.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "pullandbear.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pullandbear.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "pullandbear.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pullandbear.com_logodev.png"
+    }
   ]
 }
