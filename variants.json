@@ -2419,5 +2419,17 @@
       "file": "etisalat.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/etisalat.ae_logodev.png"
     }
+  ],
+  "wolfis.ae": [
+    {
+      "source": "favicon",
+      "file": "wolfis.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wolfis.ae_favicon.png"
+    },
+    {
+      "source": "logodev",
+      "file": "wolfis.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wolfis.ae_logodev.png"
+    }
   ]
 }
