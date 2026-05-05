@@ -357,5 +357,37 @@
       "file": "abkhajjandumrah.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/abkhajjandumrah.com_logodev.png"
     }
+  ],
+  "mastercatering.ae": [
+    {
+      "source": "favicon",
+      "file": "mastercatering.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mastercatering.ae_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "mastercatering.ae_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mastercatering.ae_worldvectorlogo.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "mastercatering.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mastercatering.ae_logodev.png"
+    },
+    {
+      "source": "favicon",
+      "file": "mastercatering.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mastercatering.ae_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "mastercatering.ae_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mastercatering.ae_worldvectorlogo.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "mastercatering.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mastercatering.ae_logodev.png"
+    }
   ]
 }
