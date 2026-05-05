@@ -3862,5 +3862,17 @@
       "file": "g2a.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/g2a.com_logodev.png"
     }
+  ],
+  "magicplanetmena.com": [
+    {
+      "source": "favicon",
+      "file": "magicplanetmena.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/magicplanetmena.com_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "magicplanetmena.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/magicplanetmena.com_worldvectorlogo.svg"
+    }
   ]
 }
