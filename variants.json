@@ -2271,5 +2271,27 @@
       "file": "hamleys.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hamleys.com_logodev.png"
     }
+  ],
+  "trekbikesuae.com": [
+    {
+      "source": "worldvectorlogo",
+      "file": "trekbikesuae.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/trekbikesuae.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "trekbikesuae.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/trekbikesuae.com_wikipedia.svg"
+    },
+    {
+      "source": "seeklogo",
+      "file": "trekbikesuae.com_seeklogo.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/trekbikesuae.com_seeklogo.png"
+    },
+    {
+      "source": "logodev",
+      "file": "trekbikesuae.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/trekbikesuae.com_logodev.png"
+    }
   ]
 }
