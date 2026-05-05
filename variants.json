@@ -3370,5 +3370,17 @@
       "file": "knoops.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/knoops.com_logodev.png"
     }
+  ],
+  "royalparks.org.uk": [
+    {
+      "source": "favicon",
+      "file": "royalparks.org.uk_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/royalparks.org.uk_favicon.png"
+    },
+    {
+      "source": "logodev",
+      "file": "royalparks.org.uk_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/royalparks.org.uk_logodev.png"
+    }
   ]
 }
