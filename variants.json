@@ -473,5 +473,17 @@
       "file": "primehealth.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/primehealth.ae_logodev.png"
     }
+  ],
+  "racks.ae": [
+    {
+      "source": "wikipedia",
+      "file": "racks.ae_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/racks.ae_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "racks.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/racks.ae_logodev.png"
+    }
   ]
 }
