@@ -432,5 +432,27 @@
       "file": "kumo.uae_logodev_name.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kumo.uae_logodev_name.png"
     }
+  ],
+  "emirates.com": [
+    {
+      "source": "favicon",
+      "file": "emirates.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emirates.com_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "emirates.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emirates.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "emirates.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emirates.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "emirates.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emirates.com_logodev.png"
+    }
   ]
 }
