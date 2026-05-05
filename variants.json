@@ -944,5 +944,22 @@
       "file": "whop.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/whop.com_logodev.png"
     }
+  ],
+  "aeliadutyfree.ch": [
+    {
+      "source": "favicon",
+      "file": "aeliadutyfree.ch_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aeliadutyfree.ch_favicon.png"
+    },
+    {
+      "source": "wikipedia",
+      "file": "aeliadutyfree.ch_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aeliadutyfree.ch_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "aeliadutyfree.ch_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aeliadutyfree.ch_logodev.png"
+    }
   ]
 }
