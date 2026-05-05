@@ -2174,5 +2174,22 @@
       "file": "cipriani.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cipriani.com_logodev.png"
     }
+  ],
+  "ae.boots.com": [
+    {
+      "source": "worldvectorlogo",
+      "file": "ae.boots.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ae.boots.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "ae.boots.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ae.boots.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "ae.boots.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ae.boots.com_logodev.png"
+    }
   ]
 }
