@@ -1215,5 +1215,17 @@
       "file": "laifai.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/laifai.ae_logodev.png"
     }
+  ],
+  "bismi.com": [
+    {
+      "source": "favicon",
+      "file": "bismi.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_favicon.png"
+    },
+    {
+      "source": "logodev",
+      "file": "bismi.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_logodev.png"
+    }
   ]
 }
