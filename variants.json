@@ -2714,5 +2714,12 @@
       "file": "gulfservice.ch_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gulfservice.ch_logodev.png"
     }
+  ],
+  "self-des-bosses": [
+    {
+      "source": "worldvectorlogo",
+      "file": "self-des-bosses_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/self-des-bosses_worldvectorlogo.svg"
+    }
   ]
 }
