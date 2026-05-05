@@ -2114,5 +2114,17 @@
       "file": "letustakeyousomewhere.com_logodev_name.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/letustakeyousomewhere.com_logodev_name.png"
     }
+  ],
+  "marly-perfume-and-beauty": [
+    {
+      "source": "wikipedia",
+      "file": "marly-perfume-and-beauty_wikipedia.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/marly-perfume-and-beauty_wikipedia.jpg"
+    },
+    {
+      "source": "seeklogo",
+      "file": "marly-perfume-and-beauty_seeklogo.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/marly-perfume-and-beauty_seeklogo.png"
+    }
   ]
 }
