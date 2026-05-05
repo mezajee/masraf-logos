@@ -2615,5 +2615,17 @@
       "file": "bluewatersdubai.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bluewatersdubai.ae_logodev.png"
     }
+  ],
+  "theroxycinemas.com": [
+    {
+      "source": "worldvectorlogo",
+      "file": "theroxycinemas.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/theroxycinemas.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "theroxycinemas.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/theroxycinemas.com_logodev.png"
+    }
   ]
 }
