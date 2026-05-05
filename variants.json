@@ -3703,5 +3703,22 @@
       "file": "mumayaz.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mumayaz.ae_logodev.png"
     }
+  ],
+  "asterhospitals.ae": [
+    {
+      "source": "worldvectorlogo",
+      "file": "asterhospitals.ae_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/asterhospitals.ae_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "asterhospitals.ae_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/asterhospitals.ae_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "asterhospitals.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/asterhospitals.ae_logodev.png"
+    }
   ]
 }
