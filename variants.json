@@ -3686,5 +3686,22 @@
       "file": "sssports.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sssports.com_logodev.png"
     }
+  ],
+  "mumayaz.ae": [
+    {
+      "source": "favicon",
+      "file": "mumayaz.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mumayaz.ae_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "mumayaz.ae_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mumayaz.ae_worldvectorlogo.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "mumayaz.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mumayaz.ae_logodev.png"
+    }
   ]
 }
