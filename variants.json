@@ -898,5 +898,17 @@
       "file": "unioncoop.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/unioncoop.ae_logodev.png"
     }
+  ],
+  "emiratesparkings.com": [
+    {
+      "source": "wikipedia",
+      "file": "emiratesparkings.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emiratesparkings.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "emiratesparkings.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emiratesparkings.com_logodev.png"
+    }
   ]
 }
