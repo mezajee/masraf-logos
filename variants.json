@@ -1690,5 +1690,17 @@
       "file": "massimodutti.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/massimodutti.com_logodev.png"
     }
+  ],
+  "derek-rose.com": [
+    {
+      "source": "wikipedia",
+      "file": "derek-rose.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/derek-rose.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "derek-rose.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/derek-rose.com_logodev.png"
+    }
   ]
 }
