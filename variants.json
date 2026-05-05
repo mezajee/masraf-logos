@@ -2000,5 +2000,22 @@
       "file": "lpmrestaurants.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lpmrestaurants.com_logodev.png"
     }
+  ],
+  "amazon.ae": [
+    {
+      "source": "worldvectorlogo",
+      "file": "amazon.ae_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/amazon.ae_worldvectorlogo.svg"
+    },
+    {
+      "source": "logodev_name",
+      "file": "amazon.ae_logodev_name.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/amazon.ae_logodev_name.png"
+    },
+    {
+      "source": "logodev",
+      "file": "amazon.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/amazon.ae_logodev.png"
+    }
   ]
 }
