@@ -802,5 +802,17 @@
       "file": "maramijewelry.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maramijewelry.com_logodev.png"
     }
+  ],
+  "izzy-restaurant": [
+    {
+      "source": "worldvectorlogo",
+      "file": "izzy-restaurant_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/izzy-restaurant_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "izzy-restaurant_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/izzy-restaurant_wikipedia.svg"
+    }
   ]
 }
