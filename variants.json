@@ -389,5 +389,17 @@
       "file": "mastercatering.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mastercatering.ae_logodev.png"
     }
+  ],
+  "teatimecafeteria.com": [
+    {
+      "source": "worldvectorlogo",
+      "file": "teatimecafeteria.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/teatimecafeteria.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "teatimecafeteria.com_wikipedia.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/teatimecafeteria.com_wikipedia.png"
+    }
   ]
 }
