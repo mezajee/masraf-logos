@@ -3874,5 +3874,17 @@
       "file": "magicplanetmena.com_worldvectorlogo.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/magicplanetmena.com_worldvectorlogo.svg"
     }
+  ],
+  "samuraisushi.ae": [
+    {
+      "source": "favicon",
+      "file": "samuraisushi.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/samuraisushi.ae_favicon.png"
+    },
+    {
+      "source": "wikipedia",
+      "file": "samuraisushi.ae_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/samuraisushi.ae_wikipedia.svg"
+    }
   ]
 }
