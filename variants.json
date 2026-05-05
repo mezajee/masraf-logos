@@ -828,5 +828,17 @@
       "file": "otocoffee.ae_wikipedia.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/otocoffee.ae_wikipedia.svg"
     }
+  ],
+  "trucafe.ae": [
+    {
+      "source": "worldvectorlogo",
+      "file": "trucafe.ae_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/trucafe.ae_worldvectorlogo.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "trucafe.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/trucafe.ae_logodev.png"
+    }
   ]
 }
