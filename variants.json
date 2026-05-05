@@ -3538,5 +3538,17 @@
       "file": "gsstations.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gsstations.ae_logodev.png"
     }
+  ],
+  "aseertime.com": [
+    {
+      "source": "favicon",
+      "file": "aseertime.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aseertime.com_favicon.png"
+    },
+    {
+      "source": "logodev",
+      "file": "aseertime.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aseertime.com_logodev.png"
+    }
   ]
 }
