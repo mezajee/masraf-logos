@@ -3768,5 +3768,22 @@
       "file": "emarat.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emarat.ae_logodev.png"
     }
+  ],
+  "iex.ae": [
+    {
+      "source": "favicon",
+      "file": "iex.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/iex.ae_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "iex.ae_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/iex.ae_worldvectorlogo.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "iex.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/iex.ae_logodev.png"
+    }
   ]
 }
