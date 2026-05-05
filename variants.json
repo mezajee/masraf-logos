@@ -1435,5 +1435,27 @@
       "file": "selfridges.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/selfridges.com_logodev.png"
     }
+  ],
+  "sita.aero": [
+    {
+      "source": "favicon",
+      "file": "sita.aero_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sita.aero_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "sita.aero_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sita.aero_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "sita.aero_wikipedia.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sita.aero_wikipedia.png"
+    },
+    {
+      "source": "logodev",
+      "file": "sita.aero_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sita.aero_logodev.png"
+    }
   ]
 }
