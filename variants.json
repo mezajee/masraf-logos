@@ -2972,5 +2972,12 @@
       "file": "orlandosportsuae.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/orlandosportsuae.com_logodev.png"
     }
+  ],
+  "nacdubai.com": [
+    {
+      "source": "worldvectorlogo",
+      "file": "nacdubai.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nacdubai.com_worldvectorlogo.svg"
+    }
   ]
 }
