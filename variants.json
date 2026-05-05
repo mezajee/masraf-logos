@@ -3285,5 +3285,17 @@
       "file": "al-sadara-gents-salon_worldvectorlogo.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-sadara-gents-salon_worldvectorlogo.svg"
     }
+  ],
+  "talabat.com": [
+    {
+      "source": "wikipedia",
+      "file": "talabat.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/talabat.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "talabat.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/talabat.com_logodev.png"
+    }
   ]
 }
