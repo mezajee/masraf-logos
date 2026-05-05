@@ -2034,5 +2034,27 @@
       "file": "armani.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/armani.com_logodev.png"
     }
+  ],
+  "virginmegastore.ae": [
+    {
+      "source": "favicon",
+      "file": "virginmegastore.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/virginmegastore.ae_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "virginmegastore.ae_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/virginmegastore.ae_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "virginmegastore.ae_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/virginmegastore.ae_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "virginmegastore.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/virginmegastore.ae_logodev.png"
+    }
   ]
 }
