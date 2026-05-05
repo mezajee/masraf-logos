@@ -606,5 +606,32 @@
       "file": "rameehotels.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rameehotels.com_logodev.png"
     }
+  ],
+  "miumiu.com": [
+    {
+      "source": "favicon",
+      "file": "miumiu.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/miumiu.com_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "miumiu.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/miumiu.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "miumiu.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/miumiu.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev_name",
+      "file": "miumiu.com_logodev_name.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/miumiu.com_logodev_name.png"
+    },
+    {
+      "source": "logodev",
+      "file": "miumiu.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/miumiu.com_logodev.png"
+    }
   ]
 }
