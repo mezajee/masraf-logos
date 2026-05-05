@@ -1920,5 +1920,17 @@
       "file": "aquaventureworld.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aquaventureworld.com_logodev.png"
     }
+  ],
+  "soukmadinatjumeirah.ae": [
+    {
+      "source": "favicon",
+      "file": "soukmadinatjumeirah.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/soukmadinatjumeirah.ae_favicon.png"
+    },
+    {
+      "source": "logodev",
+      "file": "soukmadinatjumeirah.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/soukmadinatjumeirah.ae_logodev.png"
+    }
   ]
 }
