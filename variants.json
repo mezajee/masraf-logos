@@ -3550,5 +3550,12 @@
       "file": "aseertime.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aseertime.com_logodev.png"
     }
+  ],
+  "barbecue-station": [
+    {
+      "source": "wikipedia",
+      "file": "barbecue-station_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/barbecue-station_wikipedia.svg"
+    }
   ]
 }
