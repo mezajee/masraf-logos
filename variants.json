@@ -2651,5 +2651,17 @@
       "file": "nshamacommunity.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nshamacommunity.ae_logodev.png"
     }
+  ],
+  "anantara.com": [
+    {
+      "source": "wikipedia",
+      "file": "anantara.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/anantara.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "anantara.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/anantara.com_logodev.png"
+    }
   ]
 }
