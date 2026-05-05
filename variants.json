@@ -531,5 +531,27 @@
       "file": "today-s-supermarket_wikipedia.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/today-s-supermarket_wikipedia.svg"
     }
+  ],
+  "wearefeels.com": [
+    {
+      "source": "favicon",
+      "file": "wearefeels.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wearefeels.com_favicon.png"
+    },
+    {
+      "source": "wikipedia",
+      "file": "wearefeels.com_wikipedia.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wearefeels.com_wikipedia.png"
+    },
+    {
+      "source": "seeklogo",
+      "file": "wearefeels.com_seeklogo.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wearefeels.com_seeklogo.png"
+    },
+    {
+      "source": "logodev",
+      "file": "wearefeels.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wearefeels.com_logodev.png"
+    }
   ]
 }
