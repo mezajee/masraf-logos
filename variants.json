@@ -3105,5 +3105,17 @@
       "file": "arabsweet-uae.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/arabsweet-uae.com_logodev.png"
     }
+  ],
+  "levelshoes.com": [
+    {
+      "source": "wikipedia",
+      "file": "levelshoes.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/levelshoes.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "levelshoes.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/levelshoes.com_logodev.png"
+    }
   ]
 }
