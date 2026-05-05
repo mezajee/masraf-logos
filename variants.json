@@ -2890,5 +2890,12 @@
       "file": "ski-service.fr_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ski-service.fr_logodev.png"
     }
+  ],
+  "sixsenses.com": [
+    {
+      "source": "logodev",
+      "file": "sixsenses.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sixsenses.com_logodev.png"
+    }
   ]
 }
