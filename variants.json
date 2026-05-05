@@ -2293,5 +2293,27 @@
       "file": "trekbikesuae.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/trekbikesuae.com_logodev.png"
     }
+  ],
+  "alyousuf.com": [
+    {
+      "source": "favicon",
+      "file": "alyousuf.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alyousuf.com_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "alyousuf.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alyousuf.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "alyousuf.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alyousuf.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "alyousuf.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alyousuf.com_logodev.png"
+    }
   ]
 }
