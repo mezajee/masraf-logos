@@ -345,5 +345,17 @@
       "file": "rachnasalon.ae_wikipedia.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rachnasalon.ae_wikipedia.svg"
     }
+  ],
+  "abkhajjandumrah.com": [
+    {
+      "source": "favicon",
+      "file": "abkhajjandumrah.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/abkhajjandumrah.com_favicon.png"
+    },
+    {
+      "source": "logodev",
+      "file": "abkhajjandumrah.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/abkhajjandumrah.com_logodev.png"
+    }
   ]
 }
