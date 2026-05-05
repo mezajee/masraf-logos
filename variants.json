@@ -1324,5 +1324,22 @@
       "file": "pinnacle-capital-investments_worldvectorlogo.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pinnacle-capital-investments_worldvectorlogo.svg"
     }
+  ],
+  "eleven-green.com": [
+    {
+      "source": "favicon",
+      "file": "eleven-green.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eleven-green.com_favicon.png"
+    },
+    {
+      "source": "wikipedia",
+      "file": "eleven-green.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eleven-green.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "eleven-green.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eleven-green.com_logodev.png"
+    }
   ]
 }
