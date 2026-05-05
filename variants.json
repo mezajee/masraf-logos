@@ -1278,5 +1278,22 @@
       "file": "booch.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/booch.ae_logodev.png"
     }
+  ],
+  "rowleysrestaurants.com": [
+    {
+      "source": "favicon",
+      "file": "rowleysrestaurants.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rowleysrestaurants.com_favicon.png"
+    },
+    {
+      "source": "wikipedia",
+      "file": "rowleysrestaurants.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rowleysrestaurants.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "rowleysrestaurants.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rowleysrestaurants.com_logodev.png"
+    }
   ]
 }
