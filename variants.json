@@ -1789,5 +1789,17 @@
       "file": "astroworks.co_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/astroworks.co_logodev.png"
     }
+  ],
+  "eatorigamisushi.com": [
+    {
+      "source": "favicon",
+      "file": "eatorigamisushi.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eatorigamisushi.com_favicon.png"
+    },
+    {
+      "source": "logodev",
+      "file": "eatorigamisushi.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eatorigamisushi.com_logodev.png"
+    }
   ]
 }
