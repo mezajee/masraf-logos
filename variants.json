@@ -1416,5 +1416,12 @@
       "file": "smartv.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/smartv.ae_logodev.png"
     }
+  ],
+  "asma.ae": [
+    {
+      "source": "logodev",
+      "file": "asma.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/asma.ae_logodev.png"
+    }
   ]
 }
