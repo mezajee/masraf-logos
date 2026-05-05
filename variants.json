@@ -737,5 +737,27 @@
       "file": "synkro.club_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/synkro.club_logodev.png"
     }
+  ],
+  "coldstonearabia.com": [
+    {
+      "source": "favicon",
+      "file": "coldstonearabia.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/coldstonearabia.com_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "coldstonearabia.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/coldstonearabia.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "coldstonearabia.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/coldstonearabia.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "coldstonearabia.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/coldstonearabia.com_logodev.png"
+    }
   ]
 }
