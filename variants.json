@@ -169,5 +169,17 @@
       "file": "al-labeeb-grocery_worldvectorlogo.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-labeeb-grocery_worldvectorlogo.svg"
     }
+  ],
+  "kitopi.com": [
+    {
+      "source": "favicon",
+      "file": "kitopi.com_favicon.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kitopi.com_favicon.jpg"
+    },
+    {
+      "source": "logodev",
+      "file": "kitopi.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kitopi.com_logodev.png"
+    }
   ]
 }
