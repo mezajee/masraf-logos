@@ -2361,5 +2361,22 @@
       "file": "marksandspencer.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/marksandspencer.com_logodev.png"
     }
+  ],
+  "almaya.ae": [
+    {
+      "source": "worldvectorlogo",
+      "file": "almaya.ae_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/almaya.ae_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "almaya.ae_wikipedia.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/almaya.ae_wikipedia.png"
+    },
+    {
+      "source": "logodev",
+      "file": "almaya.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/almaya.ae_logodev.png"
+    }
   ]
 }
