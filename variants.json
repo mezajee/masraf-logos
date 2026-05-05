@@ -524,5 +524,12 @@
       "file": "justburgergroup.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/justburgergroup.com_logodev.png"
     }
+  ],
+  "today-s-supermarket": [
+    {
+      "source": "wikipedia",
+      "file": "today-s-supermarket_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/today-s-supermarket_wikipedia.svg"
+    }
   ]
 }
