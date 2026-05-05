@@ -155,5 +155,12 @@
       "file": "gaia-restaurants.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gaia-restaurants.com_logodev.png"
     }
+  ],
+  "77-clothing-trading": [
+    {
+      "source": "wikipedia",
+      "file": "77-clothing-trading_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/77-clothing-trading_wikipedia.svg"
+    }
   ]
 }
