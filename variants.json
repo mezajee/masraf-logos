@@ -466,5 +466,12 @@
       "file": "bckyrd.ae_logodev_name.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bckyrd.ae_logodev_name.png"
     }
+  ],
+  "primehealth.ae": [
+    {
+      "source": "logodev",
+      "file": "primehealth.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/primehealth.ae_logodev.png"
+    }
   ]
 }
