@@ -3141,5 +3141,17 @@
       "file": "loopdubai.com_wikipedia.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/loopdubai.com_wikipedia.svg"
     }
+  ],
+  "xdubai.com": [
+    {
+      "source": "favicon",
+      "file": "xdubai.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xdubai.com_favicon.png"
+    },
+    {
+      "source": "logodev",
+      "file": "xdubai.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xdubai.com_logodev.png"
+    }
   ]
 }
