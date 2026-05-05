@@ -1576,5 +1576,22 @@
       "file": "ae.loccitane.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ae.loccitane.com_logodev.png"
     }
+  ],
+  "ae.hm.com": [
+    {
+      "source": "worldvectorlogo",
+      "file": "ae.hm.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ae.hm.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "ae.hm.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ae.hm.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "ae.hm.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ae.hm.com_logodev.png"
+    }
   ]
 }
