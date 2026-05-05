@@ -847,5 +847,22 @@
       "file": "onramper.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/onramper.com_logodev.png"
     }
+  ],
+  "mercuryo.io": [
+    {
+      "source": "favicon",
+      "file": "mercuryo.io_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mercuryo.io_favicon.png"
+    },
+    {
+      "source": "wikipedia",
+      "file": "mercuryo.io_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mercuryo.io_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "mercuryo.io_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mercuryo.io_logodev.png"
+    }
   ]
 }
