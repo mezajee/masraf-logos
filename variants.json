@@ -840,5 +840,12 @@
       "file": "trucafe.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/trucafe.ae_logodev.png"
     }
+  ],
+  "onramper.com": [
+    {
+      "source": "logodev",
+      "file": "onramper.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/onramper.com_logodev.png"
+    }
   ]
 }
