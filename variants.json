@@ -881,5 +881,22 @@
       "file": "modernvet.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/modernvet.com_logodev.png"
     }
+  ],
+  "unioncoop.ae": [
+    {
+      "source": "favicon",
+      "file": "unioncoop.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/unioncoop.ae_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "unioncoop.ae_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/unioncoop.ae_worldvectorlogo.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "unioncoop.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/unioncoop.ae_logodev.png"
+    }
   ]
 }
