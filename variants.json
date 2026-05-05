@@ -227,5 +227,12 @@
       "file": "goat.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/goat.com_logodev.png"
     }
+  ],
+  "selectshopframe.com": [
+    {
+      "source": "logodev",
+      "file": "selectshopframe.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/selectshopframe.com_logodev.png"
+    }
   ]
 }
