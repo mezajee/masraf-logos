@@ -3406,5 +3406,17 @@
       "file": "sainsburys.co.uk_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sainsburys.co.uk_logodev.png"
     }
+  ],
+  "planetme.ae": [
+    {
+      "source": "favicon",
+      "file": "planetme.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/planetme.ae_favicon.png"
+    },
+    {
+      "source": "logodev",
+      "file": "planetme.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/planetme.ae_logodev.png"
+    }
   ]
 }
