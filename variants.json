@@ -2017,5 +2017,22 @@
       "file": "amazon.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/amazon.ae_logodev.png"
     }
+  ],
+  "armani.com": [
+    {
+      "source": "worldvectorlogo",
+      "file": "armani.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/armani.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "armani.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/armani.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "armani.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/armani.com_logodev.png"
+    }
   ]
 }
