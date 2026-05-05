@@ -3454,5 +3454,17 @@
       "file": "cafepeloton.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cafepeloton.ae_logodev.png"
     }
+  ],
+  "dubaipublicparks.ae": [
+    {
+      "source": "favicon",
+      "file": "dubaipublicparks.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dubaipublicparks.ae_favicon.png"
+    },
+    {
+      "source": "wikipedia",
+      "file": "dubaipublicparks.ae_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dubaipublicparks.ae_wikipedia.svg"
+    }
   ]
 }
