@@ -26,5 +26,12 @@
     "variantFile": "wearefeels.com_logodev.png",
     "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/wearefeels.com.png",
     "confirmedAt": "2026-05-05"
+  },
+  "talabat.com": {
+    "status": "official",
+    "file": "talabat.com.png",
+    "variantFile": "talabat.com_logodev.png",
+    "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/talabat.com.png",
+    "confirmedAt": "2026-05-05"
   }
 }
