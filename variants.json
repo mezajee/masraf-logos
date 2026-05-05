@@ -1358,5 +1358,17 @@
       "file": "aliexpress.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aliexpress.com_logodev.png"
     }
+  ],
+  "editionhotels.com": [
+    {
+      "source": "favicon",
+      "file": "editionhotels.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/editionhotels.com_favicon.png"
+    },
+    {
+      "source": "logodev",
+      "file": "editionhotels.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/editionhotels.com_logodev.png"
+    }
   ]
 }
