@@ -1034,5 +1034,17 @@
       "file": "courchevel.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/courchevel.com_logodev.png"
     }
+  ],
+  "ounass.com": [
+    {
+      "source": "favicon",
+      "file": "ounass.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ounass.com_favicon.png"
+    },
+    {
+      "source": "logodev",
+      "file": "ounass.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ounass.com_logodev.png"
+    }
   ]
 }
