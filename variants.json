@@ -3093,5 +3093,17 @@
       "file": "nabooda-auto.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nabooda-auto.com_logodev.png"
     }
+  ],
+  "arabsweet-uae.com": [
+    {
+      "source": "favicon",
+      "file": "arabsweet-uae.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/arabsweet-uae.com_favicon.png"
+    },
+    {
+      "source": "logodev",
+      "file": "arabsweet-uae.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/arabsweet-uae.com_logodev.png"
+    }
   ]
 }
