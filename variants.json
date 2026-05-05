@@ -2979,5 +2979,22 @@
       "file": "nacdubai.com_worldvectorlogo.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nacdubai.com_worldvectorlogo.svg"
     }
+  ],
+  "taaleem.ae": [
+    {
+      "source": "favicon",
+      "file": "taaleem.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/taaleem.ae_favicon.png"
+    },
+    {
+      "source": "wikipedia",
+      "file": "taaleem.ae_wikipedia.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/taaleem.ae_wikipedia.png"
+    },
+    {
+      "source": "logodev",
+      "file": "taaleem.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/taaleem.ae_logodev.png"
+    }
   ]
 }
