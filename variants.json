@@ -703,5 +703,22 @@
       "file": "food.noon.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/food.noon.com_logodev.png"
     }
+  ],
+  "uae.voxcinemas.com": [
+    {
+      "source": "favicon",
+      "file": "uae.voxcinemas.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uae.voxcinemas.com_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "uae.voxcinemas.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uae.voxcinemas.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "uae.voxcinemas.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uae.voxcinemas.com_logodev.png"
+    }
   ]
 }
