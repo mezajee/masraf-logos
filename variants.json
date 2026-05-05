@@ -3261,5 +3261,22 @@
       "file": "spixyai.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/spixyai.com_favicon.png"
     }
+  ],
+  "collegeboard.org": [
+    {
+      "source": "favicon",
+      "file": "collegeboard.org_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/collegeboard.org_favicon.png"
+    },
+    {
+      "source": "wikipedia",
+      "file": "collegeboard.org_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/collegeboard.org_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "collegeboard.org_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/collegeboard.org_logodev.png"
+    }
   ]
 }
