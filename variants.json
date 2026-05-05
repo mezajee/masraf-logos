@@ -338,5 +338,12 @@
       "file": "whoop.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/whoop.com_logodev.png"
     }
+  ],
+  "rachnasalon.ae": [
+    {
+      "source": "wikipedia",
+      "file": "rachnasalon.ae_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rachnasalon.ae_wikipedia.svg"
+    }
   ]
 }
