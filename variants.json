@@ -265,5 +265,22 @@
       "file": "al-manara-light-cafeteria_worldvectorlogo.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-manara-light-cafeteria_worldvectorlogo.svg"
     }
+  ],
+  "loropiana.com": [
+    {
+      "source": "wikipedia",
+      "file": "loropiana.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/loropiana.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev_name",
+      "file": "loropiana.com_logodev_name.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/loropiana.com_logodev_name.png"
+    },
+    {
+      "source": "logodev",
+      "file": "loropiana.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/loropiana.com_logodev.png"
+    }
   ]
 }
