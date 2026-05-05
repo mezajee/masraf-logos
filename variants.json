@@ -3042,5 +3042,22 @@
       "file": "mumuso.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mumuso.ae_logodev.png"
     }
+  ],
+  "mycandyhearts.com": [
+    {
+      "source": "favicon",
+      "file": "mycandyhearts.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mycandyhearts.com_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "mycandyhearts.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mycandyhearts.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "mycandyhearts.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mycandyhearts.com_logodev.png"
+    }
   ]
 }
