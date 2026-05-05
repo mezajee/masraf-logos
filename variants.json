@@ -3638,5 +3638,17 @@
       "file": "al-maroof-auto-maintenance_worldvectorlogo.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-maroof-auto-maintenance_worldvectorlogo.svg"
     }
+  ],
+  "al-mansoor-tyres": [
+    {
+      "source": "worldvectorlogo",
+      "file": "al-mansoor-tyres_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-mansoor-tyres_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "al-mansoor-tyres_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-mansoor-tyres_wikipedia.svg"
+    }
   ]
 }
