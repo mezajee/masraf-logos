@@ -138,5 +138,22 @@
       "file": "travelexae.com_logodev_name.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/travelexae.com_logodev_name.png"
     }
+  ],
+  "gaia-restaurants.com": [
+    {
+      "source": "favicon",
+      "file": "gaia-restaurants.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gaia-restaurants.com_favicon.png"
+    },
+    {
+      "source": "logodev_name",
+      "file": "gaia-restaurants.com_logodev_name.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gaia-restaurants.com_logodev_name.png"
+    },
+    {
+      "source": "logodev",
+      "file": "gaia-restaurants.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gaia-restaurants.com_logodev.png"
+    }
   ]
 }
