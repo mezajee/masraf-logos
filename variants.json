@@ -3473,5 +3473,12 @@
       "file": "freezuae.ae_wikipedia.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/freezuae.ae_wikipedia.png"
     }
+  ],
+  "bloxdigital.com": [
+    {
+      "source": "logodev",
+      "file": "bloxdigital.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bloxdigital.com_logodev.png"
+    }
   ]
 }
