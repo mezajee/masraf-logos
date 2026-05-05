@@ -1983,5 +1983,22 @@
       "file": "techres-uae.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/techres-uae.com_logodev.png"
     }
+  ],
+  "lpmrestaurants.com": [
+    {
+      "source": "favicon",
+      "file": "lpmrestaurants.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lpmrestaurants.com_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "lpmrestaurants.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lpmrestaurants.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "lpmrestaurants.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lpmrestaurants.com_logodev.png"
+    }
   ]
 }
