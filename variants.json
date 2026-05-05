@@ -3466,5 +3466,12 @@
       "file": "dubaipublicparks.ae_wikipedia.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dubaipublicparks.ae_wikipedia.svg"
     }
+  ],
+  "freezuae.ae": [
+    {
+      "source": "wikipedia",
+      "file": "freezuae.ae_wikipedia.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/freezuae.ae_wikipedia.png"
+    }
   ]
 }
