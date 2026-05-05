@@ -3521,5 +3521,22 @@
       "file": "enoctasjeel.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/enoctasjeel.com_logodev.png"
     }
+  ],
+  "gsstations.ae": [
+    {
+      "source": "favicon",
+      "file": "gsstations.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gsstations.ae_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "gsstations.ae_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gsstations.ae_worldvectorlogo.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "gsstations.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gsstations.ae_logodev.png"
+    }
   ]
 }
