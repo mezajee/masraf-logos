@@ -2849,5 +2849,12 @@
       "file": "carrefour.fr_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/carrefour.fr_logodev.png"
     }
+  ],
+  "jeanblancsports.com": [
+    {
+      "source": "logodev",
+      "file": "jeanblancsports.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/jeanblancsports.com_logodev.png"
+    }
   ]
 }
