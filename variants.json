@@ -1227,5 +1227,12 @@
       "file": "bismi.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_logodev.png"
     }
+  ],
+  "gatheron.ae": [
+    {
+      "source": "wikipedia",
+      "file": "gatheron.ae_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gatheron.ae_wikipedia.svg"
+    }
   ]
 }
