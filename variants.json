@@ -1627,5 +1627,22 @@
       "file": "ae.limestore.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ae.limestore.com_logodev.png"
     }
+  ],
+  "womensecret.com": [
+    {
+      "source": "favicon",
+      "file": "womensecret.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/womensecret.com_favicon.png"
+    },
+    {
+      "source": "wikipedia",
+      "file": "womensecret.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/womensecret.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "womensecret.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/womensecret.com_logodev.png"
+    }
   ]
 }
