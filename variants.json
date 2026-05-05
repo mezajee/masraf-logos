@@ -1082,5 +1082,17 @@
       "file": "justgroup.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/justgroup.ae_logodev.png"
     }
+  ],
+  "ahdubai.com": [
+    {
+      "source": "favicon",
+      "file": "ahdubai.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ahdubai.com_favicon.png"
+    },
+    {
+      "source": "logodev",
+      "file": "ahdubai.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ahdubai.com_logodev.png"
+    }
   ]
 }
