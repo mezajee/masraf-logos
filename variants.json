@@ -3425,5 +3425,17 @@
       "file": "al-shara-computers-mobiles_worldvectorlogo.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-shara-computers-mobiles_worldvectorlogo.svg"
     }
+  ],
+  "rebel-omakase.com": [
+    {
+      "source": "worldvectorlogo",
+      "file": "rebel-omakase.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rebel-omakase.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "rebel-omakase.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rebel-omakase.com_wikipedia.svg"
+    }
   ]
 }
