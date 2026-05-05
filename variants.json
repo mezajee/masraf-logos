@@ -2085,5 +2085,22 @@
       "file": "alboommarine.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alboommarine.com_logodev.png"
     }
+  ],
+  "yango.delivery": [
+    {
+      "source": "favicon",
+      "file": "yango.delivery_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/yango.delivery_favicon.png"
+    },
+    {
+      "source": "wikipedia",
+      "file": "yango.delivery_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/yango.delivery_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "yango.delivery_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/yango.delivery_logodev.png"
+    }
   ]
 }
