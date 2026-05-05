@@ -3218,5 +3218,17 @@
       "file": "tickete.co_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tickete.co_logodev.png"
     }
+  ],
+  "koukhalshay.com": [
+    {
+      "source": "favicon",
+      "file": "koukhalshay.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/koukhalshay.com_favicon.png"
+    },
+    {
+      "source": "logodev",
+      "file": "koukhalshay.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/koukhalshay.com_logodev.png"
+    }
   ]
 }
