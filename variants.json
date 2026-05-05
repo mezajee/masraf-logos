@@ -1474,5 +1474,22 @@
       "file": "crochet.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/crochet.ae_logodev.png"
     }
+  ],
+  "dropdubai.ae": [
+    {
+      "source": "worldvectorlogo",
+      "file": "dropdubai.ae_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dropdubai.ae_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "dropdubai.ae_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dropdubai.ae_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "dropdubai.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dropdubai.ae_logodev.png"
+    }
   ]
 }
