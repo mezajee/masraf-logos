@@ -19,5 +19,12 @@
     "variantFile": "saddledubai.com_favicon.png",
     "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/saddledubai.com.png",
     "confirmedAt": "2026-05-05"
+  },
+  "wearefeels.com": {
+    "status": "official",
+    "file": "wearefeels.com.png",
+    "variantFile": "wearefeels.com_logodev.png",
+    "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/wearefeels.com.png",
+    "confirmedAt": "2026-05-05"
   }
 }
