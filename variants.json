@@ -3189,5 +3189,22 @@
       "file": "parkonic.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/parkonic.com_logodev.png"
     }
+  ],
+  "globalvillage.ae": [
+    {
+      "source": "favicon",
+      "file": "globalvillage.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/globalvillage.ae_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "globalvillage.ae_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/globalvillage.ae_worldvectorlogo.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "globalvillage.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/globalvillage.ae_logodev.png"
+    }
   ]
 }
