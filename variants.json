@@ -2738,5 +2738,17 @@
       "file": "lepilatus.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lepilatus.com_logodev.png"
     }
+  ],
+  "lasoucoupecourchevel.com": [
+    {
+      "source": "worldvectorlogo",
+      "file": "lasoucoupecourchevel.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lasoucoupecourchevel.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "lasoucoupecourchevel.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lasoucoupecourchevel.com_logodev.png"
+    }
   ]
 }
