@@ -1830,5 +1830,17 @@
       "file": "dintaifungae.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dintaifungae.com_logodev.png"
     }
+  ],
+  "scalinicucina.com": [
+    {
+      "source": "favicon",
+      "file": "scalinicucina.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/scalinicucina.com_favicon.png"
+    },
+    {
+      "source": "logodev",
+      "file": "scalinicucina.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/scalinicucina.com_logodev.png"
+    }
   ]
 }
