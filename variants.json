@@ -2562,5 +2562,17 @@
       "file": "wejdancafe.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wejdancafe.com_logodev.png"
     }
+  ],
+  "cafu.com": [
+    {
+      "source": "wikipedia",
+      "file": "cafu.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cafu.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "cafu.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cafu.com_logodev.png"
+    }
   ]
 }
