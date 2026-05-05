@@ -2798,5 +2798,27 @@
       "file": "maisontournier.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maisontournier.com_logodev.png"
     }
+  ],
+  "tesla.com": [
+    {
+      "source": "favicon",
+      "file": "tesla.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tesla.com_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "tesla.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tesla.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "tesla.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tesla.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "tesla.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tesla.com_logodev.png"
+    }
   ]
 }
