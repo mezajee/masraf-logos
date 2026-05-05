@@ -2327,5 +2327,17 @@
       "file": "rumailahfarms.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rumailahfarms.com_logodev.png"
     }
+  ],
+  "alshaya.com": [
+    {
+      "source": "wikipedia",
+      "file": "alshaya.com_wikipedia.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alshaya.com_wikipedia.png"
+    },
+    {
+      "source": "logodev",
+      "file": "alshaya.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alshaya.com_logodev.png"
+    }
   ]
 }
