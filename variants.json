@@ -485,5 +485,27 @@
       "file": "racks.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/racks.ae_logodev.png"
     }
+  ],
+  "thebluebox.com": [
+    {
+      "source": "wikipedia",
+      "file": "thebluebox.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thebluebox.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "thebluebox.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thebluebox.com_logodev.png"
+    },
+    {
+      "source": "wikipedia",
+      "file": "thebluebox.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thebluebox.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "thebluebox.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thebluebox.com_logodev.png"
+    }
   ]
 }
