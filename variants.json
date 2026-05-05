@@ -961,5 +961,27 @@
       "file": "aeliadutyfree.ch_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aeliadutyfree.ch_logodev.png"
     }
+  ],
+  "pharmacie-principale.ch": [
+    {
+      "source": "worldvectorlogo",
+      "file": "pharmacie-principale.ch_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pharmacie-principale.ch_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "pharmacie-principale.ch_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pharmacie-principale.ch_wikipedia.svg"
+    },
+    {
+      "source": "logodev_name",
+      "file": "pharmacie-principale.ch_logodev_name.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pharmacie-principale.ch_logodev_name.png"
+    },
+    {
+      "source": "logodev",
+      "file": "pharmacie-principale.ch_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pharmacie-principale.ch_logodev.png"
+    }
   ]
 }
