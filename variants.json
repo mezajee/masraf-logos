@@ -2750,5 +2750,12 @@
       "file": "lasoucoupecourchevel.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lasoucoupecourchevel.com_logodev.png"
     }
+  ],
+  "millesabords-courchevel.com": [
+    {
+      "source": "wikipedia",
+      "file": "millesabords-courchevel.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/millesabords-courchevel.com_wikipedia.svg"
+    }
   ]
 }
