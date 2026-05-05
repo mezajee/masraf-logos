@@ -316,5 +316,27 @@
       "file": "uae.sharafdg.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uae.sharafdg.com_logodev.png"
     }
+  ],
+  "whoop.com": [
+    {
+      "source": "favicon",
+      "file": "whoop.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/whoop.com_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "whoop.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/whoop.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "whoop.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/whoop.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "whoop.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/whoop.com_logodev.png"
+    }
   ]
 }
