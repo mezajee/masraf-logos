@@ -640,5 +640,17 @@
       "file": "project04.co_wikipedia.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/project04.co_wikipedia.svg"
     }
+  ],
+  "acai-berry-the-amazon-boost": [
+    {
+      "source": "worldvectorlogo",
+      "file": "acai-berry-the-amazon-boost_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/acai-berry-the-amazon-boost_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "acai-berry-the-amazon-boost_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/acai-berry-the-amazon-boost_wikipedia.svg"
+    }
   ]
 }
