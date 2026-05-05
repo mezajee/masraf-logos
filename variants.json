@@ -2150,5 +2150,17 @@
       "file": "uae.cremelondon.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uae.cremelondon.com_logodev.png"
     }
+  ],
+  "asmaasgroup.com": [
+    {
+      "source": "favicon",
+      "file": "asmaasgroup.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/asmaasgroup.com_favicon.png"
+    },
+    {
+      "source": "logodev",
+      "file": "asmaasgroup.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/asmaasgroup.com_logodev.png"
+    }
   ]
 }
