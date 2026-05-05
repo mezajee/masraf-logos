@@ -1842,5 +1842,27 @@
       "file": "scalinicucina.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/scalinicucina.com_logodev.png"
     }
+  ],
+  "lululemon.com": [
+    {
+      "source": "favicon",
+      "file": "lululemon.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lululemon.com_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "lululemon.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lululemon.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "lululemon.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lululemon.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "lululemon.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lululemon.com_logodev.png"
+    }
   ]
 }
