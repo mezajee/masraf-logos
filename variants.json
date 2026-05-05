@@ -2692,5 +2692,27 @@
       "file": "rossignol.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rossignol.com_logodev.png"
     }
+  ],
+  "gulfservice.ch": [
+    {
+      "source": "favicon",
+      "file": "gulfservice.ch_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gulfservice.ch_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "gulfservice.ch_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gulfservice.ch_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "gulfservice.ch_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gulfservice.ch_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "gulfservice.ch_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gulfservice.ch_logodev.png"
+    }
   ]
 }
