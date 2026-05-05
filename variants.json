@@ -594,5 +594,17 @@
       "file": "cos.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cos.com_logodev.png"
     }
+  ],
+  "rameehotels.com": [
+    {
+      "source": "worldvectorlogo",
+      "file": "rameehotels.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rameehotels.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "rameehotels.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rameehotels.com_logodev.png"
+    }
   ]
 }
