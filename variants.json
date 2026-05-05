@@ -3242,5 +3242,17 @@
       "file": "al-melas-mandi-restaurant_wikipedia.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-melas-mandi-restaurant_wikipedia.svg"
     }
+  ],
+  "laduree.ae": [
+    {
+      "source": "wikipedia",
+      "file": "laduree.ae_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/laduree.ae_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "laduree.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/laduree.ae_logodev.png"
+    }
   ]
 }
