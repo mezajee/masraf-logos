@@ -1370,5 +1370,12 @@
       "file": "editionhotels.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/editionhotels.com_logodev.png"
     }
+  ],
+  "thesetaihotel.com": [
+    {
+      "source": "logodev",
+      "file": "thesetaihotel.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thesetaihotel.com_logodev.png"
+    }
   ]
 }
