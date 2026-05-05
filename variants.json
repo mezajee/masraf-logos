@@ -790,5 +790,17 @@
       "file": "mxodidesigns.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mxodidesigns.com_logodev.png"
     }
+  ],
+  "maramijewelry.com": [
+    {
+      "source": "wikipedia",
+      "file": "maramijewelry.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maramijewelry.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "maramijewelry.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maramijewelry.com_logodev.png"
+    }
   ]
 }
