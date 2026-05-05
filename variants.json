@@ -990,5 +990,27 @@
       "file": "cimalpes.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cimalpes.com_logodev.png"
     }
+  ],
+  "vans.com": [
+    {
+      "source": "favicon",
+      "file": "vans.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/vans.com_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "vans.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/vans.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "vans.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/vans.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "vans.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/vans.com_logodev.png"
+    }
   ]
 }
