@@ -1610,5 +1610,22 @@
       "file": "zara.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/zara.com_logodev.png"
     }
+  ],
+  "ae.limestore.com": [
+    {
+      "source": "wikipedia",
+      "file": "ae.limestore.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ae.limestore.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev_name",
+      "file": "ae.limestore.com_logodev_name.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ae.limestore.com_logodev_name.png"
+    },
+    {
+      "source": "logodev",
+      "file": "ae.limestore.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ae.limestore.com_logodev.png"
+    }
   ]
 }
