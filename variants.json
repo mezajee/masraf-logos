@@ -3117,5 +3117,22 @@
       "file": "levelshoes.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/levelshoes.com_logodev.png"
     }
+  ],
+  "temu.com": [
+    {
+      "source": "favicon",
+      "file": "temu.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/temu.com_favicon.png"
+    },
+    {
+      "source": "wikipedia",
+      "file": "temu.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/temu.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "temu.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/temu.com_logodev.png"
+    }
   ]
 }
