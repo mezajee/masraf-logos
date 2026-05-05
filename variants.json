@@ -3230,5 +3230,17 @@
       "file": "koukhalshay.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/koukhalshay.com_logodev.png"
     }
+  ],
+  "al-melas-mandi-restaurant": [
+    {
+      "source": "worldvectorlogo",
+      "file": "al-melas-mandi-restaurant_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-melas-mandi-restaurant_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "al-melas-mandi-restaurant_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-melas-mandi-restaurant_wikipedia.svg"
+    }
   ]
 }
