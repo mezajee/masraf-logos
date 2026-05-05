@@ -68,5 +68,17 @@
       "file": "celine.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/celine.com_logodev.png"
     }
+  ],
+  "eatx.com": [
+    {
+      "source": "favicon",
+      "file": "eatx.com_favicon.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eatx.com_favicon.jpg"
+    },
+    {
+      "source": "logodev",
+      "file": "eatx.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eatx.com_logodev.png"
+    }
   ]
 }
