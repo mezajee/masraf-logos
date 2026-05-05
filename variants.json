@@ -2996,5 +2996,12 @@
       "file": "taaleem.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/taaleem.ae_logodev.png"
     }
+  ],
+  "monza-cafe": [
+    {
+      "source": "wikipedia",
+      "file": "monza-cafe_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/monza-cafe_wikipedia.svg"
+    }
   ]
 }
