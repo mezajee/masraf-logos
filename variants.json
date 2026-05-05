@@ -2960,5 +2960,17 @@
       "file": "stories.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/stories.com_logodev.png"
     }
+  ],
+  "orlandosportsuae.com": [
+    {
+      "source": "favicon",
+      "file": "orlandosportsuae.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/orlandosportsuae.com_favicon.png"
+    },
+    {
+      "source": "logodev",
+      "file": "orlandosportsuae.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/orlandosportsuae.com_logodev.png"
+    }
   ]
 }
