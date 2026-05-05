@@ -3619,5 +3619,17 @@
       "file": "champion-cleaners.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/champion-cleaners.com_logodev.png"
     }
+  ],
+  "instashop.com": [
+    {
+      "source": "wikipedia",
+      "file": "instashop.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/instashop.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "instashop.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/instashop.com_logodev.png"
+    }
   ]
 }
