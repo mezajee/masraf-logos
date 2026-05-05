@@ -12,5 +12,12 @@
     "file": "kinguin.net.png",
     "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/kinguin.net.png",
     "confirmedAt": "2026-05-05"
+  },
+  "saddledubai.com": {
+    "status": "official",
+    "file": "saddledubai.com.png",
+    "variantFile": "saddledubai.com_favicon.png",
+    "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/saddledubai.com.png",
+    "confirmedAt": "2026-05-05"
   }
 }
