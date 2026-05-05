@@ -2837,5 +2837,17 @@
       "file": "fas_logodev_name.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fas_logodev_name.png"
     }
+  ],
+  "carrefour.fr": [
+    {
+      "source": "worldvectorlogo",
+      "file": "carrefour.fr_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/carrefour.fr_worldvectorlogo.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "carrefour.fr_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/carrefour.fr_logodev.png"
+    }
   ]
 }
