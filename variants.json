@@ -51,5 +51,22 @@
       "file": "easytip.net_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/easytip.net_logodev.png"
     }
+  ],
+  "celine.com": [
+    {
+      "source": "worldvectorlogo",
+      "file": "celine.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/celine.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "celine.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/celine.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "celine.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/celine.com_logodev.png"
+    }
   ]
 }
