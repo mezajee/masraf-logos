@@ -2663,5 +2663,12 @@
       "file": "anantara.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/anantara.com_logodev.png"
     }
+  ],
+  "emxmotors.com": [
+    {
+      "source": "logodev",
+      "file": "emxmotors.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emxmotors.com_logodev.png"
+    }
   ]
 }
