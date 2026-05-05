@@ -3153,5 +3153,17 @@
       "file": "xdubai.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xdubai.com_logodev.png"
     }
+  ],
+  "emiratespost.ae": [
+    {
+      "source": "wikipedia",
+      "file": "emiratespost.ae_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emiratespost.ae_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "emiratespost.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emiratespost.ae_logodev.png"
+    }
   ]
 }
