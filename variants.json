@@ -3254,5 +3254,12 @@
       "file": "laduree.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/laduree.ae_logodev.png"
     }
+  ],
+  "spixyai.com": [
+    {
+      "source": "favicon",
+      "file": "spixyai.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/spixyai.com_favicon.png"
+    }
   ]
 }
