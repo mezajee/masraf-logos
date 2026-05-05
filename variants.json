@@ -2596,5 +2596,12 @@
       "file": "carrefouruae.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/carrefouruae.com_logodev.png"
     }
+  ],
+  "alijaza.ae": [
+    {
+      "source": "worldvectorlogo",
+      "file": "alijaza.ae_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alijaza.ae_worldvectorlogo.svg"
+    }
   ]
 }
