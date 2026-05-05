@@ -3727,5 +3727,12 @@
       "file": "unknown-paypal-merchant_wikipedia.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/unknown-paypal-merchant_wikipedia.svg"
     }
+  ],
+  "darkroomdubai.com": [
+    {
+      "source": "wikipedia",
+      "file": "darkroomdubai.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/darkroomdubai.com_wikipedia.svg"
+    }
   ]
 }
