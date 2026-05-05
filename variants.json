@@ -1058,5 +1058,12 @@
       "file": "ae.haagendazsmea.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ae.haagendazsmea.com_logodev.png"
     }
+  ],
+  "drivu.co": [
+    {
+      "source": "logodev",
+      "file": "drivu.co_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/drivu.co_logodev.png"
+    }
   ]
 }
