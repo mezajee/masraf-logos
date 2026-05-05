@@ -2528,5 +2528,27 @@
       "file": "likecard.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/likecard.com_logodev.png"
     }
+  ],
+  "sea.com": [
+    {
+      "source": "favicon",
+      "file": "sea.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sea.com_favicon.png"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "sea.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sea.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "sea.com_wikipedia.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sea.com_wikipedia.png"
+    },
+    {
+      "source": "logodev",
+      "file": "sea.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sea.com_logodev.png"
+    }
   ]
 }
