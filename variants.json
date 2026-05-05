@@ -401,5 +401,12 @@
       "file": "teatimecafeteria.com_wikipedia.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/teatimecafeteria.com_wikipedia.png"
     }
+  ],
+  "blu-pizzeria": [
+    {
+      "source": "wikipedia",
+      "file": "blu-pizzeria_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/blu-pizzeria_wikipedia.svg"
+    }
   ]
 }
