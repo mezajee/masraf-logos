@@ -3607,5 +3607,17 @@
       "file": "happyhomedxb.com_worldvectorlogo.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/happyhomedxb.com_worldvectorlogo.svg"
     }
+  ],
+  "champion-cleaners.com": [
+    {
+      "source": "worldvectorlogo",
+      "file": "champion-cleaners.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/champion-cleaners.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "champion-cleaners.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/champion-cleaners.com_logodev.png"
+    }
   ]
 }
