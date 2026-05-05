@@ -420,5 +420,17 @@
       "file": "joejuice.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/joejuice.com_logodev.png"
     }
+  ],
+  "kumo.uae": [
+    {
+      "source": "wikipedia",
+      "file": "kumo.uae_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kumo.uae_wikipedia.svg"
+    },
+    {
+      "source": "logodev_name",
+      "file": "kumo.uae_logodev_name.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kumo.uae_logodev_name.png"
+    }
   ]
 }
