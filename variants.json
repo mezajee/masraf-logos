@@ -572,5 +572,27 @@
       "file": "wrap-and-crunch_seeklogo.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wrap-and-crunch_seeklogo.png"
     }
+  ],
+  "cos.com": [
+    {
+      "source": "favicon",
+      "file": "cos.com_favicon.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cos.com_favicon.jpg"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "cos.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cos.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "cos.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cos.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "cos.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cos.com_logodev.png"
+    }
   ]
 }
