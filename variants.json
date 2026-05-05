@@ -1702,5 +1702,22 @@
       "file": "derek-rose.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/derek-rose.com_logodev.png"
     }
+  ],
+  "altayer.com": [
+    {
+      "source": "worldvectorlogo",
+      "file": "altayer.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/altayer.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "altayer.com_wikipedia.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/altayer.com_wikipedia.png"
+    },
+    {
+      "source": "logodev",
+      "file": "altayer.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/altayer.com_logodev.png"
+    }
   ]
 }
