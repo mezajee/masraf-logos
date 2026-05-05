@@ -1394,5 +1394,27 @@
       "file": "ziina.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ziina.com_logodev.png"
     }
+  ],
+  "smartv.ae": [
+    {
+      "source": "favicon",
+      "file": "smartv.ae_favicon.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/smartv.ae_favicon.jpg"
+    },
+    {
+      "source": "worldvectorlogo",
+      "file": "smartv.ae_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/smartv.ae_worldvectorlogo.svg"
+    },
+    {
+      "source": "seeklogo",
+      "file": "smartv.ae_seeklogo.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/smartv.ae_seeklogo.png"
+    },
+    {
+      "source": "logodev",
+      "file": "smartv.ae_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/smartv.ae_logodev.png"
+    }
   ]
 }
