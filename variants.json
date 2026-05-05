@@ -1777,5 +1777,17 @@
       "file": "moe.gov.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/moe.gov.ae_logodev.png"
     }
+  ],
+  "astroworks.co": [
+    {
+      "source": "wikipedia",
+      "file": "astroworks.co_wikipedia.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/astroworks.co_wikipedia.jpg"
+    },
+    {
+      "source": "logodev",
+      "file": "astroworks.co_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/astroworks.co_logodev.png"
+    }
   ]
 }
