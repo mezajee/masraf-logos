@@ -681,5 +681,27 @@
       "file": "cannesoutdoor.nl_wikipedia.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cannesoutdoor.nl_wikipedia.svg"
     }
+  ],
+  "food.noon.com": [
+    {
+      "source": "favicon",
+      "file": "food.noon.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/food.noon.com_favicon.png"
+    },
+    {
+      "source": "wikipedia",
+      "file": "food.noon.com_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/food.noon.com_wikipedia.svg"
+    },
+    {
+      "source": "logodev_name",
+      "file": "food.noon.com_logodev_name.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/food.noon.com_logodev_name.png"
+    },
+    {
+      "source": "logodev",
+      "file": "food.noon.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/food.noon.com_logodev.png"
+    }
   ]
 }
