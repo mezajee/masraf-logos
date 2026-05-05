@@ -282,5 +282,17 @@
       "file": "loropiana.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/loropiana.com_logodev.png"
     }
+  ],
+  "nintendo.com": [
+    {
+      "source": "worldvectorlogo",
+      "file": "nintendo.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nintendo.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "logodev",
+      "file": "nintendo.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nintendo.com_logodev.png"
+    }
   ]
 }
