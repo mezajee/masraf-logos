@@ -3076,5 +3076,22 @@
       "file": "performancetuning.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/performancetuning.ae_logodev.png"
     }
+  ],
+  "nabooda-auto.com": [
+    {
+      "source": "worldvectorlogo",
+      "file": "nabooda-auto.com_worldvectorlogo.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nabooda-auto.com_worldvectorlogo.svg"
+    },
+    {
+      "source": "wikipedia",
+      "file": "nabooda-auto.com_wikipedia.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nabooda-auto.com_wikipedia.png"
+    },
+    {
+      "source": "logodev",
+      "file": "nabooda-auto.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nabooda-auto.com_logodev.png"
+    }
   ]
 }
