@@ -1503,5 +1503,17 @@
       "file": "alfuttaim.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alfuttaim.com_logodev.png"
     }
+  ],
+  "gamestreet.ae": [
+    {
+      "source": "favicon",
+      "file": "gamestreet.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gamestreet.ae_favicon.png"
+    },
+    {
+      "source": "wikipedia",
+      "file": "gamestreet.ae_wikipedia.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gamestreet.ae_wikipedia.svg"
+    }
   ]
 }
