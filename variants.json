@@ -2769,5 +2769,17 @@
       "file": "airelles.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/airelles.com_logodev.png"
     }
+  ],
+  "raspoutine.com": [
+    {
+      "source": "favicon",
+      "file": "raspoutine.com_favicon.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/raspoutine.com_favicon.jpg"
+    },
+    {
+      "source": "logodev",
+      "file": "raspoutine.com_logodev.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/raspoutine.com_logodev.png"
+    }
   ]
 }
