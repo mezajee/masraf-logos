@@ -4868,5 +4868,32 @@
       "file": "binghatti.com_serp6.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/binghatti.com_serp6.jpg"
     }
+  ],
+  "yogurtland.com": [
+    {
+      "source": "serp1",
+      "file": "yogurtland.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/yogurtland.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "yogurtland.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/yogurtland.com_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "yogurtland.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/yogurtland.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "yogurtland.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/yogurtland.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "yogurtland.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/yogurtland.com_serp5.png"
+    }
   ]
 }
