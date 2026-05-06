@@ -4342,5 +4342,32 @@
       "file": "thoraya-al-madena-pharmacy_serp4.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thoraya-al-madena-pharmacy_serp4.svg"
     }
+  ],
+  "thedubaimall.com": [
+    {
+      "source": "serp1",
+      "file": "thedubaimall.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thedubaimall.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "thedubaimall.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thedubaimall.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "thedubaimall.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thedubaimall.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "thedubaimall.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thedubaimall.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "thedubaimall.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thedubaimall.com_serp5.jpg"
+    }
   ]
 }
