@@ -4403,5 +4403,32 @@
       "file": "aquafun.ae_serp4.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aquafun.ae_serp4.svg"
     }
+  ],
+  "epicgames.com": [
+    {
+      "source": "serp1",
+      "file": "epicgames.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/epicgames.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "epicgames.com_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/epicgames.com_serp2.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "epicgames.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/epicgames.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "epicgames.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/epicgames.com_serp4.jpg"
+    },
+    {
+      "source": "serp6",
+      "file": "epicgames.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/epicgames.com_serp6.jpg"
+    }
   ]
 }
