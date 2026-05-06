@@ -4266,5 +4266,27 @@
       "file": "dubaipay.ae_serp8.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dubaipay.ae_serp8.jpg"
     }
+  ],
+  "reelcinemas.ae": [
+    {
+      "source": "serp1",
+      "file": "reelcinemas.ae_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/reelcinemas.ae_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "reelcinemas.ae_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/reelcinemas.ae_serp2.png"
+    },
+    {
+      "source": "serp4",
+      "file": "reelcinemas.ae_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/reelcinemas.ae_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "reelcinemas.ae_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/reelcinemas.ae_serp5.png"
+    }
   ]
 }
