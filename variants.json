@@ -4536,5 +4536,32 @@
       "file": "findsalt.com_serp7.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/findsalt.com_serp7.jpg"
     }
+  ],
+  "green-view-grocery": [
+    {
+      "source": "serp1",
+      "file": "green-view-grocery_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/green-view-grocery_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "green-view-grocery_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/green-view-grocery_serp2.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "green-view-grocery_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/green-view-grocery_serp3.png"
+    },
+    {
+      "source": "serp5",
+      "file": "green-view-grocery_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/green-view-grocery_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "green-view-grocery_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/green-view-grocery_serp6.jpg"
+    }
   ]
 }
