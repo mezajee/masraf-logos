@@ -4600,5 +4600,32 @@
       "file": "shop.dubailibrary.com_serp7.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/shop.dubailibrary.com_serp7.jpg"
     }
+  ],
+  "fltrdubai.com": [
+    {
+      "source": "serp1",
+      "file": "fltrdubai.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fltrdubai.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "fltrdubai.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fltrdubai.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "fltrdubai.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fltrdubai.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "fltrdubai.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fltrdubai.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "fltrdubai.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fltrdubai.com_serp5.png"
+    }
   ]
 }
