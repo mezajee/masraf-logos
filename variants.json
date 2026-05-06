@@ -4003,5 +4003,32 @@
       "file": "nasim-al-amal-grocery_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nasim-al-amal-grocery_serp5.png"
     }
+  ],
+  "graincafe.ae": [
+    {
+      "source": "serp1",
+      "file": "graincafe.ae_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/graincafe.ae_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "graincafe.ae_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/graincafe.ae_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "graincafe.ae_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/graincafe.ae_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "graincafe.ae_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/graincafe.ae_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "graincafe.ae_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/graincafe.ae_serp5.png"
+    }
   ]
 }
