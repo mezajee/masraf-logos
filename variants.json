@@ -4224,5 +4224,47 @@
       "file": "wadi-al-madeena-laundry_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wadi-al-madeena-laundry_serp5.png"
     }
+  ],
+  "dubaipay.ae": [
+    {
+      "source": "serp1",
+      "file": "dubaipay.ae_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dubaipay.ae_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "dubaipay.ae_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dubaipay.ae_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "dubaipay.ae_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dubaipay.ae_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "dubaipay.ae_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dubaipay.ae_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "dubaipay.ae_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dubaipay.ae_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "dubaipay.ae_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dubaipay.ae_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "dubaipay.ae_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dubaipay.ae_serp7.jpg"
+    },
+    {
+      "source": "serp8",
+      "file": "dubaipay.ae_serp8.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dubaipay.ae_serp8.jpg"
+    }
   ]
 }
