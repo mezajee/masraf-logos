@@ -4084,5 +4084,32 @@
       "file": "kohaj-supermarket_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kohaj-supermarket_serp5.png"
     }
+  ],
+  "mohideensupermarket.com": [
+    {
+      "source": "serp1",
+      "file": "mohideensupermarket.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mohideensupermarket.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "mohideensupermarket.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mohideensupermarket.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "mohideensupermarket.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mohideensupermarket.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "mohideensupermarket.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mohideensupermarket.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "mohideensupermarket.com_serp5.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mohideensupermarket.com_serp5.svg"
+    }
   ]
 }
