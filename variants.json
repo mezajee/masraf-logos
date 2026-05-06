@@ -4499,5 +4499,42 @@
       "file": "spinneys.com_serp8.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/spinneys.com_serp8.jpg"
     }
+  ],
+  "findsalt.com": [
+    {
+      "source": "serp1",
+      "file": "findsalt.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/findsalt.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "findsalt.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/findsalt.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "findsalt.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/findsalt.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "findsalt.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/findsalt.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "findsalt.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/findsalt.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "findsalt.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/findsalt.com_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "findsalt.com_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/findsalt.com_serp7.jpg"
+    }
   ]
 }
