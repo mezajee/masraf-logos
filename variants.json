@@ -4170,5 +4170,32 @@
       "file": "bakdash-al-tarboush_serp6.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bakdash-al-tarboush_serp6.jpg"
     }
+  ],
+  "manoushet-darna": [
+    {
+      "source": "serp1",
+      "file": "manoushet-darna_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/manoushet-darna_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "manoushet-darna_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/manoushet-darna_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "manoushet-darna_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/manoushet-darna_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "manoushet-darna_serp4.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/manoushet-darna_serp4.svg"
+    },
+    {
+      "source": "serp5",
+      "file": "manoushet-darna_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/manoushet-darna_serp5.png"
+    }
   ]
 }
