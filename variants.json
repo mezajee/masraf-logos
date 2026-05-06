@@ -4836,5 +4836,37 @@
       "file": "atelier-courchevel.com_serp5.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/atelier-courchevel.com_serp5.jpg"
     }
+  ],
+  "binghatti.com": [
+    {
+      "source": "serp1",
+      "file": "binghatti.com_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/binghatti.com_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "binghatti.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/binghatti.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "binghatti.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/binghatti.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "binghatti.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/binghatti.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "binghatti.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/binghatti.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "binghatti.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/binghatti.com_serp6.jpg"
+    }
   ]
 }
