@@ -4197,5 +4197,32 @@
       "file": "manoushet-darna_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/manoushet-darna_serp5.png"
     }
+  ],
+  "wadi-al-madeena-laundry": [
+    {
+      "source": "serp1",
+      "file": "wadi-al-madeena-laundry_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wadi-al-madeena-laundry_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "wadi-al-madeena-laundry_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wadi-al-madeena-laundry_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "wadi-al-madeena-laundry_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wadi-al-madeena-laundry_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "wadi-al-madeena-laundry_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wadi-al-madeena-laundry_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "wadi-al-madeena-laundry_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wadi-al-madeena-laundry_serp5.png"
+    }
   ]
 }
