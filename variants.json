@@ -4782,5 +4782,32 @@
       "file": "tremplin-courchevel.com_serp6.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tremplin-courchevel.com_serp6.jpg"
     }
+  ],
+  "pharmacie-courchevel-1850": [
+    {
+      "source": "serp1",
+      "file": "pharmacie-courchevel-1850_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pharmacie-courchevel-1850_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "pharmacie-courchevel-1850_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pharmacie-courchevel-1850_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "pharmacie-courchevel-1850_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pharmacie-courchevel-1850_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "pharmacie-courchevel-1850_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pharmacie-courchevel-1850_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "pharmacie-courchevel-1850_serp5.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pharmacie-courchevel-1850_serp5.svg"
+    }
   ]
 }
