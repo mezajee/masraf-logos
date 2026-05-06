@@ -4654,5 +4654,32 @@
       "file": "padellineae.com_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/padellineae.com_serp5.png"
     }
+  ],
+  "thebackyardrestaurant.com": [
+    {
+      "source": "serp1",
+      "file": "thebackyardrestaurant.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thebackyardrestaurant.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "thebackyardrestaurant.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thebackyardrestaurant.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "thebackyardrestaurant.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thebackyardrestaurant.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "thebackyardrestaurant.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thebackyardrestaurant.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "thebackyardrestaurant.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thebackyardrestaurant.com_serp5.png"
+    }
   ]
 }
