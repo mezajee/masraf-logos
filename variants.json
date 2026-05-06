@@ -4457,5 +4457,47 @@
       "file": "sephora.ae_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sephora.ae_serp5.png"
     }
+  ],
+  "spinneys.com": [
+    {
+      "source": "serp1",
+      "file": "spinneys.com_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/spinneys.com_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "spinneys.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/spinneys.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "spinneys.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/spinneys.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "spinneys.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/spinneys.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "spinneys.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/spinneys.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "spinneys.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/spinneys.com_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "spinneys.com_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/spinneys.com_serp7.jpg"
+    },
+    {
+      "source": "serp8",
+      "file": "spinneys.com_serp8.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/spinneys.com_serp8.jpg"
+    }
   ]
 }
