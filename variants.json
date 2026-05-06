@@ -4563,5 +4563,42 @@
       "file": "green-view-grocery_serp6.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/green-view-grocery_serp6.jpg"
     }
+  ],
+  "shop.dubailibrary.com": [
+    {
+      "source": "serp1",
+      "file": "shop.dubailibrary.com_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/shop.dubailibrary.com_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "shop.dubailibrary.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/shop.dubailibrary.com_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "shop.dubailibrary.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/shop.dubailibrary.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "shop.dubailibrary.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/shop.dubailibrary.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "shop.dubailibrary.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/shop.dubailibrary.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "shop.dubailibrary.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/shop.dubailibrary.com_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "shop.dubailibrary.com_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/shop.dubailibrary.com_serp7.jpg"
+    }
   ]
 }
