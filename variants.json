@@ -4138,5 +4138,37 @@
       "file": "fine-berry-minimart_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fine-berry-minimart_serp5.png"
     }
+  ],
+  "bakdash-al-tarboush": [
+    {
+      "source": "serp1",
+      "file": "bakdash-al-tarboush_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bakdash-al-tarboush_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "bakdash-al-tarboush_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bakdash-al-tarboush_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "bakdash-al-tarboush_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bakdash-al-tarboush_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "bakdash-al-tarboush_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bakdash-al-tarboush_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "bakdash-al-tarboush_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bakdash-al-tarboush_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "bakdash-al-tarboush_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bakdash-al-tarboush_serp6.jpg"
+    }
   ]
 }
