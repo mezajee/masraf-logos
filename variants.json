@@ -4627,5 +4627,32 @@
       "file": "fltrdubai.com_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fltrdubai.com_serp5.png"
     }
+  ],
+  "padellineae.com": [
+    {
+      "source": "serp1",
+      "file": "padellineae.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/padellineae.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "padellineae.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/padellineae.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "padellineae.com_serp3.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/padellineae.com_serp3.svg"
+    },
+    {
+      "source": "serp4",
+      "file": "padellineae.com_serp4.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/padellineae.com_serp4.svg"
+    },
+    {
+      "source": "serp5",
+      "file": "padellineae.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/padellineae.com_serp5.png"
+    }
   ]
 }
