@@ -3877,14 +3877,29 @@
   ],
   "samuraisushi.ae": [
     {
-      "source": "favicon",
-      "file": "samuraisushi.ae_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/samuraisushi.ae_favicon.png"
+      "source": "serp1",
+      "file": "samuraisushi.ae_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/samuraisushi.ae_serp1.jpg"
     },
     {
-      "source": "wikipedia",
-      "file": "samuraisushi.ae_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/samuraisushi.ae_wikipedia.svg"
+      "source": "serp2",
+      "file": "samuraisushi.ae_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/samuraisushi.ae_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "samuraisushi.ae_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/samuraisushi.ae_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "samuraisushi.ae_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/samuraisushi.ae_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "samuraisushi.ae_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/samuraisushi.ae_serp5.png"
     }
   ],
   "keslerlee.com": [
