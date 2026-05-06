@@ -4430,5 +4430,32 @@
       "file": "epicgames.com_serp6.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/epicgames.com_serp6.jpg"
     }
+  ],
+  "sephora.ae": [
+    {
+      "source": "serp1",
+      "file": "sephora.ae_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sephora.ae_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "sephora.ae_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sephora.ae_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "sephora.ae_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sephora.ae_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "sephora.ae_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sephora.ae_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "sephora.ae_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sephora.ae_serp5.png"
+    }
   ]
 }
