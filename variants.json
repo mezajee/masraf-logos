@@ -3949,5 +3949,32 @@
       "file": "eldorado.gg_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eldorado.gg_logodev.png"
     }
+  ],
+  "nashchicken.ae": [
+    {
+      "source": "serp1",
+      "file": "nashchicken.ae_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nashchicken.ae_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "nashchicken.ae_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nashchicken.ae_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "nashchicken.ae_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nashchicken.ae_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "nashchicken.ae_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nashchicken.ae_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "nashchicken.ae_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nashchicken.ae_serp5.jpg"
+    }
   ]
 }
