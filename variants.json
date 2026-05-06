@@ -4325,5 +4325,22 @@
       "file": "scorpios-mini-mart_serp7.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/scorpios-mini-mart_serp7.jpg"
     }
+  ],
+  "thoraya-al-madena-pharmacy": [
+    {
+      "source": "serp1",
+      "file": "thoraya-al-madena-pharmacy_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thoraya-al-madena-pharmacy_serp1.png"
+    },
+    {
+      "source": "serp3",
+      "file": "thoraya-al-madena-pharmacy_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thoraya-al-madena-pharmacy_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "thoraya-al-madena-pharmacy_serp4.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thoraya-al-madena-pharmacy_serp4.svg"
+    }
   ]
 }
