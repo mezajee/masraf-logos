@@ -4030,5 +4030,32 @@
       "file": "graincafe.ae_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/graincafe.ae_serp5.png"
     }
+  ],
+  "lulu-albastakyah-bakery": [
+    {
+      "source": "serp1",
+      "file": "lulu-albastakyah-bakery_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lulu-albastakyah-bakery_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "lulu-albastakyah-bakery_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lulu-albastakyah-bakery_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "lulu-albastakyah-bakery_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lulu-albastakyah-bakery_serp3.png"
+    },
+    {
+      "source": "serp5",
+      "file": "lulu-albastakyah-bakery_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lulu-albastakyah-bakery_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "lulu-albastakyah-bakery_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lulu-albastakyah-bakery_serp6.jpg"
+    }
   ]
 }
