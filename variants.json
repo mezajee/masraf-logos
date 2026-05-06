@@ -4895,5 +4895,32 @@
       "file": "yogurtland.com_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/yogurtland.com_serp5.png"
     }
+  ],
+  "leelaslunches.com": [
+    {
+      "source": "serp1",
+      "file": "leelaslunches.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/leelaslunches.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "leelaslunches.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/leelaslunches.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "leelaslunches.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/leelaslunches.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "leelaslunches.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/leelaslunches.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "leelaslunches.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/leelaslunches.com_serp5.png"
+    }
   ]
 }
