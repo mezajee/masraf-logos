@@ -4288,5 +4288,42 @@
       "file": "reelcinemas.ae_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/reelcinemas.ae_serp5.png"
     }
+  ],
+  "scorpios-mini-mart": [
+    {
+      "source": "serp1",
+      "file": "scorpios-mini-mart_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/scorpios-mini-mart_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "scorpios-mini-mart_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/scorpios-mini-mart_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "scorpios-mini-mart_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/scorpios-mini-mart_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "scorpios-mini-mart_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/scorpios-mini-mart_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "scorpios-mini-mart_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/scorpios-mini-mart_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "scorpios-mini-mart_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/scorpios-mini-mart_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "scorpios-mini-mart_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/scorpios-mini-mart_serp7.jpg"
+    }
   ]
 }
