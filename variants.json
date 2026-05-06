@@ -4949,5 +4949,32 @@
       "file": "manao.ae_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/manao.ae_serp5.png"
     }
+  ],
+  "alkabayel.ae": [
+    {
+      "source": "serp1",
+      "file": "alkabayel.ae_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alkabayel.ae_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "alkabayel.ae_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alkabayel.ae_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "alkabayel.ae_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alkabayel.ae_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "alkabayel.ae_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alkabayel.ae_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "alkabayel.ae_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alkabayel.ae_serp5.jpg"
+    }
   ]
 }
