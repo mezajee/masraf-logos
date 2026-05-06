@@ -4723,5 +4723,32 @@
       "file": "luxuriategents.com_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/luxuriategents.com_serp5.png"
     }
+  ],
+  "sumosan.com": [
+    {
+      "source": "serp1",
+      "file": "sumosan.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sumosan.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "sumosan.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sumosan.com_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "sumosan.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sumosan.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "sumosan.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sumosan.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "sumosan.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sumosan.com_serp5.png"
+    }
   ]
 }
