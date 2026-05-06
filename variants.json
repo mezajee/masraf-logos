@@ -4111,5 +4111,32 @@
       "file": "mohideensupermarket.com_serp5.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mohideensupermarket.com_serp5.svg"
     }
+  ],
+  "fine-berry-minimart": [
+    {
+      "source": "serp1",
+      "file": "fine-berry-minimart_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fine-berry-minimart_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "fine-berry-minimart_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fine-berry-minimart_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "fine-berry-minimart_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fine-berry-minimart_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "fine-berry-minimart_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fine-berry-minimart_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "fine-berry-minimart_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fine-berry-minimart_serp5.png"
+    }
   ]
 }
