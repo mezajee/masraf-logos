@@ -4381,5 +4381,27 @@
       "file": "thevalet.ae_serp5.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thevalet.ae_serp5.svg"
     }
+  ],
+  "aquafun.ae": [
+    {
+      "source": "serp1",
+      "file": "aquafun.ae_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aquafun.ae_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "aquafun.ae_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aquafun.ae_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "aquafun.ae_serp3.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aquafun.ae_serp3.svg"
+    },
+    {
+      "source": "serp4",
+      "file": "aquafun.ae_serp4.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aquafun.ae_serp4.svg"
+    }
   ]
 }
