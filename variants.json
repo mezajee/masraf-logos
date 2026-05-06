@@ -4369,5 +4369,17 @@
       "file": "thedubaimall.com_serp5.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thedubaimall.com_serp5.jpg"
     }
+  ],
+  "thevalet.ae": [
+    {
+      "source": "serp3",
+      "file": "thevalet.ae_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thevalet.ae_serp3.png"
+    },
+    {
+      "source": "serp5",
+      "file": "thevalet.ae_serp5.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thevalet.ae_serp5.svg"
+    }
   ]
 }
