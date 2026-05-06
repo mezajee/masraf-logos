@@ -4057,5 +4057,32 @@
       "file": "lulu-albastakyah-bakery_serp6.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lulu-albastakyah-bakery_serp6.jpg"
     }
+  ],
+  "kohaj-supermarket": [
+    {
+      "source": "serp1",
+      "file": "kohaj-supermarket_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kohaj-supermarket_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "kohaj-supermarket_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kohaj-supermarket_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "kohaj-supermarket_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kohaj-supermarket_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "kohaj-supermarket_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kohaj-supermarket_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "kohaj-supermarket_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kohaj-supermarket_serp5.png"
+    }
   ]
 }
