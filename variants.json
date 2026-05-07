@@ -6337,5 +6337,27 @@
       "file": "rk-the-original_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rk-the-original_serp5.png"
     }
+  ],
+  "thoraya-al-madena-mini-mart": [
+    {
+      "source": "serp1",
+      "file": "thoraya-al-madena-mini-mart_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thoraya-al-madena-mini-mart_serp1.png"
+    },
+    {
+      "source": "serp3",
+      "file": "thoraya-al-madena-mini-mart_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thoraya-al-madena-mini-mart_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "thoraya-al-madena-mini-mart_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thoraya-al-madena-mini-mart_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "thoraya-al-madena-mini-mart_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thoraya-al-madena-mini-mart_serp5.png"
+    }
   ]
 }
