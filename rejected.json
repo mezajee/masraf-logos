@@ -600,5 +600,19 @@
     "activeFile": "",
     "activeUrl": "",
     "rejectedAt": "2026-05-07T05:34:26.738Z"
+  },
+  {
+    "fileKey": "courchevel.com",
+    "brandName": "Ski Boutique Courchevel",
+    "domain": "courchevel.com",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/courchevel.com_logodev.png",
+    "rejectedFile": "courchevel.com_logodev.png",
+    "source": "logodev",
+    "reasons": [
+      "generic"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-07T05:34:35.483Z"
   }
 ]
