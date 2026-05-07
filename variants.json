@@ -2975,9 +2975,34 @@
   ],
   "nacdubai.com": [
     {
-      "source": "worldvectorlogo",
-      "file": "nacdubai.com_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nacdubai.com_worldvectorlogo.svg"
+      "source": "serp1",
+      "file": "nacdubai.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nacdubai.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "nacdubai.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nacdubai.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "nacdubai.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nacdubai.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "nacdubai.com_serp4.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nacdubai.com_serp4.svg"
+    },
+    {
+      "source": "serp5",
+      "file": "nacdubai.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nacdubai.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "nacdubai.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nacdubai.com_serp6.jpg"
     }
   ],
   "taaleem.ae": [
