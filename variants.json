@@ -3857,14 +3857,49 @@
   ],
   "xstrike.com": [
     {
-      "source": "favicon",
-      "file": "xstrike.com_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xstrike.com_favicon.png"
+      "source": "serp1",
+      "file": "xstrike.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xstrike.com_serp1.png"
     },
     {
-      "source": "logodev",
-      "file": "xstrike.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xstrike.com_logodev.png"
+      "source": "serp2",
+      "file": "xstrike.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xstrike.com_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "xstrike.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xstrike.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "xstrike.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xstrike.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "xstrike.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xstrike.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "xstrike.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xstrike.com_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "xstrike.com_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xstrike.com_serp7.jpg"
+    },
+    {
+      "source": "serp8",
+      "file": "xstrike.com_serp8.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xstrike.com_serp8.jpg"
+    },
+    {
+      "source": "serp9",
+      "file": "xstrike.com_serp9.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xstrike.com_serp9.jpg"
     }
   ],
   "archerscoffee.com": [
