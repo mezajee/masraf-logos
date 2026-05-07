@@ -6719,7 +6719,10 @@
     {
       "source": "serp2",
       "file": "thebackyardrestaurant.com_serp2.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thebackyardrestaurant.com_serp2.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thebackyardrestaurant.com_serp2.png",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     },
     {
       "source": "serp3",
