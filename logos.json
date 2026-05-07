@@ -80,5 +80,11 @@
     "file": "bismi.com_serp1.png",
     "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp1.png",
     "confirmedAt": "2026-05-07"
+  },
+  "rumailahfarms.com": {
+    "status": "official",
+    "file": "rumailahfarms.com_serp3.png",
+    "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rumailahfarms.com_serp3.png",
+    "confirmedAt": "2026-05-07"
   }
 }
