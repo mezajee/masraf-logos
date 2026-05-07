@@ -1316,5 +1316,20 @@
     "activeFile": "",
     "activeUrl": "",
     "rejectedAt": "2026-05-07T13:34:42.404Z"
+  },
+  {
+    "fileKey": "dropdubai.ae",
+    "brandName": "Drop Coffee",
+    "domain": "dropdubai.ae",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dropdubai.ae_worldvectorlogo.svg",
+    "rejectedFile": "dropdubai.ae_worldvectorlogo.svg",
+    "source": "worldvectorlogo",
+    "reasons": [
+      "generic",
+      "wrong_brand"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-07T13:34:48.312Z"
   }
 ]
