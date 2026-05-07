@@ -6700,5 +6700,32 @@
       "file": "q2q-auto-spare-parts_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/q2q-auto-spare-parts_serp5.png"
     }
+  ],
+  "bon-voyage-juice": [
+    {
+      "source": "serp1",
+      "file": "bon-voyage-juice_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bon-voyage-juice_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "bon-voyage-juice_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bon-voyage-juice_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "bon-voyage-juice_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bon-voyage-juice_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "bon-voyage-juice_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bon-voyage-juice_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "bon-voyage-juice_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bon-voyage-juice_serp5.png"
+    }
   ]
 }
