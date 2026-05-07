@@ -3950,19 +3950,29 @@
   ],
   "eldorado.gg": [
     {
-      "source": "favicon",
-      "file": "eldorado.gg_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eldorado.gg_favicon.png"
+      "source": "serp1",
+      "file": "eldorado.gg_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eldorado.gg_serp1.png"
     },
     {
-      "source": "wikipedia",
-      "file": "eldorado.gg_wikipedia.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eldorado.gg_wikipedia.png"
+      "source": "serp2",
+      "file": "eldorado.gg_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eldorado.gg_serp2.svg"
     },
     {
-      "source": "logodev",
-      "file": "eldorado.gg_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eldorado.gg_logodev.png"
+      "source": "serp3",
+      "file": "eldorado.gg_serp3.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eldorado.gg_serp3.svg"
+    },
+    {
+      "source": "serp4",
+      "file": "eldorado.gg_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eldorado.gg_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "eldorado.gg_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eldorado.gg_serp5.png"
     }
   ],
   "nashchicken.ae": [
