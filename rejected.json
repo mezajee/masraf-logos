@@ -376,5 +376,19 @@
     "activeFile": "talabat.com_serp1.png",
     "activeUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/talabat.com_serp1.png",
     "rejectedAt": "2026-05-07T04:56:40.768Z"
+  },
+  {
+    "fileKey": "talabat.com",
+    "brandName": "Talabat",
+    "domain": "talabat.com",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/talabat.com_serp3.png",
+    "rejectedFile": "talabat.com_serp3.png",
+    "source": "serp3",
+    "reasons": [
+      "not_logo_related"
+    ],
+    "activeFile": "talabat.com_serp1.png",
+    "activeUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/talabat.com_serp1.png",
+    "rejectedAt": "2026-05-07T04:56:53.661Z"
   }
 ]
