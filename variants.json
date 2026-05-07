@@ -3801,19 +3801,29 @@
   ],
   "iex.ae": [
     {
-      "source": "favicon",
-      "file": "iex.ae_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/iex.ae_favicon.png"
+      "source": "serp1",
+      "file": "iex.ae_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/iex.ae_serp1.png"
     },
     {
-      "source": "worldvectorlogo",
-      "file": "iex.ae_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/iex.ae_worldvectorlogo.svg"
+      "source": "serp2",
+      "file": "iex.ae_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/iex.ae_serp2.jpg"
     },
     {
-      "source": "logodev",
-      "file": "iex.ae_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/iex.ae_logodev.png"
+      "source": "serp3",
+      "file": "iex.ae_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/iex.ae_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "iex.ae_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/iex.ae_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "iex.ae_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/iex.ae_serp5.jpg"
     }
   ],
   "store.steampowered.com": [
