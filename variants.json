@@ -1298,24 +1298,34 @@
   ],
   "hudsongroup.com": [
     {
-      "source": "favicon",
-      "file": "hudsongroup.com_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hudsongroup.com_favicon.png"
+      "source": "serp1",
+      "file": "hudsongroup.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hudsongroup.com_serp1.png"
     },
     {
-      "source": "worldvectorlogo",
-      "file": "hudsongroup.com_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hudsongroup.com_worldvectorlogo.svg"
+      "source": "serp2",
+      "file": "hudsongroup.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hudsongroup.com_serp2.png"
     },
     {
-      "source": "wikipedia",
-      "file": "hudsongroup.com_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hudsongroup.com_wikipedia.svg"
+      "source": "serp3",
+      "file": "hudsongroup.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hudsongroup.com_serp3.png"
     },
     {
-      "source": "logodev",
-      "file": "hudsongroup.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hudsongroup.com_logodev.png"
+      "source": "serp4",
+      "file": "hudsongroup.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hudsongroup.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "hudsongroup.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hudsongroup.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "hudsongroup.com_serp6.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hudsongroup.com_serp6.png"
     }
   ],
   "pinnacle-capital-investments": [
