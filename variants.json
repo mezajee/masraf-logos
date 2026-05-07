@@ -3505,19 +3505,34 @@
   ],
   "dealer.porsche.com": [
     {
-      "source": "favicon",
-      "file": "dealer.porsche.com_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dealer.porsche.com_favicon.png"
+      "source": "serp1",
+      "file": "dealer.porsche.com_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dealer.porsche.com_serp1.jpg"
     },
     {
-      "source": "wikipedia",
-      "file": "dealer.porsche.com_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dealer.porsche.com_wikipedia.svg"
+      "source": "serp2",
+      "file": "dealer.porsche.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dealer.porsche.com_serp2.jpg"
     },
     {
-      "source": "logodev",
-      "file": "dealer.porsche.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dealer.porsche.com_logodev.png"
+      "source": "serp3",
+      "file": "dealer.porsche.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dealer.porsche.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "dealer.porsche.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dealer.porsche.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "dealer.porsche.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dealer.porsche.com_serp5.jpg"
+    },
+    {
+      "source": "serp6",
+      "file": "dealer.porsche.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dealer.porsche.com_serp6.jpg"
     }
   ],
   "enoctasjeel.com": [
