@@ -923,5 +923,19 @@
     "activeFile": "",
     "activeUrl": "",
     "rejectedAt": "2026-05-07T08:31:57.678Z"
+  },
+  {
+    "fileKey": "al-labeeb-grocery",
+    "brandName": "Al Labeeb Grocery",
+    "domain": "",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-labeeb-grocery_worldvectorlogo.svg",
+    "rejectedFile": "al-labeeb-grocery_worldvectorlogo.svg",
+    "source": "worldvectorlogo",
+    "reasons": [
+      "wrong_brand"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-07T08:32:41.990Z"
   }
 ]
