@@ -914,27 +914,33 @@
     {
       "source": "serp6",
       "file": "oxygengyms.com_serp6.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oxygengyms.com_serp6.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oxygengyms.com_serp6.png",
+      "active": true,
+      "confirmed": true
     },
     {
       "source": "serp7",
       "file": "oxygengyms.com_serp7.jpg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oxygengyms.com_serp7.jpg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oxygengyms.com_serp7.jpg",
+      "active": false
     },
     {
       "source": "serp8",
       "file": "oxygengyms.com_serp8.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oxygengyms.com_serp8.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oxygengyms.com_serp8.png",
+      "active": false
     },
     {
       "source": "serp9",
       "file": "oxygengyms.com_serp9.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oxygengyms.com_serp9.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oxygengyms.com_serp9.png",
+      "active": false
     },
     {
       "source": "serp10",
       "file": "oxygengyms.com_serp10.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oxygengyms.com_serp10.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oxygengyms.com_serp10.png",
+      "active": false
     },
     {
       "source": "serp11",
