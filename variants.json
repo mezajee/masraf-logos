@@ -2606,14 +2606,29 @@
   ],
   "bluewatersdubai.ae": [
     {
-      "source": "favicon",
-      "file": "bluewatersdubai.ae_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bluewatersdubai.ae_favicon.png"
+      "source": "serp1",
+      "file": "bluewatersdubai.ae_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bluewatersdubai.ae_serp1.png"
     },
     {
-      "source": "logodev",
-      "file": "bluewatersdubai.ae_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bluewatersdubai.ae_logodev.png"
+      "source": "serp2",
+      "file": "bluewatersdubai.ae_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bluewatersdubai.ae_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "bluewatersdubai.ae_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bluewatersdubai.ae_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "bluewatersdubai.ae_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bluewatersdubai.ae_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "bluewatersdubai.ae_serp5.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bluewatersdubai.ae_serp5.svg"
     }
   ],
   "theroxycinemas.com": [
