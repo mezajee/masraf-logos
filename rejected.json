@@ -1331,5 +1331,19 @@
     "activeFile": "",
     "activeUrl": "",
     "rejectedAt": "2026-05-07T13:34:48.312Z"
+  },
+  {
+    "fileKey": "emarat.ae",
+    "brandName": "Emarat",
+    "domain": "emarat.ae",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emarat.ae_serp9.jpg",
+    "rejectedFile": "emarat.ae_serp9.jpg",
+    "source": "serp9",
+    "reasons": [
+      "not_logo_unrelated"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-07T17:29:53.199Z"
   }
 ]
