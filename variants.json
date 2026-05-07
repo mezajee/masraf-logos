@@ -3469,9 +3469,24 @@
   ],
   "freezuae.ae": [
     {
-      "source": "wikipedia",
-      "file": "freezuae.ae_wikipedia.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/freezuae.ae_wikipedia.png"
+      "source": "serp1",
+      "file": "freezuae.ae_serp1.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/freezuae.ae_serp1.webp"
+    },
+    {
+      "source": "serp2",
+      "file": "freezuae.ae_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/freezuae.ae_serp2.png"
+    },
+    {
+      "source": "serp4",
+      "file": "freezuae.ae_serp4.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/freezuae.ae_serp4.svg"
+    },
+    {
+      "source": "serp5",
+      "file": "freezuae.ae_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/freezuae.ae_serp5.png"
     }
   ],
   "bloxdigital.com": [
