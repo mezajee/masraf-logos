@@ -502,5 +502,19 @@
     "activeFile": "rumailahfarms.com_serp3.png",
     "activeUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rumailahfarms.com_serp3.png",
     "rejectedAt": "2026-05-07T05:21:36.711Z"
+  },
+  {
+    "fileKey": "oxygengyms.com",
+    "brandName": "Oxygen Gym",
+    "domain": "oxygengyms.com",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oxygengyms.com_serp11.jpg",
+    "rejectedFile": "oxygengyms.com_serp11.jpg",
+    "source": "serp11",
+    "reasons": [
+      "generic"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-07T05:23:27.291Z"
   }
 ]
