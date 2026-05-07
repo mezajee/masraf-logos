@@ -4953,6 +4953,31 @@
       "flagged": true,
       "confirmed": false,
       "active": false
+    },
+    {
+      "source": "serp1",
+      "file": "al-khawaneej-pharmacy.business.site_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-khawaneej-pharmacy.business.site_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "al-khawaneej-pharmacy.business.site_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-khawaneej-pharmacy.business.site_serp2.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "al-khawaneej-pharmacy.business.site_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-khawaneej-pharmacy.business.site_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "al-khawaneej-pharmacy.business.site_serp4.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-khawaneej-pharmacy.business.site_serp4.svg"
+    },
+    {
+      "source": "serp5",
+      "file": "al-khawaneej-pharmacy.business.site_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-khawaneej-pharmacy.business.site_serp5.png"
     }
   ],
   "abprinthouse.com": [
