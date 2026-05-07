@@ -5990,5 +5990,27 @@
       "file": "hippoboxmall.com_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hippoboxmall.com_serp5.png"
     }
+  ],
+  "rk-the-original": [
+    {
+      "source": "serp2",
+      "file": "rk-the-original_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rk-the-original_serp2.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "rk-the-original_serp3.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rk-the-original_serp3.svg"
+    },
+    {
+      "source": "serp4",
+      "file": "rk-the-original_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rk-the-original_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "rk-the-original_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rk-the-original_serp5.png"
+    }
   ]
 }
