@@ -951,5 +951,19 @@
     "activeFile": "",
     "activeUrl": "",
     "rejectedAt": "2026-05-07T11:21:38.926Z"
+  },
+  {
+    "fileKey": "c10-cafe",
+    "brandName": "C10 Cafe",
+    "domain": "",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/c10-cafe_wikipedia.svg",
+    "rejectedFile": "c10-cafe_wikipedia.svg",
+    "source": "wikipedia",
+    "reasons": [
+      "wrong_brand"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-07T11:21:47.861Z"
   }
 ]
