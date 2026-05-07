@@ -586,5 +586,19 @@
     "activeFile": "",
     "activeUrl": "",
     "rejectedAt": "2026-05-07T05:34:15.934Z"
+  },
+  {
+    "fileKey": "courchevel.com",
+    "brandName": "Ski Boutique Courchevel",
+    "domain": "courchevel.com",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/courchevel.com_worldvectorlogo.svg",
+    "rejectedFile": "courchevel.com_worldvectorlogo.svg",
+    "source": "worldvectorlogo",
+    "reasons": [
+      "generic"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-07T05:34:26.738Z"
   }
 ]
