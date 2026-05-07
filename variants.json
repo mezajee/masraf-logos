@@ -2186,24 +2186,28 @@
     {
       "source": "serp1",
       "file": "lululemon.com_serp1.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lululemon.com_serp1.svg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lululemon.com_serp1.svg",
+      "active": false
     },
     {
       "source": "serp2",
       "file": "lululemon.com_serp2.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lululemon.com_serp2.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lululemon.com_serp2.png",
+      "active": false
     },
     {
       "source": "serp3",
       "file": "lululemon.com_serp3.webp",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lululemon.com_serp3.webp",
-      "confirmed": true
+      "confirmed": true,
+      "active": true
     },
     {
       "source": "serp4",
       "file": "lululemon.com_serp4.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lululemon.com_serp4.png",
-      "confirmed": true
+      "confirmed": true,
+      "active": false
     },
     {
       "source": "serp5",
