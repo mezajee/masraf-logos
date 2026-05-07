@@ -3522,19 +3522,24 @@
   ],
   "enoctasjeel.com": [
     {
-      "source": "favicon",
-      "file": "enoctasjeel.com_favicon.jpg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/enoctasjeel.com_favicon.jpg"
+      "source": "serp1",
+      "file": "enoctasjeel.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/enoctasjeel.com_serp1.svg"
     },
     {
-      "source": "worldvectorlogo",
-      "file": "enoctasjeel.com_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/enoctasjeel.com_worldvectorlogo.svg"
+      "source": "serp5",
+      "file": "enoctasjeel.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/enoctasjeel.com_serp5.png"
     },
     {
-      "source": "logodev",
-      "file": "enoctasjeel.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/enoctasjeel.com_logodev.png"
+      "source": "serp6",
+      "file": "enoctasjeel.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/enoctasjeel.com_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "enoctasjeel.com_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/enoctasjeel.com_serp7.jpg"
     }
   ],
   "gsstations.ae": [
