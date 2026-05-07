@@ -5480,7 +5480,10 @@
     {
       "source": "serp9",
       "file": "emarat.ae_serp9.jpg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emarat.ae_serp9.jpg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emarat.ae_serp9.jpg",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     }
   ],
   "iex.ae": [
