@@ -1213,7 +1213,10 @@
     {
       "source": "logodev",
       "file": "courchevel.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/courchevel.com_logodev.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/courchevel.com_logodev.png",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     }
   ],
   "ounass.com": [
