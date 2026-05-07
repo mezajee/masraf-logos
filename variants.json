@@ -2732,9 +2732,29 @@
   ],
   "self-des-bosses": [
     {
-      "source": "worldvectorlogo",
-      "file": "self-des-bosses_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/self-des-bosses_worldvectorlogo.svg"
+      "source": "serp1",
+      "file": "self-des-bosses_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/self-des-bosses_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "self-des-bosses_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/self-des-bosses_serp2.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "self-des-bosses_serp3.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/self-des-bosses_serp3.svg"
+    },
+    {
+      "source": "serp4",
+      "file": "self-des-bosses_serp4.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/self-des-bosses_serp4.svg"
+    },
+    {
+      "source": "serp5",
+      "file": "self-des-bosses_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/self-des-bosses_serp5.png"
     }
   ],
   "lepilatus.com": [
