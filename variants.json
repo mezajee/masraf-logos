@@ -3767,19 +3767,39 @@
   ],
   "champion.com": [
     {
-      "source": "worldvectorlogo",
-      "file": "champion.com_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/champion.com_worldvectorlogo.svg"
+      "source": "serp1",
+      "file": "champion.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/champion.com_serp1.png"
     },
     {
-      "source": "wikipedia",
-      "file": "champion.com_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/champion.com_wikipedia.svg"
+      "source": "serp2",
+      "file": "champion.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/champion.com_serp2.png"
     },
     {
-      "source": "logodev",
-      "file": "champion.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/champion.com_logodev.png"
+      "source": "serp3",
+      "file": "champion.com_serp3.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/champion.com_serp3.svg"
+    },
+    {
+      "source": "serp4",
+      "file": "champion.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/champion.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "champion.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/champion.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "champion.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/champion.com_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "champion.com_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/champion.com_serp7.jpg"
     }
   ],
   "emarat.ae": [
