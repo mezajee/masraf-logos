@@ -2979,14 +2979,29 @@
   ],
   "s3v.com": [
     {
-      "source": "favicon",
-      "file": "s3v.com_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/s3v.com_favicon.png"
+      "source": "serp1",
+      "file": "s3v.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/s3v.com_serp1.svg"
     },
     {
-      "source": "logodev",
-      "file": "s3v.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/s3v.com_logodev.png"
+      "source": "serp2",
+      "file": "s3v.com_serp2.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/s3v.com_serp2.webp"
+    },
+    {
+      "source": "serp3",
+      "file": "s3v.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/s3v.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "s3v.com_serp4.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/s3v.com_serp4.webp"
+    },
+    {
+      "source": "serp5",
+      "file": "s3v.com_serp5.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/s3v.com_serp5.webp"
     }
   ],
   "ski-service.fr": [
