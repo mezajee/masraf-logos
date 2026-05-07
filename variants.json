@@ -6025,7 +6025,10 @@
     {
       "source": "serp4",
       "file": "spinneys.com_serp4.jpg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/spinneys.com_serp4.jpg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/spinneys.com_serp4.jpg",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     },
     {
       "source": "serp5",
