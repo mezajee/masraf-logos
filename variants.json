@@ -1844,7 +1844,10 @@
     {
       "source": "worldvectorlogo",
       "file": "dropdubai.ae_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dropdubai.ae_worldvectorlogo.svg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dropdubai.ae_worldvectorlogo.svg",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     },
     {
       "source": "wikipedia",
