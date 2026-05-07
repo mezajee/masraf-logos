@@ -3656,14 +3656,24 @@
   ],
   "al-mansoor-tyres": [
     {
-      "source": "worldvectorlogo",
-      "file": "al-mansoor-tyres_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-mansoor-tyres_worldvectorlogo.svg"
+      "source": "serp1",
+      "file": "al-mansoor-tyres_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-mansoor-tyres_serp1.svg"
     },
     {
-      "source": "wikipedia",
-      "file": "al-mansoor-tyres_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-mansoor-tyres_wikipedia.svg"
+      "source": "serp2",
+      "file": "al-mansoor-tyres_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-mansoor-tyres_serp2.png"
+    },
+    {
+      "source": "serp4",
+      "file": "al-mansoor-tyres_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-mansoor-tyres_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "al-mansoor-tyres_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-mansoor-tyres_serp5.png"
     }
   ],
   "jabal-arafat-tailors": [
