@@ -5853,5 +5853,32 @@
       "file": "cococopscb_serp4.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cococopscb_serp4.png"
     }
+  ],
+  "hippoboxmall.com": [
+    {
+      "source": "serp1",
+      "file": "hippoboxmall.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hippoboxmall.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "hippoboxmall.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hippoboxmall.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "hippoboxmall.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hippoboxmall.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "hippoboxmall.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hippoboxmall.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "hippoboxmall.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hippoboxmall.com_serp5.png"
+    }
   ]
 }
