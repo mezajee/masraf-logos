@@ -6734,7 +6734,10 @@
     {
       "source": "serp5",
       "file": "thebackyardrestaurant.com_serp5.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thebackyardrestaurant.com_serp5.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thebackyardrestaurant.com_serp5.png",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     }
   ],
   "luxuriategents.com": [
