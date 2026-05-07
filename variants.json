@@ -2843,19 +2843,29 @@
   ],
   "fas": [
     {
-      "source": "worldvectorlogo",
-      "file": "fas_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fas_worldvectorlogo.svg"
+      "source": "serp1",
+      "file": "fas_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fas_serp1.svg"
     },
     {
-      "source": "wikipedia",
-      "file": "fas_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fas_wikipedia.svg"
+      "source": "serp2",
+      "file": "fas_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fas_serp2.svg"
     },
     {
-      "source": "logodev_name",
-      "file": "fas_logodev_name.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fas_logodev_name.png"
+      "source": "serp4",
+      "file": "fas_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fas_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "fas_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fas_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "fas_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fas_serp6.jpg"
     }
   ],
   "carrefour.fr": [
