@@ -4963,7 +4963,10 @@
     {
       "source": "serp3",
       "file": "mumayaz.ae_serp3.jpg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mumayaz.ae_serp3.jpg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mumayaz.ae_serp3.jpg",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     },
     {
       "source": "serp5",
