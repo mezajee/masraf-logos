@@ -2784,19 +2784,29 @@
   ],
   "maisontournier.com": [
     {
-      "source": "worldvectorlogo",
-      "file": "maisontournier.com_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maisontournier.com_worldvectorlogo.svg"
+      "source": "serp1",
+      "file": "maisontournier.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maisontournier.com_serp1.png"
     },
     {
-      "source": "wikipedia",
-      "file": "maisontournier.com_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maisontournier.com_wikipedia.svg"
+      "source": "serp2",
+      "file": "maisontournier.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maisontournier.com_serp2.png"
     },
     {
-      "source": "logodev",
-      "file": "maisontournier.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maisontournier.com_logodev.png"
+      "source": "serp3",
+      "file": "maisontournier.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maisontournier.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "maisontournier.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maisontournier.com_serp4.png"
+    },
+    {
+      "source": "serp6",
+      "file": "maisontournier.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maisontournier.com_serp6.jpg"
     }
   ],
   "tesla.com": [
