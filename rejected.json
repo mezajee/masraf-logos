@@ -180,5 +180,19 @@
     "activeFile": "",
     "activeUrl": "",
     "rejectedAt": "2026-05-07T04:40:24.437Z"
+  },
+  {
+    "fileKey": "spinneys.com",
+    "brandName": "Spinneys",
+    "domain": "spinneys.com",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/spinneys.com_serp2.png",
+    "rejectedFile": "spinneys.com_serp2.png",
+    "source": "serp2",
+    "reasons": [
+      "wrong_brand"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-07T04:40:35.047Z"
   }
 ]
