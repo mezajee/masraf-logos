@@ -1329,52 +1329,63 @@
     {
       "source": "serp1",
       "file": "bismi.com_serp1.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp1.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp1.png",
+      "active": true,
+      "confirmed": true
     },
     {
       "source": "serp2",
       "file": "bismi.com_serp2.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp2.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp2.png",
+      "active": false
     },
     {
       "source": "serp3",
       "file": "bismi.com_serp3.jpg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp3.jpg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp3.jpg",
+      "active": false
     },
     {
       "source": "serp4",
       "file": "bismi.com_serp4.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp4.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp4.png",
+      "active": false
     },
     {
       "source": "serp5",
       "file": "bismi.com_serp5.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp5.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp5.png",
+      "active": false
     },
     {
       "source": "serp6",
       "file": "bismi.com_serp6.jpg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp6.jpg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp6.jpg",
+      "active": false
     },
     {
       "source": "serp7",
       "file": "bismi.com_serp7.jpg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp7.jpg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp7.jpg",
+      "active": false
     },
     {
       "source": "serp8",
       "file": "bismi.com_serp8.jpg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp8.jpg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp8.jpg",
+      "active": false
     },
     {
       "source": "serp9",
       "file": "bismi.com_serp9.jpg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp9.jpg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp9.jpg",
+      "active": false
     },
     {
       "source": "serp10",
       "file": "bismi.com_serp10.jpg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp10.jpg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp10.jpg",
+      "active": false
     }
   ],
   "gatheron.ae": [
