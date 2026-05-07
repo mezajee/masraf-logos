@@ -3674,9 +3674,29 @@
   ],
   "al-maroof-auto-maintenance": [
     {
-      "source": "worldvectorlogo",
-      "file": "al-maroof-auto-maintenance_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-maroof-auto-maintenance_worldvectorlogo.svg"
+      "source": "serp1",
+      "file": "al-maroof-auto-maintenance_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-maroof-auto-maintenance_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "al-maroof-auto-maintenance_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-maroof-auto-maintenance_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "al-maroof-auto-maintenance_serp3.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-maroof-auto-maintenance_serp3.svg"
+    },
+    {
+      "source": "serp4",
+      "file": "al-maroof-auto-maintenance_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-maroof-auto-maintenance_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "al-maroof-auto-maintenance_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-maroof-auto-maintenance_serp5.png"
     }
   ],
   "al-mansoor-tyres": [
