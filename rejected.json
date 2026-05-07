@@ -334,5 +334,19 @@
     "activeFile": "",
     "activeUrl": "",
     "rejectedAt": "2026-05-07T04:54:55.774Z"
+  },
+  {
+    "fileKey": "mumayaz.ae",
+    "brandName": "RTA Al Mumayaz Vehicle Testing",
+    "domain": "mumayaz.ae",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mumayaz.ae_serp5.png",
+    "rejectedFile": "mumayaz.ae_serp5.png",
+    "source": "serp5",
+    "reasons": [
+      "wrong_brand"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-07T04:55:06.083Z"
   }
 ]
