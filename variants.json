@@ -5116,5 +5116,37 @@
       "file": "baskinrobbinsmea.com_serp6.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/baskinrobbinsmea.com_serp6.jpg"
     }
+  ],
+  "screamhouses.com": [
+    {
+      "source": "serp1",
+      "file": "screamhouses.com_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/screamhouses.com_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "screamhouses.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/screamhouses.com_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "screamhouses.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/screamhouses.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "screamhouses.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/screamhouses.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "screamhouses.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/screamhouses.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "screamhouses.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/screamhouses.com_serp6.jpg"
+    }
   ]
 }
