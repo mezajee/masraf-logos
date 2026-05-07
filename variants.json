@@ -6845,52 +6845,63 @@
     {
       "source": "serp1",
       "file": "sumosan.com_serp1.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sumosan.com_serp1.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sumosan.com_serp1.png",
+      "active": true,
+      "confirmed": true
     },
     {
       "source": "serp2",
       "file": "sumosan.com_serp2.jpg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sumosan.com_serp2.jpg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sumosan.com_serp2.jpg",
+      "active": false
     },
     {
       "source": "serp3",
       "file": "sumosan.com_serp3.jpg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sumosan.com_serp3.jpg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sumosan.com_serp3.jpg",
+      "active": false
     },
     {
       "source": "serp4",
       "file": "sumosan.com_serp4.jpg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sumosan.com_serp4.jpg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sumosan.com_serp4.jpg",
+      "active": false
     },
     {
       "source": "serp5",
       "file": "sumosan.com_serp5.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sumosan.com_serp5.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sumosan.com_serp5.png",
+      "active": false
     },
     {
       "source": "serp6",
       "file": "sumosan.com_serp6.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sumosan.com_serp6.svg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sumosan.com_serp6.svg",
+      "active": false
     },
     {
       "source": "serp7",
       "file": "sumosan.com_serp7.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sumosan.com_serp7.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sumosan.com_serp7.png",
+      "active": false
     },
     {
       "source": "serp8",
       "file": "sumosan.com_serp8.jpg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sumosan.com_serp8.jpg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sumosan.com_serp8.jpg",
+      "active": false
     },
     {
       "source": "serp9",
       "file": "sumosan.com_serp9.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sumosan.com_serp9.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sumosan.com_serp9.png",
+      "active": false
     },
     {
       "source": "serp10",
       "file": "sumosan.com_serp10.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sumosan.com_serp10.svg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sumosan.com_serp10.svg",
+      "active": false
     }
   ],
   "tremplin-courchevel.com": [
