@@ -3288,14 +3288,29 @@
   ],
   "talabat.com": [
     {
-      "source": "wikipedia",
-      "file": "talabat.com_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/talabat.com_wikipedia.svg"
+      "source": "serp1",
+      "file": "talabat.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/talabat.com_serp1.png"
     },
     {
-      "source": "logodev",
-      "file": "talabat.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/talabat.com_logodev.png"
+      "source": "serp3",
+      "file": "talabat.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/talabat.com_serp3.png"
+    },
+    {
+      "source": "serp5",
+      "file": "talabat.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/talabat.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "talabat.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/talabat.com_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "talabat.com_serp7.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/talabat.com_serp7.png"
     }
   ],
   "saddledubai.com": [
