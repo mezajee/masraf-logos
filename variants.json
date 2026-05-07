@@ -6883,7 +6883,8 @@
       "source": "serp7",
       "file": "sumosan.com_serp7.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sumosan.com_serp7.png",
-      "active": false
+      "active": false,
+      "confirmed": true
     },
     {
       "source": "serp8",
