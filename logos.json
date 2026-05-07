@@ -47,5 +47,12 @@
     "variantFile": "3fils.com_logodev.png",
     "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/3fils.com.png",
     "confirmedAt": "2026-05-07"
+  },
+  "spinneys.com": {
+    "status": "official",
+    "file": "spinneys.com.jpg",
+    "variantFile": "spinneys.com_serp1.jpg",
+    "githubUrl": null,
+    "confirmedAt": "2026-05-07"
   }
 }
