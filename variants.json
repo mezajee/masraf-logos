@@ -2272,19 +2272,29 @@
   ],
   "ae.boots.com": [
     {
-      "source": "worldvectorlogo",
-      "file": "ae.boots.com_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ae.boots.com_worldvectorlogo.svg"
+      "source": "serp1",
+      "file": "ae.boots.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ae.boots.com_serp1.svg"
     },
     {
-      "source": "wikipedia",
-      "file": "ae.boots.com_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ae.boots.com_wikipedia.svg"
+      "source": "serp2",
+      "file": "ae.boots.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ae.boots.com_serp2.jpg"
     },
     {
-      "source": "logodev",
-      "file": "ae.boots.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ae.boots.com_logodev.png"
+      "source": "serp3",
+      "file": "ae.boots.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ae.boots.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "ae.boots.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ae.boots.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "ae.boots.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ae.boots.com_serp5.png"
     }
   ],
   "al-khafayef-al-zahabiya-cafeteria": [
