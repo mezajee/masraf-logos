@@ -3369,7 +3369,9 @@
       "source": "serp2",
       "file": "theroxycinemas.com_serp2.webp",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/theroxycinemas.com_serp2.webp",
-      "active": false
+      "active": false,
+      "flagged": true,
+      "confirmed": false
     },
     {
       "source": "serp3",
