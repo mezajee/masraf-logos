@@ -2098,19 +2098,29 @@
   ],
   "amazon.ae": [
     {
-      "source": "worldvectorlogo",
-      "file": "amazon.ae_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/amazon.ae_worldvectorlogo.svg"
+      "source": "serp1",
+      "file": "amazon.ae_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/amazon.ae_serp1.svg"
     },
     {
-      "source": "logodev_name",
-      "file": "amazon.ae_logodev_name.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/amazon.ae_logodev_name.png"
+      "source": "serp2",
+      "file": "amazon.ae_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/amazon.ae_serp2.png"
     },
     {
-      "source": "logodev",
-      "file": "amazon.ae_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/amazon.ae_logodev.png"
+      "source": "serp3",
+      "file": "amazon.ae_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/amazon.ae_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "amazon.ae_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/amazon.ae_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "amazon.ae_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/amazon.ae_serp5.png"
     }
   ],
   "armani.com": [
