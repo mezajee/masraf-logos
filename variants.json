@@ -1230,9 +1230,44 @@
   ],
   "gatheron.ae": [
     {
-      "source": "wikipedia",
-      "file": "gatheron.ae_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gatheron.ae_wikipedia.svg"
+      "source": "serp1",
+      "file": "gatheron.ae_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gatheron.ae_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "gatheron.ae_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gatheron.ae_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "gatheron.ae_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gatheron.ae_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "gatheron.ae_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gatheron.ae_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "gatheron.ae_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gatheron.ae_serp5.jpg"
+    },
+    {
+      "source": "serp6",
+      "file": "gatheron.ae_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gatheron.ae_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "gatheron.ae_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gatheron.ae_serp7.jpg"
+    },
+    {
+      "source": "serp8",
+      "file": "gatheron.ae_serp8.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gatheron.ae_serp8.jpg"
     }
   ],
   "store.supercell.com": [
