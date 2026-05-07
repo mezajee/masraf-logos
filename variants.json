@@ -2132,24 +2132,34 @@
   ],
   "virginmegastore.ae": [
     {
-      "source": "favicon",
-      "file": "virginmegastore.ae_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/virginmegastore.ae_favicon.png"
+      "source": "serp1",
+      "file": "virginmegastore.ae_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/virginmegastore.ae_serp1.png"
     },
     {
-      "source": "worldvectorlogo",
-      "file": "virginmegastore.ae_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/virginmegastore.ae_worldvectorlogo.svg"
+      "source": "serp2",
+      "file": "virginmegastore.ae_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/virginmegastore.ae_serp2.jpg"
     },
     {
-      "source": "wikipedia",
-      "file": "virginmegastore.ae_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/virginmegastore.ae_wikipedia.svg"
+      "source": "serp3",
+      "file": "virginmegastore.ae_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/virginmegastore.ae_serp3.jpg"
     },
     {
-      "source": "logodev",
-      "file": "virginmegastore.ae_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/virginmegastore.ae_logodev.png"
+      "source": "serp4",
+      "file": "virginmegastore.ae_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/virginmegastore.ae_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "virginmegastore.ae_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/virginmegastore.ae_serp5.jpg"
+    },
+    {
+      "source": "serp6",
+      "file": "virginmegastore.ae_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/virginmegastore.ae_serp6.jpg"
     }
   ],
   "cavo-espresso-bar": [
