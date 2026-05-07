@@ -2236,14 +2236,29 @@
   ],
   "uae.cremelondon.com": [
     {
-      "source": "favicon",
-      "file": "uae.cremelondon.com_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uae.cremelondon.com_favicon.png"
+      "source": "serp1",
+      "file": "uae.cremelondon.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uae.cremelondon.com_serp1.png"
     },
     {
-      "source": "logodev",
-      "file": "uae.cremelondon.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uae.cremelondon.com_logodev.png"
+      "source": "serp2",
+      "file": "uae.cremelondon.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uae.cremelondon.com_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "uae.cremelondon.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uae.cremelondon.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "uae.cremelondon.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uae.cremelondon.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "uae.cremelondon.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uae.cremelondon.com_serp5.png"
     }
   ],
   "asmaasgroup.com": [
