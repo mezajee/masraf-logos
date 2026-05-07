@@ -839,5 +839,19 @@
     "activeFile": "lululemon.com_serp2.png",
     "activeUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lululemon.com_serp2.png",
     "rejectedAt": "2026-05-07T06:13:27.779Z"
+  },
+  {
+    "fileKey": "levelshoes.com",
+    "brandName": "Level Shoes",
+    "domain": "levelshoes.com",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/levelshoes.com_serp5.jpg",
+    "rejectedFile": "levelshoes.com_serp5.jpg",
+    "source": "serp5",
+    "reasons": [
+      "not_logo_related"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-07T08:30:06.661Z"
   }
 ]
