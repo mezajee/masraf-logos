@@ -1161,5 +1161,19 @@
     "activeFile": "",
     "activeUrl": "",
     "rejectedAt": "2026-05-07T12:20:43.283Z"
+  },
+  {
+    "fileKey": "thebackyardrestaurant.com",
+    "brandName": "Backyard",
+    "domain": "thebackyardrestaurant.com",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thebackyardrestaurant.com_serp2.png",
+    "rejectedFile": "thebackyardrestaurant.com_serp2.png",
+    "source": "serp2",
+    "reasons": [
+      "generic"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-07T12:20:50.151Z"
   }
 ]
