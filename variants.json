@@ -896,6 +896,41 @@
       "flagged": true,
       "confirmed": false,
       "active": false
+    },
+    {
+      "source": "serp6",
+      "file": "oxygengyms.com_serp6.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oxygengyms.com_serp6.png"
+    },
+    {
+      "source": "serp7",
+      "file": "oxygengyms.com_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oxygengyms.com_serp7.jpg"
+    },
+    {
+      "source": "serp8",
+      "file": "oxygengyms.com_serp8.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oxygengyms.com_serp8.png"
+    },
+    {
+      "source": "serp9",
+      "file": "oxygengyms.com_serp9.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oxygengyms.com_serp9.png"
+    },
+    {
+      "source": "serp10",
+      "file": "oxygengyms.com_serp10.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oxygengyms.com_serp10.png"
+    },
+    {
+      "source": "serp11",
+      "file": "oxygengyms.com_serp11.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oxygengyms.com_serp11.jpg"
+    },
+    {
+      "source": "serp12",
+      "file": "oxygengyms.com_serp12.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oxygengyms.com_serp12.jpg"
     }
   ],
   "mxodidesigns.com": [
