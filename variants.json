@@ -6495,7 +6495,7 @@
       "source": "serp1",
       "file": "tremplin-courchevel.com_serp1.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tremplin-courchevel.com_serp1.svg",
-      "active": true,
+      "active": false,
       "confirmed": true
     },
     {
@@ -6526,7 +6526,7 @@
       "source": "serp5",
       "file": "tremplin-courchevel.com_serp5.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tremplin-courchevel.com_serp5.svg",
-      "active": false,
+      "active": true,
       "confirmed": true
     },
     {
