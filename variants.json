@@ -2741,14 +2741,29 @@
   ],
   "lasoucoupecourchevel.com": [
     {
-      "source": "worldvectorlogo",
-      "file": "lasoucoupecourchevel.com_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lasoucoupecourchevel.com_worldvectorlogo.svg"
+      "source": "serp1",
+      "file": "lasoucoupecourchevel.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lasoucoupecourchevel.com_serp1.svg"
     },
     {
-      "source": "logodev",
-      "file": "lasoucoupecourchevel.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lasoucoupecourchevel.com_logodev.png"
+      "source": "serp2",
+      "file": "lasoucoupecourchevel.com_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lasoucoupecourchevel.com_serp2.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "lasoucoupecourchevel.com_serp3.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lasoucoupecourchevel.com_serp3.webp"
+    },
+    {
+      "source": "serp4",
+      "file": "lasoucoupecourchevel.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lasoucoupecourchevel.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "lasoucoupecourchevel.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lasoucoupecourchevel.com_serp5.png"
     }
   ],
   "millesabords-courchevel.com": [
