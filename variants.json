@@ -3730,9 +3730,39 @@
   ],
   "darkroomdubai.com": [
     {
-      "source": "wikipedia",
-      "file": "darkroomdubai.com_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/darkroomdubai.com_wikipedia.svg"
+      "source": "serp1",
+      "file": "darkroomdubai.com_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/darkroomdubai.com_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "darkroomdubai.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/darkroomdubai.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "darkroomdubai.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/darkroomdubai.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "darkroomdubai.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/darkroomdubai.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "darkroomdubai.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/darkroomdubai.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "darkroomdubai.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/darkroomdubai.com_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "darkroomdubai.com_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/darkroomdubai.com_serp7.jpg"
     }
   ],
   "champion.com": [
