@@ -2342,24 +2342,29 @@
   ],
   "marksandspencer.com": [
     {
-      "source": "worldvectorlogo",
-      "file": "marksandspencer.com_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/marksandspencer.com_worldvectorlogo.svg"
+      "source": "serp1",
+      "file": "marksandspencer.com_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/marksandspencer.com_serp1.jpg"
     },
     {
-      "source": "wikipedia",
-      "file": "marksandspencer.com_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/marksandspencer.com_wikipedia.svg"
+      "source": "serp2",
+      "file": "marksandspencer.com_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/marksandspencer.com_serp2.svg"
     },
     {
-      "source": "logodev_name",
-      "file": "marksandspencer.com_logodev_name.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/marksandspencer.com_logodev_name.png"
+      "source": "serp3",
+      "file": "marksandspencer.com_serp3.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/marksandspencer.com_serp3.svg"
     },
     {
-      "source": "logodev",
-      "file": "marksandspencer.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/marksandspencer.com_logodev.png"
+      "source": "serp4",
+      "file": "marksandspencer.com_serp4.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/marksandspencer.com_serp4.svg"
+    },
+    {
+      "source": "serp5",
+      "file": "marksandspencer.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/marksandspencer.com_serp5.png"
     }
   ],
   "almaya.ae": [
