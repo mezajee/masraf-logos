@@ -3689,19 +3689,24 @@
   ],
   "mumayaz.ae": [
     {
-      "source": "favicon",
-      "file": "mumayaz.ae_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mumayaz.ae_favicon.png"
+      "source": "serp1",
+      "file": "mumayaz.ae_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mumayaz.ae_serp1.png"
     },
     {
-      "source": "worldvectorlogo",
-      "file": "mumayaz.ae_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mumayaz.ae_worldvectorlogo.svg"
+      "source": "serp2",
+      "file": "mumayaz.ae_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mumayaz.ae_serp2.jpg"
     },
     {
-      "source": "logodev",
-      "file": "mumayaz.ae_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mumayaz.ae_logodev.png"
+      "source": "serp3",
+      "file": "mumayaz.ae_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mumayaz.ae_serp3.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "mumayaz.ae_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mumayaz.ae_serp5.png"
     }
   ],
   "asterhospitals.ae": [
