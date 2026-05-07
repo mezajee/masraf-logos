@@ -190,7 +190,10 @@
     {
       "source": "worldvectorlogo",
       "file": "al-labeeb-grocery_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-labeeb-grocery_worldvectorlogo.svg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-labeeb-grocery_worldvectorlogo.svg",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     }
   ],
   "kitopi.com": [
