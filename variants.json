@@ -2364,19 +2364,49 @@
   ],
   "almaya.ae": [
     {
-      "source": "worldvectorlogo",
-      "file": "almaya.ae_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/almaya.ae_worldvectorlogo.svg"
+      "source": "serp1",
+      "file": "almaya.ae_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/almaya.ae_serp1.png"
     },
     {
-      "source": "wikipedia",
-      "file": "almaya.ae_wikipedia.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/almaya.ae_wikipedia.png"
+      "source": "serp2",
+      "file": "almaya.ae_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/almaya.ae_serp2.jpg"
     },
     {
-      "source": "logodev",
-      "file": "almaya.ae_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/almaya.ae_logodev.png"
+      "source": "serp3",
+      "file": "almaya.ae_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/almaya.ae_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "almaya.ae_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/almaya.ae_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "almaya.ae_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/almaya.ae_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "almaya.ae_serp6.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/almaya.ae_serp6.png"
+    },
+    {
+      "source": "serp7",
+      "file": "almaya.ae_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/almaya.ae_serp7.jpg"
+    },
+    {
+      "source": "serp8",
+      "file": "almaya.ae_serp8.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/almaya.ae_serp8.jpg"
+    },
+    {
+      "source": "serp9",
+      "file": "almaya.ae_serp9.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/almaya.ae_serp9.jpg"
     }
   ],
   "al-manara-mini-mart": [
