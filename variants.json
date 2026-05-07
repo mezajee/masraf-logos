@@ -3281,9 +3281,24 @@
   ],
   "al-sadara-gents-salon": [
     {
-      "source": "worldvectorlogo",
-      "file": "al-sadara-gents-salon_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-sadara-gents-salon_worldvectorlogo.svg"
+      "source": "serp1",
+      "file": "al-sadara-gents-salon_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-sadara-gents-salon_serp1.png"
+    },
+    {
+      "source": "serp3",
+      "file": "al-sadara-gents-salon_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-sadara-gents-salon_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "al-sadara-gents-salon_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-sadara-gents-salon_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "al-sadara-gents-salon_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-sadara-gents-salon_serp5.png"
     }
   ],
   "talabat.com": [
