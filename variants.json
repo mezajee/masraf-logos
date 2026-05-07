@@ -6585,7 +6585,10 @@
     {
       "source": "serp3",
       "file": "luxuriategents.com_serp3.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/luxuriategents.com_serp3.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/luxuriategents.com_serp3.png",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     },
     {
       "source": "serp4",
