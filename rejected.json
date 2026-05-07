@@ -684,5 +684,19 @@
     "activeFile": "",
     "activeUrl": "",
     "rejectedAt": "2026-05-07T05:46:32.882Z"
+  },
+  {
+    "fileKey": "bigtbarbecue.com",
+    "brandName": "Big T BBQ",
+    "domain": "bigtbarbecue.com",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bigtbarbecue.com_worldvectorlogo.svg",
+    "rejectedFile": "bigtbarbecue.com_worldvectorlogo.svg",
+    "source": "worldvectorlogo",
+    "reasons": [
+      "generic"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-07T05:46:37.483Z"
   }
 ]
