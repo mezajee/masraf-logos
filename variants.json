@@ -2963,14 +2963,29 @@
   ],
   "orlandosportsuae.com": [
     {
-      "source": "favicon",
-      "file": "orlandosportsuae.com_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/orlandosportsuae.com_favicon.png"
+      "source": "serp1",
+      "file": "orlandosportsuae.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/orlandosportsuae.com_serp1.png"
     },
     {
-      "source": "logodev",
-      "file": "orlandosportsuae.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/orlandosportsuae.com_logodev.png"
+      "source": "serp2",
+      "file": "orlandosportsuae.com_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/orlandosportsuae.com_serp2.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "orlandosportsuae.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/orlandosportsuae.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "orlandosportsuae.com_serp4.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/orlandosportsuae.com_serp4.svg"
+    },
+    {
+      "source": "serp5",
+      "file": "orlandosportsuae.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/orlandosportsuae.com_serp5.png"
     }
   ],
   "nacdubai.com": [
