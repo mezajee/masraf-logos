@@ -3835,24 +3835,29 @@
   ],
   "apple.com": [
     {
-      "source": "favicon",
-      "file": "apple.com_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/apple.com_favicon.png"
+      "source": "serp1",
+      "file": "apple.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/apple.com_serp1.svg"
     },
     {
-      "source": "worldvectorlogo",
-      "file": "apple.com_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/apple.com_worldvectorlogo.svg"
+      "source": "serp2",
+      "file": "apple.com_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/apple.com_serp2.svg"
     },
     {
-      "source": "seeklogo",
-      "file": "apple.com_seeklogo.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/apple.com_seeklogo.png"
+      "source": "serp3",
+      "file": "apple.com_serp3.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/apple.com_serp3.svg"
     },
     {
-      "source": "logodev",
-      "file": "apple.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/apple.com_logodev.png"
+      "source": "serp4",
+      "file": "apple.com_serp4.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/apple.com_serp4.svg"
+    },
+    {
+      "source": "serp5",
+      "file": "apple.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/apple.com_serp5.png"
     }
   ],
   "xstrike.com": [
