@@ -712,5 +712,19 @@
     "activeFile": "",
     "activeUrl": "",
     "rejectedAt": "2026-05-07T06:07:55.222Z"
+  },
+  {
+    "fileKey": "al-khawaneej-pharmacy.business.site",
+    "brandName": "Al Khawaneej Pharmacy",
+    "domain": "al-khawaneej-pharmacy.business.site",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-khawaneej-pharmacy.business.site_worldvectorlogo.svg",
+    "rejectedFile": "al-khawaneej-pharmacy.business.site_worldvectorlogo.svg",
+    "source": "worldvectorlogo",
+    "reasons": [
+      "wrong_brand"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-07T06:08:07.266Z"
   }
 ]
