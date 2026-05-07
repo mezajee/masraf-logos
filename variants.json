@@ -3541,14 +3541,24 @@
   ],
   "aseertime.com": [
     {
-      "source": "favicon",
-      "file": "aseertime.com_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aseertime.com_favicon.png"
+      "source": "serp1",
+      "file": "aseertime.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aseertime.com_serp1.png"
     },
     {
-      "source": "logodev",
-      "file": "aseertime.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aseertime.com_logodev.png"
+      "source": "serp2",
+      "file": "aseertime.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aseertime.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "aseertime.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aseertime.com_serp3.png"
+    },
+    {
+      "source": "serp5",
+      "file": "aseertime.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aseertime.com_serp5.png"
     }
   ],
   "barbecue-station": [
