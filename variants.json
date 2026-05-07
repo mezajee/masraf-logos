@@ -3846,9 +3846,29 @@
   ],
   "luluhypermarket.com": [
     {
-      "source": "logodev",
-      "file": "luluhypermarket.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/luluhypermarket.com_logodev.png"
+      "source": "serp1",
+      "file": "luluhypermarket.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/luluhypermarket.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "luluhypermarket.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/luluhypermarket.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "luluhypermarket.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/luluhypermarket.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "luluhypermarket.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/luluhypermarket.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "luluhypermarket.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/luluhypermarket.com_serp5.png"
     }
   ],
   "g2a.com": [
