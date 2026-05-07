@@ -5757,6 +5757,41 @@
       "flagged": true,
       "confirmed": false,
       "active": false
+    },
+    {
+      "source": "serp8",
+      "file": "kohaj-supermarket_serp8.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kohaj-supermarket_serp8.png"
+    },
+    {
+      "source": "serp9",
+      "file": "kohaj-supermarket_serp9.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kohaj-supermarket_serp9.svg"
+    },
+    {
+      "source": "serp10",
+      "file": "kohaj-supermarket_serp10.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kohaj-supermarket_serp10.svg"
+    },
+    {
+      "source": "serp11",
+      "file": "kohaj-supermarket_serp11.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kohaj-supermarket_serp11.png"
+    },
+    {
+      "source": "serp12",
+      "file": "kohaj-supermarket_serp12.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kohaj-supermarket_serp12.svg"
+    },
+    {
+      "source": "serp13",
+      "file": "kohaj-supermarket_serp13.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kohaj-supermarket_serp13.jpg"
+    },
+    {
+      "source": "serp14",
+      "file": "kohaj-supermarket_serp14.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kohaj-supermarket_serp14.png"
     }
   ],
   "mohideensupermarket.com": [
