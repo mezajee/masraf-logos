@@ -2381,9 +2381,29 @@
   ],
   "al-manara-mini-mart": [
     {
-      "source": "worldvectorlogo",
-      "file": "al-manara-mini-mart_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-manara-mini-mart_worldvectorlogo.svg"
+      "source": "serp1",
+      "file": "al-manara-mini-mart_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-manara-mini-mart_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "al-manara-mini-mart_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-manara-mini-mart_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "al-manara-mini-mart_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-manara-mini-mart_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "al-manara-mini-mart_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-manara-mini-mart_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "al-manara-mini-mart_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-manara-mini-mart_serp5.png"
     }
   ],
   "pullandbear.com": [
