@@ -6262,7 +6262,10 @@
     {
       "source": "serp6",
       "file": "binghatti.com_serp6.jpg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/binghatti.com_serp6.jpg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/binghatti.com_serp6.jpg",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     }
   ],
   "yogurtland.com": [
