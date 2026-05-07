@@ -152,5 +152,9 @@
   "al-labeeb-grocery": {
     "status": "initials",
     "confirmedAt": "2026-05-07"
+  },
+  "c10-cafe": {
+    "status": "initials",
+    "confirmedAt": "2026-05-07"
   }
 }
