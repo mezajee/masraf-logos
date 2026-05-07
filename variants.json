@@ -70,17 +70,21 @@
     {
       "source": "worldvectorlogo",
       "file": "celine.com_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/celine.com_worldvectorlogo.svg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/celine.com_worldvectorlogo.svg",
+      "active": true,
+      "confirmed": true
     },
     {
       "source": "wikipedia",
       "file": "celine.com_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/celine.com_wikipedia.svg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/celine.com_wikipedia.svg",
+      "active": false
     },
     {
       "source": "logodev",
       "file": "celine.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/celine.com_logodev.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/celine.com_logodev.png",
+      "active": false
     }
   ],
   "eatx.com": [
