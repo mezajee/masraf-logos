@@ -2982,19 +2982,34 @@
   ],
   "taaleem.ae": [
     {
-      "source": "favicon",
-      "file": "taaleem.ae_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/taaleem.ae_favicon.png"
+      "source": "serp1",
+      "file": "taaleem.ae_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/taaleem.ae_serp1.png"
     },
     {
-      "source": "wikipedia",
-      "file": "taaleem.ae_wikipedia.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/taaleem.ae_wikipedia.png"
+      "source": "serp2",
+      "file": "taaleem.ae_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/taaleem.ae_serp2.png"
     },
     {
-      "source": "logodev",
-      "file": "taaleem.ae_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/taaleem.ae_logodev.png"
+      "source": "serp3",
+      "file": "taaleem.ae_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/taaleem.ae_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "taaleem.ae_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/taaleem.ae_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "taaleem.ae_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/taaleem.ae_serp5.jpg"
+    },
+    {
+      "source": "serp6",
+      "file": "taaleem.ae_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/taaleem.ae_serp6.jpg"
     }
   ],
   "monza-cafe": [
