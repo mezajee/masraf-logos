@@ -1197,7 +1197,10 @@
     {
       "source": "worldvectorlogo",
       "file": "courchevel.com_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/courchevel.com_worldvectorlogo.svg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/courchevel.com_worldvectorlogo.svg",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     },
     {
       "source": "wikipedia",
