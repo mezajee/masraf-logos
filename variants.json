@@ -2193,7 +2193,7 @@
       "source": "serp2",
       "file": "lululemon.com_serp2.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lululemon.com_serp2.png",
-      "active": false,
+      "active": true,
       "confirmed": true
     },
     {
@@ -2201,7 +2201,7 @@
       "file": "lululemon.com_serp3.webp",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lululemon.com_serp3.webp",
       "confirmed": true,
-      "active": true
+      "active": false
     },
     {
       "source": "serp4",
