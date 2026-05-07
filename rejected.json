@@ -741,5 +741,19 @@
     "activeFile": "deliveroo.ae_serp1.png",
     "activeUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/deliveroo.ae_serp1.png",
     "rejectedAt": "2026-05-07T06:09:06.222Z"
+  },
+  {
+    "fileKey": "luxuriategents.com",
+    "brandName": "Luxuriate Gents Salon",
+    "domain": "luxuriategents.com",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/luxuriategents.com_serp5.png",
+    "rejectedFile": "luxuriategents.com_serp5.png",
+    "source": "serp5",
+    "reasons": [
+      "wrong_brand"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-07T06:11:03.227Z"
   }
 ]
