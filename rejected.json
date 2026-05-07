@@ -909,5 +909,19 @@
     "activeFile": "",
     "activeUrl": "",
     "rejectedAt": "2026-05-07T08:31:40.565Z"
+  },
+  {
+    "fileKey": "maramijewelry.com",
+    "brandName": "Marami Jewelry",
+    "domain": "maramijewelry.com",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maramijewelry.com_logodev.png",
+    "rejectedFile": "maramijewelry.com_logodev.png",
+    "source": "logodev",
+    "reasons": [
+      "wrong_brand"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-07T08:31:57.678Z"
   }
 ]
