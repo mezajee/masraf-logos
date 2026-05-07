@@ -119,7 +119,10 @@
     {
       "source": "logodev_name",
       "file": "li.me_logodev_name.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/li.me_logodev_name.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/li.me_logodev_name.png",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     },
     {
       "source": "logodev",
