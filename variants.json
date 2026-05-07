@@ -3264,19 +3264,29 @@
   ],
   "collegeboard.org": [
     {
-      "source": "favicon",
-      "file": "collegeboard.org_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/collegeboard.org_favicon.png"
+      "source": "serp1",
+      "file": "collegeboard.org_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/collegeboard.org_serp1.svg"
     },
     {
-      "source": "wikipedia",
-      "file": "collegeboard.org_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/collegeboard.org_wikipedia.svg"
+      "source": "serp2",
+      "file": "collegeboard.org_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/collegeboard.org_serp2.png"
     },
     {
-      "source": "logodev",
-      "file": "collegeboard.org_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/collegeboard.org_logodev.png"
+      "source": "serp3",
+      "file": "collegeboard.org_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/collegeboard.org_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "collegeboard.org_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/collegeboard.org_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "collegeboard.org_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/collegeboard.org_serp5.png"
     }
   ],
   "al-sadara-gents-salon": [
