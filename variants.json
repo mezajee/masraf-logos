@@ -3108,14 +3108,24 @@
   ],
   "levelshoes.com": [
     {
-      "source": "wikipedia",
-      "file": "levelshoes.com_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/levelshoes.com_wikipedia.svg"
+      "source": "serp2",
+      "file": "levelshoes.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/levelshoes.com_serp2.jpg"
     },
     {
-      "source": "logodev",
-      "file": "levelshoes.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/levelshoes.com_logodev.png"
+      "source": "serp3",
+      "file": "levelshoes.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/levelshoes.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "levelshoes.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/levelshoes.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "levelshoes.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/levelshoes.com_serp5.jpg"
     }
   ],
   "temu.com": [
