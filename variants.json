@@ -2318,14 +2318,34 @@
   ],
   "rumailahfarms.com": [
     {
-      "source": "favicon",
-      "file": "rumailahfarms.com_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rumailahfarms.com_favicon.png"
+      "source": "serp1",
+      "file": "rumailahfarms.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rumailahfarms.com_serp1.png"
     },
     {
-      "source": "logodev",
-      "file": "rumailahfarms.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rumailahfarms.com_logodev.png"
+      "source": "serp2",
+      "file": "rumailahfarms.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rumailahfarms.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "rumailahfarms.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rumailahfarms.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "rumailahfarms.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rumailahfarms.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "rumailahfarms.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rumailahfarms.com_serp5.jpg"
+    },
+    {
+      "source": "serp6",
+      "file": "rumailahfarms.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rumailahfarms.com_serp6.jpg"
     }
   ],
   "alshaya.com": [
