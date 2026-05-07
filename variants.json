@@ -6476,5 +6476,32 @@
       "file": "yuki-no-hana_serp5.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/yuki-no-hana_serp5.jpg"
     }
+  ],
+  "shaza-al-jadeeda-grocery": [
+    {
+      "source": "serp1",
+      "file": "shaza-al-jadeeda-grocery_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/shaza-al-jadeeda-grocery_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "shaza-al-jadeeda-grocery_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/shaza-al-jadeeda-grocery_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "shaza-al-jadeeda-grocery_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/shaza-al-jadeeda-grocery_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "shaza-al-jadeeda-grocery_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/shaza-al-jadeeda-grocery_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "shaza-al-jadeeda-grocery_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/shaza-al-jadeeda-grocery_serp5.png"
+    }
   ]
 }
