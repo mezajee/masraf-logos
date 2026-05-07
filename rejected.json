@@ -250,5 +250,19 @@
     "activeFile": "nasim-al-amal-grocery_serp1.png",
     "activeUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nasim-al-amal-grocery_serp1.png",
     "rejectedAt": "2026-05-07T04:49:15.419Z"
+  },
+  {
+    "fileKey": "nasim-al-amal-grocery",
+    "brandName": "Nasim Al Amal Grocery",
+    "domain": "",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nasim-al-amal-grocery_serp4.png",
+    "rejectedFile": "nasim-al-amal-grocery_serp4.png",
+    "source": "serp4",
+    "reasons": [
+      "wrong_brand"
+    ],
+    "activeFile": "nasim-al-amal-grocery_serp1.png",
+    "activeUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nasim-al-amal-grocery_serp1.png",
+    "rejectedAt": "2026-05-07T04:49:25.475Z"
   }
 ]
