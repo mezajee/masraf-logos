@@ -3491,9 +3491,54 @@
   ],
   "bloxdigital.com": [
     {
-      "source": "logodev",
-      "file": "bloxdigital.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bloxdigital.com_logodev.png"
+      "source": "serp1",
+      "file": "bloxdigital.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bloxdigital.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "bloxdigital.com_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bloxdigital.com_serp2.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "bloxdigital.com_serp3.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bloxdigital.com_serp3.svg"
+    },
+    {
+      "source": "serp4",
+      "file": "bloxdigital.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bloxdigital.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "bloxdigital.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bloxdigital.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "bloxdigital.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bloxdigital.com_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "bloxdigital.com_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bloxdigital.com_serp7.jpg"
+    },
+    {
+      "source": "serp8",
+      "file": "bloxdigital.com_serp8.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bloxdigital.com_serp8.jpg"
+    },
+    {
+      "source": "serp9",
+      "file": "bloxdigital.com_serp9.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bloxdigital.com_serp9.png"
+    },
+    {
+      "source": "serp10",
+      "file": "bloxdigital.com_serp10.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bloxdigital.com_serp10.png"
     }
   ],
   "al-mizhar-star-grocery": [
