@@ -2081,19 +2081,34 @@
   ],
   "lpmrestaurants.com": [
     {
-      "source": "favicon",
-      "file": "lpmrestaurants.com_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lpmrestaurants.com_favicon.png"
+      "source": "serp1",
+      "file": "lpmrestaurants.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lpmrestaurants.com_serp1.svg"
     },
     {
-      "source": "worldvectorlogo",
-      "file": "lpmrestaurants.com_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lpmrestaurants.com_worldvectorlogo.svg"
+      "source": "serp2",
+      "file": "lpmrestaurants.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lpmrestaurants.com_serp2.png"
     },
     {
-      "source": "logodev",
-      "file": "lpmrestaurants.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lpmrestaurants.com_logodev.png"
+      "source": "serp3",
+      "file": "lpmrestaurants.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lpmrestaurants.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "lpmrestaurants.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lpmrestaurants.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "lpmrestaurants.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lpmrestaurants.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "lpmrestaurants.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lpmrestaurants.com_serp6.jpg"
     }
   ],
   "amazon.ae": [
