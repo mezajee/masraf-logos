@@ -7421,7 +7421,8 @@
       "source": "serp3",
       "file": "deliveroo.ae_serp3.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/deliveroo.ae_serp3.png",
-      "active": false
+      "active": false,
+      "confirmed": true
     },
     {
       "source": "serp4",
