@@ -3524,19 +3524,24 @@
   ],
   "gsstations.ae": [
     {
-      "source": "favicon",
-      "file": "gsstations.ae_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gsstations.ae_favicon.png"
+      "source": "serp1",
+      "file": "gsstations.ae_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gsstations.ae_serp1.svg"
     },
     {
-      "source": "worldvectorlogo",
-      "file": "gsstations.ae_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gsstations.ae_worldvectorlogo.svg"
+      "source": "serp2",
+      "file": "gsstations.ae_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gsstations.ae_serp2.svg"
     },
     {
-      "source": "logodev",
-      "file": "gsstations.ae_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gsstations.ae_logodev.png"
+      "source": "serp6",
+      "file": "gsstations.ae_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gsstations.ae_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "gsstations.ae_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gsstations.ae_serp7.jpg"
     }
   ],
   "aseertime.com": [
