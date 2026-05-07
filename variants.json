@@ -4098,7 +4098,10 @@
     {
       "source": "serp4",
       "file": "levelshoes.com_serp4.jpg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/levelshoes.com_serp4.jpg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/levelshoes.com_serp4.jpg",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     },
     {
       "source": "serp5",
