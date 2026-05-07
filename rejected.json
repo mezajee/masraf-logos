@@ -1105,5 +1105,19 @@
     "activeFile": "trekbikesuae.com_logodev.png",
     "activeUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/trekbikesuae.com_logodev.png",
     "rejectedAt": "2026-05-07T12:18:46.209Z"
+  },
+  {
+    "fileKey": "trekbikesuae.com",
+    "brandName": "Trek Bicycle Store",
+    "domain": "trekbikesuae.com",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/trekbikesuae.com_seeklogo.png",
+    "rejectedFile": "trekbikesuae.com_seeklogo.png",
+    "source": "seeklogo",
+    "reasons": [
+      "generic"
+    ],
+    "activeFile": "trekbikesuae.com_logodev.png",
+    "activeUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/trekbikesuae.com_logodev.png",
+    "rejectedAt": "2026-05-07T12:19:00.882Z"
   }
 ]
