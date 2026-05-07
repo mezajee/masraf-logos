@@ -3553,9 +3553,24 @@
   ],
   "barbecue-station": [
     {
-      "source": "wikipedia",
-      "file": "barbecue-station_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/barbecue-station_wikipedia.svg"
+      "source": "serp1",
+      "file": "barbecue-station_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/barbecue-station_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "barbecue-station_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/barbecue-station_serp2.png"
+    },
+    {
+      "source": "serp5",
+      "file": "barbecue-station_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/barbecue-station_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "barbecue-station_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/barbecue-station_serp6.jpg"
     }
   ],
   "delice-building-materials-trading": [
