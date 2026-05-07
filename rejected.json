@@ -656,5 +656,19 @@
     "activeFile": "tremplin-courchevel.com_serp1.svg",
     "activeUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tremplin-courchevel.com_serp1.svg",
     "rejectedAt": "2026-05-07T05:36:21.349Z"
+  },
+  {
+    "fileKey": "tremplin-courchevel.com",
+    "brandName": "Le Tremplin",
+    "domain": "tremplin-courchevel.com",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tremplin-courchevel.com_serp6.jpg",
+    "rejectedFile": "tremplin-courchevel.com_serp6.jpg",
+    "source": "serp6",
+    "reasons": [
+      "not_logo_unrelated"
+    ],
+    "activeFile": "tremplin-courchevel.com_serp5.svg",
+    "activeUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tremplin-courchevel.com_serp5.svg",
+    "rejectedAt": "2026-05-07T05:36:39.323Z"
   }
 ]
