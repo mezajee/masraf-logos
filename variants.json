@@ -5564,5 +5564,22 @@
       "file": "rashidalicafe.ae_serp5.webp",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rashidalicafe.ae_serp5.webp"
     }
+  ],
+  "raya-al-madeena-mini-mart": [
+    {
+      "source": "serp2",
+      "file": "raya-al-madeena-mini-mart_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/raya-al-madeena-mini-mart_serp2.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "raya-al-madeena-mini-mart_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/raya-al-madeena-mini-mart_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "raya-al-madeena-mini-mart_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/raya-al-madeena-mini-mart_serp4.png"
+    }
   ]
 }
