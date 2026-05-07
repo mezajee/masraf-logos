@@ -6234,7 +6234,10 @@
     {
       "source": "serp1",
       "file": "binghatti.com_serp1.jpg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/binghatti.com_serp1.jpg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/binghatti.com_serp1.jpg",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     },
     {
       "source": "serp2",
