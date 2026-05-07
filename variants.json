@@ -194,6 +194,36 @@
       "flagged": true,
       "confirmed": false,
       "active": false
+    },
+    {
+      "source": "serp1",
+      "file": "al-labeeb-grocery_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-labeeb-grocery_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "al-labeeb-grocery_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-labeeb-grocery_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "al-labeeb-grocery_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-labeeb-grocery_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "al-labeeb-grocery_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-labeeb-grocery_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "al-labeeb-grocery_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-labeeb-grocery_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "al-labeeb-grocery_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-labeeb-grocery_serp6.jpg"
     }
   ],
   "kitopi.com": [
