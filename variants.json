@@ -1940,24 +1940,34 @@
   ],
   "lululemon.com": [
     {
-      "source": "favicon",
-      "file": "lululemon.com_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lululemon.com_favicon.png"
+      "source": "serp1",
+      "file": "lululemon.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lululemon.com_serp1.svg"
     },
     {
-      "source": "worldvectorlogo",
-      "file": "lululemon.com_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lululemon.com_worldvectorlogo.svg"
+      "source": "serp2",
+      "file": "lululemon.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lululemon.com_serp2.png"
     },
     {
-      "source": "wikipedia",
-      "file": "lululemon.com_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lululemon.com_wikipedia.svg"
+      "source": "serp3",
+      "file": "lululemon.com_serp3.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lululemon.com_serp3.webp"
     },
     {
-      "source": "logodev",
-      "file": "lululemon.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lululemon.com_logodev.png"
+      "source": "serp4",
+      "file": "lululemon.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lululemon.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "lululemon.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lululemon.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "lululemon.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lululemon.com_serp6.jpg"
     }
   ],
   "urbanoutfitters.com": [
