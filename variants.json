@@ -860,7 +860,10 @@
     {
       "source": "serp1",
       "file": "oxygengyms.com_serp1.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oxygengyms.com_serp1.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oxygengyms.com_serp1.png",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     },
     {
       "source": "serp2",
