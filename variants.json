@@ -2855,14 +2855,24 @@
   ],
   "carrefour.fr": [
     {
-      "source": "worldvectorlogo",
-      "file": "carrefour.fr_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/carrefour.fr_worldvectorlogo.svg"
+      "source": "serp1",
+      "file": "carrefour.fr_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/carrefour.fr_serp1.svg"
     },
     {
-      "source": "logodev",
-      "file": "carrefour.fr_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/carrefour.fr_logodev.png"
+      "source": "serp2",
+      "file": "carrefour.fr_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/carrefour.fr_serp2.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "carrefour.fr_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/carrefour.fr_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "carrefour.fr_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/carrefour.fr_serp4.png"
     }
   ],
   "jeanblancsports.com": [
