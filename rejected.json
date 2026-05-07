@@ -26,5 +26,19 @@
     "activeFile": "",
     "activeUrl": "",
     "rejectedAt": "2026-05-07T04:32:02.886Z"
+  },
+  {
+    "fileKey": "kohaj-supermarket",
+    "brandName": "Kohaj Supermarket",
+    "domain": "",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kohaj-supermarket_serp2.png",
+    "rejectedFile": "kohaj-supermarket_serp2.png",
+    "source": "serp2",
+    "reasons": [
+      "wrong_brand"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-07T04:32:08.678Z"
   }
 ]
