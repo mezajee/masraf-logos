@@ -1301,5 +1301,20 @@
     "activeFile": "theroxycinemas.com_serp6.jpg",
     "activeUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/theroxycinemas.com_serp6.jpg",
     "rejectedAt": "2026-05-07T13:33:57.690Z"
+  },
+  {
+    "fileKey": "dropdubai.ae",
+    "brandName": "Drop Coffee",
+    "domain": "dropdubai.ae",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dropdubai.ae_wikipedia.svg",
+    "rejectedFile": "dropdubai.ae_wikipedia.svg",
+    "source": "wikipedia",
+    "reasons": [
+      "generic",
+      "wrong_brand"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-07T13:34:42.404Z"
   }
 ]
