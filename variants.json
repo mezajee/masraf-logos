@@ -2405,19 +2405,34 @@
   ],
   "etisalat.ae": [
     {
-      "source": "worldvectorlogo",
-      "file": "etisalat.ae_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/etisalat.ae_worldvectorlogo.svg"
+      "source": "serp1",
+      "file": "etisalat.ae_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/etisalat.ae_serp1.svg"
     },
     {
-      "source": "wikipedia",
-      "file": "etisalat.ae_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/etisalat.ae_wikipedia.svg"
+      "source": "serp2",
+      "file": "etisalat.ae_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/etisalat.ae_serp2.png"
     },
     {
-      "source": "logodev",
-      "file": "etisalat.ae_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/etisalat.ae_logodev.png"
+      "source": "serp3",
+      "file": "etisalat.ae_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/etisalat.ae_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "etisalat.ae_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/etisalat.ae_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "etisalat.ae_serp5.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/etisalat.ae_serp5.svg"
+    },
+    {
+      "source": "serp6",
+      "file": "etisalat.ae_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/etisalat.ae_serp6.jpg"
     }
   ],
   "wolfis.ae": [
