@@ -2224,14 +2224,24 @@
   ],
   "pdl-dubai.com": [
     {
-      "source": "wikipedia",
-      "file": "pdl-dubai.com_wikipedia.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pdl-dubai.com_wikipedia.png"
+      "source": "serp1",
+      "file": "pdl-dubai.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pdl-dubai.com_serp1.png"
     },
     {
-      "source": "logodev",
-      "file": "pdl-dubai.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pdl-dubai.com_logodev.png"
+      "source": "serp2",
+      "file": "pdl-dubai.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pdl-dubai.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "pdl-dubai.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pdl-dubai.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "pdl-dubai.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pdl-dubai.com_serp4.png"
     }
   ],
   "uae.cremelondon.com": [
