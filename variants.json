@@ -3560,9 +3560,24 @@
   ],
   "delice-building-materials-trading": [
     {
-      "source": "wikipedia",
-      "file": "delice-building-materials-trading_wikipedia.jpg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/delice-building-materials-trading_wikipedia.jpg"
+      "source": "serp1",
+      "file": "delice-building-materials-trading_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/delice-building-materials-trading_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "delice-building-materials-trading_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/delice-building-materials-trading_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "delice-building-materials-trading_serp3.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/delice-building-materials-trading_serp3.svg"
+    },
+    {
+      "source": "serp4",
+      "file": "delice-building-materials-trading_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/delice-building-materials-trading_serp4.png"
     }
   ],
   "al-khawaneej-pharmacy.business.site": [
