@@ -29,10 +29,9 @@
   },
   "talabat.com": {
     "status": "official",
-    "file": "talabat.com.png",
-    "variantFile": "talabat.com_logodev.png",
-    "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/talabat.com.png",
-    "confirmedAt": "2026-05-05"
+    "file": "talabat.com_serp1.png",
+    "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/talabat.com_serp1.png",
+    "confirmedAt": "2026-05-07"
   },
   "binghatti.com": {
     "status": "official",
