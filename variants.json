@@ -3257,9 +3257,39 @@
   ],
   "spixyai.com": [
     {
-      "source": "favicon",
-      "file": "spixyai.com_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/spixyai.com_favicon.png"
+      "source": "serp1",
+      "file": "spixyai.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/spixyai.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "spixyai.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/spixyai.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "spixyai.com_serp3.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/spixyai.com_serp3.svg"
+    },
+    {
+      "source": "serp4",
+      "file": "spixyai.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/spixyai.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "spixyai.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/spixyai.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "spixyai.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/spixyai.com_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "spixyai.com_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/spixyai.com_serp7.jpg"
     }
   ],
   "collegeboard.org": [
