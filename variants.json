@@ -104,17 +104,21 @@
     {
       "source": "favicon",
       "file": "li.me_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/li.me_favicon.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/li.me_favicon.png",
+      "active": true,
+      "confirmed": true
     },
     {
       "source": "worldvectorlogo",
       "file": "li.me_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/li.me_worldvectorlogo.svg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/li.me_worldvectorlogo.svg",
+      "active": false
     },
     {
       "source": "wikipedia",
       "file": "li.me_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/li.me_wikipedia.svg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/li.me_wikipedia.svg",
+      "active": false
     },
     {
       "source": "logodev_name",
@@ -127,7 +131,8 @@
     {
       "source": "logodev",
       "file": "li.me_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/li.me_logodev.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/li.me_logodev.png",
+      "active": false
     }
   ],
   "delore.uk": [
