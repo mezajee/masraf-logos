@@ -119,12 +119,15 @@
     {
       "source": "worldvectorlogo",
       "file": "careem.com_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/careem.com_worldvectorlogo.svg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/careem.com_worldvectorlogo.svg",
+      "active": true,
+      "confirmed": true
     },
     {
       "source": "logodev",
       "file": "careem.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/careem.com_logodev.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/careem.com_logodev.png",
+      "active": false
     }
   ],
   "travelexae.com": [
