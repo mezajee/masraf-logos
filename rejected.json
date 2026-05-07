@@ -544,5 +544,19 @@
     "activeFile": "",
     "activeUrl": "",
     "rejectedAt": "2026-05-07T05:31:05.283Z"
+  },
+  {
+    "fileKey": "aeliadutyfree.ch",
+    "brandName": "Aelia Duty Free Geneva Airport",
+    "domain": "aeliadutyfree.ch",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aeliadutyfree.ch_wikipedia.svg",
+    "rejectedFile": "aeliadutyfree.ch_wikipedia.svg",
+    "source": "wikipedia",
+    "reasons": [
+      "generic"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-07T05:32:14.308Z"
   }
 ]
