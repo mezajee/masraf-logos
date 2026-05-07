@@ -1122,7 +1122,10 @@
     {
       "source": "wikipedia",
       "file": "emiratesparkings.com_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emiratesparkings.com_wikipedia.svg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emiratesparkings.com_wikipedia.svg",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     },
     {
       "source": "logodev",
