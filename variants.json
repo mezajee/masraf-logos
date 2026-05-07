@@ -2831,22 +2831,27 @@
     {
       "source": "worldvectorlogo",
       "file": "trekbikesuae.com_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/trekbikesuae.com_worldvectorlogo.svg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/trekbikesuae.com_worldvectorlogo.svg",
+      "active": false
     },
     {
       "source": "wikipedia",
       "file": "trekbikesuae.com_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/trekbikesuae.com_wikipedia.svg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/trekbikesuae.com_wikipedia.svg",
+      "active": false
     },
     {
       "source": "seeklogo",
       "file": "trekbikesuae.com_seeklogo.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/trekbikesuae.com_seeklogo.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/trekbikesuae.com_seeklogo.png",
+      "active": false
     },
     {
       "source": "logodev",
       "file": "trekbikesuae.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/trekbikesuae.com_logodev.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/trekbikesuae.com_logodev.png",
+      "active": true,
+      "confirmed": true
     }
   ],
   "alyousuf.com": [
