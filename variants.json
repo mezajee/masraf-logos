@@ -643,14 +643,29 @@
   ],
   "acai-berry-the-amazon-boost": [
     {
-      "source": "worldvectorlogo",
-      "file": "acai-berry-the-amazon-boost_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/acai-berry-the-amazon-boost_worldvectorlogo.svg"
+      "source": "serp1",
+      "file": "acai-berry-the-amazon-boost_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/acai-berry-the-amazon-boost_serp1.png"
     },
     {
-      "source": "wikipedia",
-      "file": "acai-berry-the-amazon-boost_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/acai-berry-the-amazon-boost_wikipedia.svg"
+      "source": "serp2",
+      "file": "acai-berry-the-amazon-boost_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/acai-berry-the-amazon-boost_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "acai-berry-the-amazon-boost_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/acai-berry-the-amazon-boost_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "acai-berry-the-amazon-boost_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/acai-berry-the-amazon-boost_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "acai-berry-the-amazon-boost_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/acai-berry-the-amazon-boost_serp5.png"
     }
   ],
   "formauae.com": [
