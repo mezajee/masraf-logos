@@ -7782,5 +7782,32 @@
       "file": "fynd.ae_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fynd.ae_serp5.png"
     }
+  ],
+  "slice-co": [
+    {
+      "source": "serp1",
+      "file": "slice-co_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/slice-co_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "slice-co_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/slice-co_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "slice-co_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/slice-co_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "slice-co_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/slice-co_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "slice-co_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/slice-co_serp5.png"
+    }
   ]
 }
