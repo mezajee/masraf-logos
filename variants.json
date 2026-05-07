@@ -2775,7 +2775,8 @@
       "source": "serp2",
       "file": "rumailahfarms.com_serp2.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rumailahfarms.com_serp2.png",
-      "active": false
+      "active": false,
+      "confirmed": true
     },
     {
       "source": "serp3",
