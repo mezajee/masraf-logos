@@ -3137,9 +3137,29 @@
   ],
   "loopdubai.com": [
     {
-      "source": "wikipedia",
-      "file": "loopdubai.com_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/loopdubai.com_wikipedia.svg"
+      "source": "serp1",
+      "file": "loopdubai.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/loopdubai.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "loopdubai.com_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/loopdubai.com_serp2.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "loopdubai.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/loopdubai.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "loopdubai.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/loopdubai.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "loopdubai.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/loopdubai.com_serp5.png"
     }
   ],
   "xdubai.com": [
