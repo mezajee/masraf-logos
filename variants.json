@@ -27,7 +27,8 @@
     {
       "source": "favicon",
       "file": "rozebiohealth.com_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rozebiohealth.com_favicon.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rozebiohealth.com_favicon.png",
+      "active": false
     },
     {
       "source": "wikipedia",
@@ -40,7 +41,9 @@
     {
       "source": "logodev",
       "file": "rozebiohealth.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rozebiohealth.com_logodev.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rozebiohealth.com_logodev.png",
+      "active": true,
+      "confirmed": true
     }
   ],
   "easytip.net": [
