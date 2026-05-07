@@ -404,5 +404,19 @@
     "activeFile": "",
     "activeUrl": "",
     "rejectedAt": "2026-05-07T05:16:53.354Z"
+  },
+  {
+    "fileKey": "oxygengyms.com",
+    "brandName": "Oxygen Gym",
+    "domain": "oxygengyms.com",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oxygengyms.com_serp2.png",
+    "rejectedFile": "oxygengyms.com_serp2.png",
+    "source": "serp2",
+    "reasons": [
+      "wrong_brand"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-07T05:17:03.190Z"
   }
 ]
