@@ -6494,32 +6494,39 @@
     {
       "source": "serp1",
       "file": "tremplin-courchevel.com_serp1.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tremplin-courchevel.com_serp1.svg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tremplin-courchevel.com_serp1.svg",
+      "active": true,
+      "confirmed": true
     },
     {
       "source": "serp2",
       "file": "tremplin-courchevel.com_serp2.jpg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tremplin-courchevel.com_serp2.jpg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tremplin-courchevel.com_serp2.jpg",
+      "active": false
     },
     {
       "source": "serp3",
       "file": "tremplin-courchevel.com_serp3.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tremplin-courchevel.com_serp3.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tremplin-courchevel.com_serp3.png",
+      "active": false
     },
     {
       "source": "serp4",
       "file": "tremplin-courchevel.com_serp4.jpg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tremplin-courchevel.com_serp4.jpg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tremplin-courchevel.com_serp4.jpg",
+      "active": false
     },
     {
       "source": "serp5",
       "file": "tremplin-courchevel.com_serp5.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tremplin-courchevel.com_serp5.svg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tremplin-courchevel.com_serp5.svg",
+      "active": false
     },
     {
       "source": "serp6",
       "file": "tremplin-courchevel.com_serp6.jpg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tremplin-courchevel.com_serp6.jpg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tremplin-courchevel.com_serp6.jpg",
+      "active": false
     }
   ],
   "pharmacie-courchevel-1850": [
