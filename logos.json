@@ -108,5 +108,11 @@
     "file": "tremplin-courchevel.com_serp5.svg",
     "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tremplin-courchevel.com_serp5.svg",
     "confirmedAt": "2026-05-07"
+  },
+  "bigtbarbecue.com": {
+    "status": "official",
+    "file": "bigtbarbecue.com_favicon.png",
+    "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bigtbarbecue.com_favicon.png",
+    "confirmedAt": "2026-05-07"
   }
 }
