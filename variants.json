@@ -1361,7 +1361,8 @@
       "source": "serp6",
       "file": "bismi.com_serp6.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp6.jpg",
-      "active": false
+      "active": false,
+      "confirmed": true
     },
     {
       "source": "serp7",
