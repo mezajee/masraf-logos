@@ -5148,5 +5148,32 @@
       "file": "screamhouses.com_serp6.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/screamhouses.com_serp6.jpg"
     }
+  ],
+  "veda-inc-investment": [
+    {
+      "source": "serp1",
+      "file": "veda-inc-investment_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/veda-inc-investment_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "veda-inc-investment_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/veda-inc-investment_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "veda-inc-investment_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/veda-inc-investment_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "veda-inc-investment_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/veda-inc-investment_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "veda-inc-investment_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/veda-inc-investment_serp5.png"
+    }
   ]
 }
