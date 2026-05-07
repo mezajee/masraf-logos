@@ -3144,14 +3144,39 @@
   ],
   "xdubai.com": [
     {
-      "source": "favicon",
-      "file": "xdubai.com_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xdubai.com_favicon.png"
+      "source": "serp1",
+      "file": "xdubai.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xdubai.com_serp1.svg"
     },
     {
-      "source": "logodev",
-      "file": "xdubai.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xdubai.com_logodev.png"
+      "source": "serp2",
+      "file": "xdubai.com_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xdubai.com_serp2.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "xdubai.com_serp3.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xdubai.com_serp3.svg"
+    },
+    {
+      "source": "serp4",
+      "file": "xdubai.com_serp4.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xdubai.com_serp4.svg"
+    },
+    {
+      "source": "serp5",
+      "file": "xdubai.com_serp5.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xdubai.com_serp5.svg"
+    },
+    {
+      "source": "serp6",
+      "file": "xdubai.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xdubai.com_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "xdubai.com_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xdubai.com_serp7.jpg"
     }
   ],
   "emiratespost.ae": [
