@@ -1218,14 +1218,54 @@
   ],
   "bismi.com": [
     {
-      "source": "favicon",
-      "file": "bismi.com_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_favicon.png"
+      "source": "serp1",
+      "file": "bismi.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp1.png"
     },
     {
-      "source": "logodev",
-      "file": "bismi.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_logodev.png"
+      "source": "serp2",
+      "file": "bismi.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "bismi.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "bismi.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "bismi.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "bismi.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "bismi.com_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp7.jpg"
+    },
+    {
+      "source": "serp8",
+      "file": "bismi.com_serp8.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp8.jpg"
+    },
+    {
+      "source": "serp9",
+      "file": "bismi.com_serp9.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp9.jpg"
+    },
+    {
+      "source": "serp10",
+      "file": "bismi.com_serp10.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp10.jpg"
     }
   ],
   "gatheron.ae": [
