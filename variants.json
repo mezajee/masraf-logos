@@ -6916,5 +6916,37 @@
       "file": "liblib.ae_serp5.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/liblib.ae_serp5.svg"
     }
+  ],
+  "adnocdistribution.ae": [
+    {
+      "source": "serp1",
+      "file": "adnocdistribution.ae_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/adnocdistribution.ae_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "adnocdistribution.ae_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/adnocdistribution.ae_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "adnocdistribution.ae_serp3.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/adnocdistribution.ae_serp3.svg"
+    },
+    {
+      "source": "serp4",
+      "file": "adnocdistribution.ae_serp4.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/adnocdistribution.ae_serp4.webp"
+    },
+    {
+      "source": "serp6",
+      "file": "adnocdistribution.ae_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/adnocdistribution.ae_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "adnocdistribution.ae_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/adnocdistribution.ae_serp7.jpg"
+    }
   ]
 }
