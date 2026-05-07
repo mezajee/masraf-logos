@@ -3789,19 +3789,44 @@
   ],
   "emarat.ae": [
     {
-      "source": "favicon",
-      "file": "emarat.ae_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emarat.ae_favicon.png"
+      "source": "serp1",
+      "file": "emarat.ae_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emarat.ae_serp1.png"
     },
     {
-      "source": "logodev_name",
-      "file": "emarat.ae_logodev_name.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emarat.ae_logodev_name.png"
+      "source": "serp2",
+      "file": "emarat.ae_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emarat.ae_serp2.svg"
     },
     {
-      "source": "logodev",
-      "file": "emarat.ae_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emarat.ae_logodev.png"
+      "source": "serp3",
+      "file": "emarat.ae_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emarat.ae_serp3.png"
+    },
+    {
+      "source": "serp5",
+      "file": "emarat.ae_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emarat.ae_serp5.jpg"
+    },
+    {
+      "source": "serp6",
+      "file": "emarat.ae_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emarat.ae_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "emarat.ae_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emarat.ae_serp7.jpg"
+    },
+    {
+      "source": "serp8",
+      "file": "emarat.ae_serp8.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emarat.ae_serp8.jpg"
+    },
+    {
+      "source": "serp9",
+      "file": "emarat.ae_serp9.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emarat.ae_serp9.jpg"
     }
   ],
   "iex.ae": [
