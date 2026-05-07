@@ -1375,7 +1375,10 @@
     {
       "source": "wikipedia",
       "file": "c10-cafe_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/c10-cafe_wikipedia.svg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/c10-cafe_wikipedia.svg",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     }
   ],
   "pinkberryme.com": [
