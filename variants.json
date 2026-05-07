@@ -3156,14 +3156,34 @@
   ],
   "emiratespost.ae": [
     {
-      "source": "wikipedia",
-      "file": "emiratespost.ae_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emiratespost.ae_wikipedia.svg"
+      "source": "serp1",
+      "file": "emiratespost.ae_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emiratespost.ae_serp1.png"
     },
     {
-      "source": "logodev",
-      "file": "emiratespost.ae_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emiratespost.ae_logodev.png"
+      "source": "serp2",
+      "file": "emiratespost.ae_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emiratespost.ae_serp2.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "emiratespost.ae_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emiratespost.ae_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "emiratespost.ae_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emiratespost.ae_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "emiratespost.ae_serp5.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emiratespost.ae_serp5.svg"
+    },
+    {
+      "source": "serp6",
+      "file": "emiratespost.ae_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emiratespost.ae_serp6.jpg"
     }
   ],
   "homebakery.ae": [
