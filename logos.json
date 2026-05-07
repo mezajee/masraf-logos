@@ -138,5 +138,11 @@
   "levelshoes.com": {
     "status": "initials",
     "confirmedAt": "2026-05-07"
+  },
+  "celine.com": {
+    "status": "official",
+    "file": "celine.com_worldvectorlogo.svg",
+    "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/celine.com_worldvectorlogo.svg",
+    "confirmedAt": "2026-05-07"
   }
 }
