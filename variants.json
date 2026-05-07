@@ -127,7 +127,8 @@
       "source": "logodev",
       "file": "careem.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/careem.com_logodev.png",
-      "active": false
+      "active": false,
+      "confirmed": true
     }
   ],
   "travelexae.com": [
