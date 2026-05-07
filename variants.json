@@ -2630,14 +2630,29 @@
   ],
   "organicfoodsandcafe.com": [
     {
-      "source": "wikipedia",
-      "file": "organicfoodsandcafe.com_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/organicfoodsandcafe.com_wikipedia.svg"
+      "source": "serp3",
+      "file": "organicfoodsandcafe.com_serp3.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/organicfoodsandcafe.com_serp3.svg"
     },
     {
-      "source": "logodev",
-      "file": "organicfoodsandcafe.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/organicfoodsandcafe.com_logodev.png"
+      "source": "serp4",
+      "file": "organicfoodsandcafe.com_serp4.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/organicfoodsandcafe.com_serp4.svg"
+    },
+    {
+      "source": "serp5",
+      "file": "organicfoodsandcafe.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/organicfoodsandcafe.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "organicfoodsandcafe.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/organicfoodsandcafe.com_serp6.jpg"
+    },
+    {
+      "source": "serp8",
+      "file": "organicfoodsandcafe.com_serp8.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/organicfoodsandcafe.com_serp8.jpg"
     }
   ],
   "nshamacommunity.ae": [
