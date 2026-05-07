@@ -853,5 +853,19 @@
     "activeFile": "",
     "activeUrl": "",
     "rejectedAt": "2026-05-07T08:30:06.661Z"
+  },
+  {
+    "fileKey": "levelshoes.com",
+    "brandName": "Level Shoes",
+    "domain": "levelshoes.com",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/levelshoes.com_serp4.jpg",
+    "rejectedFile": "levelshoes.com_serp4.jpg",
+    "source": "serp4",
+    "reasons": [
+      "not_logo_related"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-07T08:30:11.739Z"
   }
 ]
