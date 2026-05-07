@@ -90,5 +90,11 @@
   "oxygengyms.com": {
     "status": "initials",
     "confirmedAt": "2026-05-07"
+  },
+  "rozebiohealth.com": {
+    "status": "official",
+    "file": "rozebiohealth.com_logodev.png",
+    "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rozebiohealth.com_logodev.png",
+    "confirmedAt": "2026-05-07"
   }
 }
