@@ -5505,27 +5505,33 @@
     {
       "source": "serp1",
       "file": "nasim-al-amal-grocery_serp1.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nasim-al-amal-grocery_serp1.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nasim-al-amal-grocery_serp1.png",
+      "active": true,
+      "confirmed": true
     },
     {
       "source": "serp2",
       "file": "nasim-al-amal-grocery_serp2.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nasim-al-amal-grocery_serp2.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nasim-al-amal-grocery_serp2.png",
+      "active": false
     },
     {
       "source": "serp3",
       "file": "nasim-al-amal-grocery_serp3.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nasim-al-amal-grocery_serp3.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nasim-al-amal-grocery_serp3.png",
+      "active": false
     },
     {
       "source": "serp4",
       "file": "nasim-al-amal-grocery_serp4.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nasim-al-amal-grocery_serp4.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nasim-al-amal-grocery_serp4.png",
+      "active": false
     },
     {
       "source": "serp5",
       "file": "nasim-al-amal-grocery_serp5.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nasim-al-amal-grocery_serp5.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nasim-al-amal-grocery_serp5.png",
+      "active": false
     }
   ],
   "graincafe.ae": [
