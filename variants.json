@@ -1849,7 +1849,10 @@
     {
       "source": "wikipedia",
       "file": "dropdubai.ae_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dropdubai.ae_wikipedia.svg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dropdubai.ae_wikipedia.svg",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     },
     {
       "source": "logodev",
