@@ -20,7 +20,10 @@
     {
       "source": "wikipedia",
       "file": "bigtbarbecue.com_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bigtbarbecue.com_wikipedia.svg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bigtbarbecue.com_wikipedia.svg",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     }
   ],
   "rozebiohealth.com": [
