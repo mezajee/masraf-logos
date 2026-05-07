@@ -2330,14 +2330,14 @@
   ],
   "alshaya.com": [
     {
-      "source": "wikipedia",
-      "file": "alshaya.com_wikipedia.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alshaya.com_wikipedia.png"
+      "source": "serp1",
+      "file": "alshaya.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alshaya.com_serp1.png"
     },
     {
-      "source": "logodev",
-      "file": "alshaya.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alshaya.com_logodev.png"
+      "source": "serp5",
+      "file": "alshaya.com_serp5.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alshaya.com_serp5.svg"
     }
   ],
   "marksandspencer.com": [
