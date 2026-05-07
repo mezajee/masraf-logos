@@ -3362,37 +3362,45 @@
     {
       "source": "serp1",
       "file": "theroxycinemas.com_serp1.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/theroxycinemas.com_serp1.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/theroxycinemas.com_serp1.png",
+      "active": false
     },
     {
       "source": "serp2",
       "file": "theroxycinemas.com_serp2.webp",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/theroxycinemas.com_serp2.webp"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/theroxycinemas.com_serp2.webp",
+      "active": false
     },
     {
       "source": "serp3",
       "file": "theroxycinemas.com_serp3.webp",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/theroxycinemas.com_serp3.webp"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/theroxycinemas.com_serp3.webp",
+      "active": false
     },
     {
       "source": "serp4",
       "file": "theroxycinemas.com_serp4.webp",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/theroxycinemas.com_serp4.webp"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/theroxycinemas.com_serp4.webp",
+      "active": false
     },
     {
       "source": "serp5",
       "file": "theroxycinemas.com_serp5.webp",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/theroxycinemas.com_serp5.webp"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/theroxycinemas.com_serp5.webp",
+      "active": false
     },
     {
       "source": "serp6",
       "file": "theroxycinemas.com_serp6.jpg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/theroxycinemas.com_serp6.jpg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/theroxycinemas.com_serp6.jpg",
+      "active": true,
+      "confirmed": true
     },
     {
       "source": "serp7",
       "file": "theroxycinemas.com_serp7.jpg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/theroxycinemas.com_serp7.jpg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/theroxycinemas.com_serp7.jpg",
+      "active": false
     }
   ],
   "organicfoodsandcafe.com": [
