@@ -84,7 +84,8 @@
       "source": "logodev",
       "file": "celine.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/celine.com_logodev.png",
-      "active": false
+      "active": false,
+      "confirmed": true
     }
   ],
   "eatx.com": [
