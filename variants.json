@@ -1130,7 +1130,9 @@
     {
       "source": "logodev",
       "file": "emiratesparkings.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emiratesparkings.com_logodev.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emiratesparkings.com_logodev.png",
+      "active": true,
+      "confirmed": true
     }
   ],
   "digitaldubai.ae": [
