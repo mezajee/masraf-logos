@@ -3477,14 +3477,29 @@
   ],
   "dubaipublicparks.ae": [
     {
-      "source": "favicon",
-      "file": "dubaipublicparks.ae_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dubaipublicparks.ae_favicon.png"
+      "source": "serp2",
+      "file": "dubaipublicparks.ae_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dubaipublicparks.ae_serp2.jpg"
     },
     {
-      "source": "wikipedia",
-      "file": "dubaipublicparks.ae_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dubaipublicparks.ae_wikipedia.svg"
+      "source": "serp3",
+      "file": "dubaipublicparks.ae_serp3.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dubaipublicparks.ae_serp3.svg"
+    },
+    {
+      "source": "serp4",
+      "file": "dubaipublicparks.ae_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dubaipublicparks.ae_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "dubaipublicparks.ae_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dubaipublicparks.ae_serp5.png"
+    },
+    {
+      "source": "serp7",
+      "file": "dubaipublicparks.ae_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dubaipublicparks.ae_serp7.jpg"
     }
   ],
   "freezuae.ae": [
