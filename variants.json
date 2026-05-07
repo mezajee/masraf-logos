@@ -6523,5 +6523,32 @@
       "file": "shaza-al-jadeeda-grocery_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/shaza-al-jadeeda-grocery_serp5.png"
     }
+  ],
+  "q2q-auto-spare-parts": [
+    {
+      "source": "serp1",
+      "file": "q2q-auto-spare-parts_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/q2q-auto-spare-parts_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "q2q-auto-spare-parts_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/q2q-auto-spare-parts_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "q2q-auto-spare-parts_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/q2q-auto-spare-parts_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "q2q-auto-spare-parts_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/q2q-auto-spare-parts_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "q2q-auto-spare-parts_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/q2q-auto-spare-parts_serp5.png"
+    }
   ]
 }
