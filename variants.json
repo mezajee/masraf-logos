@@ -6510,7 +6510,9 @@
       "source": "serp3",
       "file": "tremplin-courchevel.com_serp3.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tremplin-courchevel.com_serp3.png",
-      "active": false
+      "active": false,
+      "flagged": true,
+      "confirmed": false
     },
     {
       "source": "serp4",
