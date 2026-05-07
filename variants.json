@@ -2832,7 +2832,9 @@
       "source": "worldvectorlogo",
       "file": "trekbikesuae.com_worldvectorlogo.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/trekbikesuae.com_worldvectorlogo.svg",
-      "active": false
+      "active": false,
+      "flagged": true,
+      "confirmed": false
     },
     {
       "source": "wikipedia",
