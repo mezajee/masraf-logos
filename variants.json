@@ -6389,5 +6389,27 @@
       "file": "thoraya-al-madena-mini-mart_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thoraya-al-madena-mini-mart_serp5.png"
     }
+  ],
+  "yuki-no-hana": [
+    {
+      "source": "serp1",
+      "file": "yuki-no-hana_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/yuki-no-hana_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "yuki-no-hana_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/yuki-no-hana_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "yuki-no-hana_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/yuki-no-hana_serp3.png"
+    },
+    {
+      "source": "serp5",
+      "file": "yuki-no-hana_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/yuki-no-hana_serp5.jpg"
+    }
   ]
 }
