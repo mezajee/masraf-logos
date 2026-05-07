@@ -1115,7 +1115,10 @@
     {
       "source": "wikipedia",
       "file": "aeliadutyfree.ch_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aeliadutyfree.ch_wikipedia.svg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aeliadutyfree.ch_wikipedia.svg",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     },
     {
       "source": "logodev",
