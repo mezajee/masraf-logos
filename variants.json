@@ -2115,19 +2115,34 @@
   ],
   "armani.com": [
     {
-      "source": "worldvectorlogo",
-      "file": "armani.com_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/armani.com_worldvectorlogo.svg"
+      "source": "serp1",
+      "file": "armani.com_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/armani.com_serp1.jpg"
     },
     {
-      "source": "wikipedia",
-      "file": "armani.com_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/armani.com_wikipedia.svg"
+      "source": "serp2",
+      "file": "armani.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/armani.com_serp2.jpg"
     },
     {
-      "source": "logodev",
-      "file": "armani.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/armani.com_logodev.png"
+      "source": "serp3",
+      "file": "armani.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/armani.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "armani.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/armani.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "armani.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/armani.com_serp5.jpg"
+    },
+    {
+      "source": "serp6",
+      "file": "armani.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/armani.com_serp6.jpg"
     }
   ],
   "virginmegastore.ae": [
