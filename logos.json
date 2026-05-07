@@ -57,5 +57,11 @@
   "kohaj-supermarket": {
     "status": "initials",
     "confirmedAt": "2026-05-07"
+  },
+  "careem.com": {
+    "status": "official",
+    "file": "careem.com_worldvectorlogo.svg",
+    "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/careem.com_worldvectorlogo.svg",
+    "confirmedAt": "2026-05-07"
   }
 }
