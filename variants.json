@@ -1911,19 +1911,29 @@
   ],
   "dintaifungae.com": [
     {
-      "source": "favicon",
-      "file": "dintaifungae.com_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dintaifungae.com_favicon.png"
+      "source": "serp1",
+      "file": "dintaifungae.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dintaifungae.com_serp1.svg"
     },
     {
-      "source": "wikipedia",
-      "file": "dintaifungae.com_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dintaifungae.com_wikipedia.svg"
+      "source": "serp2",
+      "file": "dintaifungae.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dintaifungae.com_serp2.jpg"
     },
     {
-      "source": "logodev",
-      "file": "dintaifungae.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dintaifungae.com_logodev.png"
+      "source": "serp3",
+      "file": "dintaifungae.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dintaifungae.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "dintaifungae.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dintaifungae.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "dintaifungae.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dintaifungae.com_serp5.png"
     }
   ],
   "scalinicucina.com": [
