@@ -3,7 +3,9 @@
     {
       "source": "logodev",
       "file": "puzzlesupps.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/puzzlesupps.com_logodev.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/puzzlesupps.com_logodev.png",
+      "active": true,
+      "confirmed": true
     }
   ],
   "bigtbarbecue.com": [
