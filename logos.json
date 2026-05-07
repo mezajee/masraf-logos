@@ -172,5 +172,11 @@
   "thebackyardrestaurant.com": {
     "status": "initials",
     "confirmedAt": "2026-05-07"
+  },
+  "li.me": {
+    "status": "official",
+    "file": "li.me_favicon.png",
+    "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/li.me_favicon.png",
+    "confirmedAt": "2026-05-07"
   }
 }
