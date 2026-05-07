@@ -40,5 +40,12 @@
     "variantFile": "binghatti.com_serp5.png",
     "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/binghatti.com.png",
     "confirmedAt": "2026-05-07"
+  },
+  "3fils.com": {
+    "status": "official",
+    "file": "3fils.com.png",
+    "variantFile": "3fils.com_logodev.png",
+    "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/3fils.com.png",
+    "confirmedAt": "2026-05-07"
   }
 }
