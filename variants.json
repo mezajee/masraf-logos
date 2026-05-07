@@ -5453,7 +5453,8 @@
     {
       "source": "serp2",
       "file": "emarat.ae_serp2.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emarat.ae_serp2.svg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emarat.ae_serp2.svg",
+      "active": false
     },
     {
       "source": "serp3",
@@ -5474,7 +5475,9 @@
     {
       "source": "serp6",
       "file": "emarat.ae_serp6.jpg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emarat.ae_serp6.jpg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emarat.ae_serp6.jpg",
+      "active": true,
+      "confirmed": true
     },
     {
       "source": "serp7",
