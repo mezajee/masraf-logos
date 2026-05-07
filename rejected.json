@@ -797,5 +797,19 @@
     "activeFile": "",
     "activeUrl": "",
     "rejectedAt": "2026-05-07T06:11:24.072Z"
+  },
+  {
+    "fileKey": "luxuriategents.com",
+    "brandName": "Luxuriate Gents Salon",
+    "domain": "luxuriategents.com",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/luxuriategents.com_serp1.svg",
+    "rejectedFile": "luxuriategents.com_serp1.svg",
+    "source": "serp1",
+    "reasons": [
+      "wrong_brand"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-07T06:11:30.219Z"
   }
 ]
