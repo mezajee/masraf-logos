@@ -6260,6 +6260,36 @@
       "flagged": true,
       "confirmed": false,
       "active": false
+    },
+    {
+      "source": "serp9",
+      "file": "spinneys.com_serp9.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/spinneys.com_serp9.jpg"
+    },
+    {
+      "source": "serp10",
+      "file": "spinneys.com_serp10.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/spinneys.com_serp10.jpg"
+    },
+    {
+      "source": "serp11",
+      "file": "spinneys.com_serp11.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/spinneys.com_serp11.svg"
+    },
+    {
+      "source": "serp12",
+      "file": "spinneys.com_serp12.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/spinneys.com_serp12.png"
+    },
+    {
+      "source": "serp13",
+      "file": "spinneys.com_serp13.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/spinneys.com_serp13.png"
+    },
+    {
+      "source": "serp14",
+      "file": "spinneys.com_serp14.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/spinneys.com_serp14.png"
     }
   ],
   "findsalt.com": [
