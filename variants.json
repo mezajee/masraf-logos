@@ -4280,7 +4280,7 @@
       "source": "serp1",
       "file": "talabat.com_serp1.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/talabat.com_serp1.png",
-      "active": true,
+      "active": false,
       "confirmed": true
     },
     {
@@ -4295,7 +4295,7 @@
       "source": "serp5",
       "file": "talabat.com_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/talabat.com_serp5.png",
-      "active": false,
+      "active": true,
       "confirmed": true
     },
     {
