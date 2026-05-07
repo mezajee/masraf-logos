@@ -3120,19 +3120,34 @@
   ],
   "temu.com": [
     {
-      "source": "favicon",
-      "file": "temu.com_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/temu.com_favicon.png"
+      "source": "serp1",
+      "file": "temu.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/temu.com_serp1.svg"
     },
     {
-      "source": "wikipedia",
-      "file": "temu.com_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/temu.com_wikipedia.svg"
+      "source": "serp2",
+      "file": "temu.com_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/temu.com_serp2.svg"
     },
     {
-      "source": "logodev",
-      "file": "temu.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/temu.com_logodev.png"
+      "source": "serp3",
+      "file": "temu.com_serp3.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/temu.com_serp3.webp"
+    },
+    {
+      "source": "serp4",
+      "file": "temu.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/temu.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "temu.com_serp5.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/temu.com_serp5.webp"
+    },
+    {
+      "source": "serp6",
+      "file": "temu.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/temu.com_serp6.jpg"
     }
   ],
   "loopdubai.com": [
