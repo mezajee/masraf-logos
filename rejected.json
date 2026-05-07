@@ -488,5 +488,19 @@
     "activeFile": "rumailahfarms.com_serp3.png",
     "activeUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rumailahfarms.com_serp3.png",
     "rejectedAt": "2026-05-07T05:21:24.241Z"
+  },
+  {
+    "fileKey": "rumailahfarms.com",
+    "brandName": "Rumailah Farm",
+    "domain": "rumailahfarms.com",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rumailahfarms.com_serp1.png",
+    "rejectedFile": "rumailahfarms.com_serp1.png",
+    "source": "serp1",
+    "reasons": [
+      "low_quality"
+    ],
+    "activeFile": "rumailahfarms.com_serp3.png",
+    "activeUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rumailahfarms.com_serp3.png",
+    "rejectedAt": "2026-05-07T05:21:36.711Z"
   }
 ]
