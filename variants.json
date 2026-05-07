@@ -2760,14 +2760,19 @@
   ],
   "airelles.com": [
     {
-      "source": "wikipedia",
-      "file": "airelles.com_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/airelles.com_wikipedia.svg"
+      "source": "serp1",
+      "file": "airelles.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/airelles.com_serp1.png"
     },
     {
-      "source": "logodev",
-      "file": "airelles.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/airelles.com_logodev.png"
+      "source": "serp2",
+      "file": "airelles.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/airelles.com_serp2.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "airelles.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/airelles.com_serp5.jpg"
     }
   ],
   "raspoutine.com": [
