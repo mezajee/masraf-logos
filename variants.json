@@ -2999,9 +2999,29 @@
   ],
   "monza-cafe": [
     {
-      "source": "wikipedia",
-      "file": "monza-cafe_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/monza-cafe_wikipedia.svg"
+      "source": "serp1",
+      "file": "monza-cafe_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/monza-cafe_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "monza-cafe_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/monza-cafe_serp2.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "monza-cafe_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/monza-cafe_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "monza-cafe_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/monza-cafe_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "monza-cafe_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/monza-cafe_serp5.png"
     }
   ],
   "marksandspencermena.com": [
