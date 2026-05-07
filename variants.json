@@ -5973,7 +5973,10 @@
     {
       "source": "serp9",
       "file": "kohaj-supermarket_serp9.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kohaj-supermarket_serp9.svg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kohaj-supermarket_serp9.svg",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     },
     {
       "source": "serp10",
