@@ -6048,7 +6048,10 @@
     {
       "source": "serp8",
       "file": "spinneys.com_serp8.jpg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/spinneys.com_serp8.jpg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/spinneys.com_serp8.jpg",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     }
   ],
   "findsalt.com": [
