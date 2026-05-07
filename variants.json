@@ -889,7 +889,10 @@
     {
       "source": "serp5",
       "file": "oxygengyms.com_serp5.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oxygengyms.com_serp5.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oxygengyms.com_serp5.png",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     }
   ],
   "mxodidesigns.com": [
