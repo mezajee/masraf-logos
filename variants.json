@@ -3660,9 +3660,29 @@
   ],
   "hubzerodubai.com": [
     {
-      "source": "worldvectorlogo",
-      "file": "hubzerodubai.com_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hubzerodubai.com_worldvectorlogo.svg"
+      "source": "serp2",
+      "file": "hubzerodubai.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hubzerodubai.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "hubzerodubai.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hubzerodubai.com_serp3.png"
+    },
+    {
+      "source": "serp5",
+      "file": "hubzerodubai.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hubzerodubai.com_serp5.jpg"
+    },
+    {
+      "source": "serp6",
+      "file": "hubzerodubai.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hubzerodubai.com_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "hubzerodubai.com_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hubzerodubai.com_serp7.jpg"
     }
   ],
   "sssports.com": [
