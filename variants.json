@@ -3300,19 +3300,39 @@
   ],
   "saddledubai.com": [
     {
-      "source": "favicon",
-      "file": "saddledubai.com_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/saddledubai.com_favicon.png"
+      "source": "serp1",
+      "file": "saddledubai.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/saddledubai.com_serp1.png"
     },
     {
-      "source": "wikipedia",
-      "file": "saddledubai.com_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/saddledubai.com_wikipedia.svg"
+      "source": "serp2",
+      "file": "saddledubai.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/saddledubai.com_serp2.jpg"
     },
     {
-      "source": "logodev",
-      "file": "saddledubai.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/saddledubai.com_logodev.png"
+      "source": "serp3",
+      "file": "saddledubai.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/saddledubai.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "saddledubai.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/saddledubai.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "saddledubai.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/saddledubai.com_serp5.jpg"
+    },
+    {
+      "source": "serp6",
+      "file": "saddledubai.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/saddledubai.com_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "saddledubai.com_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/saddledubai.com_serp7.jpg"
     }
   ],
   "alnoorrashidiya.com": [
