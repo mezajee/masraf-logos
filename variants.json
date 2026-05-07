@@ -2852,9 +2852,44 @@
   ],
   "jeanblancsports.com": [
     {
-      "source": "logodev",
-      "file": "jeanblancsports.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/jeanblancsports.com_logodev.png"
+      "source": "serp1",
+      "file": "jeanblancsports.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/jeanblancsports.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "jeanblancsports.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/jeanblancsports.com_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "jeanblancsports.com_serp3.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/jeanblancsports.com_serp3.svg"
+    },
+    {
+      "source": "serp4",
+      "file": "jeanblancsports.com_serp4.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/jeanblancsports.com_serp4.svg"
+    },
+    {
+      "source": "serp5",
+      "file": "jeanblancsports.com_serp5.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/jeanblancsports.com_serp5.svg"
+    },
+    {
+      "source": "serp6",
+      "file": "jeanblancsports.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/jeanblancsports.com_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "jeanblancsports.com_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/jeanblancsports.com_serp7.jpg"
+    },
+    {
+      "source": "serp8",
+      "file": "jeanblancsports.com_serp8.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/jeanblancsports.com_serp8.jpg"
     }
   ],
   "s3v.com": [
