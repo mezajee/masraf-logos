@@ -2846,7 +2846,9 @@
       "source": "seeklogo",
       "file": "trekbikesuae.com_seeklogo.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/trekbikesuae.com_seeklogo.png",
-      "active": false
+      "active": false,
+      "flagged": true,
+      "confirmed": false
     },
     {
       "source": "logodev",
