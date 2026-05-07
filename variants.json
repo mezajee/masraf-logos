@@ -983,7 +983,10 @@
     {
       "source": "logodev",
       "file": "maramijewelry.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maramijewelry.com_logodev.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maramijewelry.com_logodev.png",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     }
   ],
   "izzy-restaurant": [
