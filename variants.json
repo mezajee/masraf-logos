@@ -993,24 +993,29 @@
   ],
   "vans.com": [
     {
-      "source": "favicon",
-      "file": "vans.com_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/vans.com_favicon.png"
+      "source": "serp1",
+      "file": "vans.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/vans.com_serp1.svg"
     },
     {
-      "source": "worldvectorlogo",
-      "file": "vans.com_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/vans.com_worldvectorlogo.svg"
+      "source": "serp2",
+      "file": "vans.com_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/vans.com_serp2.svg"
     },
     {
-      "source": "wikipedia",
-      "file": "vans.com_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/vans.com_wikipedia.svg"
+      "source": "serp3",
+      "file": "vans.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/vans.com_serp3.png"
     },
     {
-      "source": "logodev",
-      "file": "vans.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/vans.com_logodev.png"
+      "source": "serp4",
+      "file": "vans.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/vans.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "vans.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/vans.com_serp5.png"
     }
   ],
   "courchevel.com": [
