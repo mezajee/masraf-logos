@@ -1203,5 +1203,19 @@
     "activeFile": "",
     "activeUrl": "",
     "rejectedAt": "2026-05-07T13:28:58.130Z"
+  },
+  {
+    "fileKey": "li.me",
+    "brandName": "Lime",
+    "domain": "li.me",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/li.me_wikipedia.svg",
+    "rejectedFile": "li.me_wikipedia.svg",
+    "source": "wikipedia",
+    "reasons": [
+      "generic"
+    ],
+    "activeFile": "li.me_favicon.png",
+    "activeUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/li.me_favicon.png",
+    "rejectedAt": "2026-05-07T13:29:21.292Z"
   }
 ]
