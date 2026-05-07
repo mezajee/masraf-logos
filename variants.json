@@ -3096,14 +3096,24 @@
   ],
   "arabsweet-uae.com": [
     {
-      "source": "favicon",
-      "file": "arabsweet-uae.com_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/arabsweet-uae.com_favicon.png"
+      "source": "serp1",
+      "file": "arabsweet-uae.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/arabsweet-uae.com_serp1.png"
     },
     {
-      "source": "logodev",
-      "file": "arabsweet-uae.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/arabsweet-uae.com_logodev.png"
+      "source": "serp2",
+      "file": "arabsweet-uae.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/arabsweet-uae.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "arabsweet-uae.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/arabsweet-uae.com_serp3.png"
+    },
+    {
+      "source": "serp5",
+      "file": "arabsweet-uae.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/arabsweet-uae.com_serp5.png"
     }
   ],
   "levelshoes.com": [
