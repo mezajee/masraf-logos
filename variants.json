@@ -2599,9 +2599,29 @@
   ],
   "alijaza.ae": [
     {
-      "source": "worldvectorlogo",
-      "file": "alijaza.ae_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alijaza.ae_worldvectorlogo.svg"
+      "source": "serp1",
+      "file": "alijaza.ae_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alijaza.ae_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "alijaza.ae_serp2.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alijaza.ae_serp2.webp"
+    },
+    {
+      "source": "serp3",
+      "file": "alijaza.ae_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alijaza.ae_serp3.png"
+    },
+    {
+      "source": "serp5",
+      "file": "alijaza.ae_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alijaza.ae_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "alijaza.ae_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alijaza.ae_serp6.jpg"
     }
   ],
   "bluewatersdubai.ae": [
