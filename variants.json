@@ -2946,19 +2946,34 @@
   ],
   "stories.com": [
     {
-      "source": "favicon",
-      "file": "stories.com_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/stories.com_favicon.png"
+      "source": "serp1",
+      "file": "stories.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/stories.com_serp1.png"
     },
     {
-      "source": "logodev_name",
-      "file": "stories.com_logodev_name.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/stories.com_logodev_name.png"
+      "source": "serp2",
+      "file": "stories.com_serp2.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/stories.com_serp2.webp"
     },
     {
-      "source": "logodev",
-      "file": "stories.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/stories.com_logodev.png"
+      "source": "serp3",
+      "file": "stories.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/stories.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "stories.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/stories.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "stories.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/stories.com_serp5.jpg"
+    },
+    {
+      "source": "serp6",
+      "file": "stories.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/stories.com_serp6.jpg"
     }
   ],
   "orlandosportsuae.com": [
