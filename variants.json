@@ -3084,19 +3084,24 @@
   ],
   "nabooda-auto.com": [
     {
-      "source": "worldvectorlogo",
-      "file": "nabooda-auto.com_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nabooda-auto.com_worldvectorlogo.svg"
+      "source": "serp1",
+      "file": "nabooda-auto.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nabooda-auto.com_serp1.png"
     },
     {
-      "source": "wikipedia",
-      "file": "nabooda-auto.com_wikipedia.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nabooda-auto.com_wikipedia.png"
+      "source": "serp2",
+      "file": "nabooda-auto.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nabooda-auto.com_serp2.jpg"
     },
     {
-      "source": "logodev",
-      "file": "nabooda-auto.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nabooda-auto.com_logodev.png"
+      "source": "serp3",
+      "file": "nabooda-auto.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nabooda-auto.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "nabooda-auto.com_serp4.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nabooda-auto.com_serp4.webp"
     }
   ],
   "arabsweet-uae.com": [
