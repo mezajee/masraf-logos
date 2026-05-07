@@ -2260,14 +2260,29 @@
   ],
   "cipriani.com": [
     {
-      "source": "favicon",
-      "file": "cipriani.com_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cipriani.com_favicon.png"
+      "source": "serp1",
+      "file": "cipriani.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cipriani.com_serp1.png"
     },
     {
-      "source": "logodev",
-      "file": "cipriani.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cipriani.com_logodev.png"
+      "source": "serp2",
+      "file": "cipriani.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cipriani.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "cipriani.com_serp3.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cipriani.com_serp3.svg"
+    },
+    {
+      "source": "serp4",
+      "file": "cipriani.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cipriani.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "cipriani.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cipriani.com_serp5.png"
     }
   ],
   "ae.boots.com": [
