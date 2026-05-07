@@ -1273,5 +1273,19 @@
     "activeFile": "theroxycinemas.com_serp6.jpg",
     "activeUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/theroxycinemas.com_serp6.jpg",
     "rejectedAt": "2026-05-07T13:33:11.038Z"
+  },
+  {
+    "fileKey": "theroxycinemas.com",
+    "brandName": "Roxy Cinemas",
+    "domain": "theroxycinemas.com",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/theroxycinemas.com_serp7.jpg",
+    "rejectedFile": "theroxycinemas.com_serp7.jpg",
+    "source": "serp7",
+    "reasons": [
+      "wrong_brand"
+    ],
+    "activeFile": "theroxycinemas.com_serp6.jpg",
+    "activeUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/theroxycinemas.com_serp6.jpg",
+    "rejectedAt": "2026-05-07T13:33:41.909Z"
   }
 ]
