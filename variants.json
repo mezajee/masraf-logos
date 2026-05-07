@@ -636,9 +636,49 @@
   ],
   "project04.co": [
     {
-      "source": "wikipedia",
-      "file": "project04.co_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/project04.co_wikipedia.svg"
+      "source": "serp1",
+      "file": "project04.co_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/project04.co_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "project04.co_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/project04.co_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "project04.co_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/project04.co_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "project04.co_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/project04.co_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "project04.co_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/project04.co_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "project04.co_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/project04.co_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "project04.co_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/project04.co_serp7.jpg"
+    },
+    {
+      "source": "serp8",
+      "file": "project04.co_serp8.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/project04.co_serp8.jpg"
+    },
+    {
+      "source": "serp9",
+      "file": "project04.co_serp9.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/project04.co_serp9.jpg"
     }
   ],
   "acai-berry-the-amazon-boost": [
