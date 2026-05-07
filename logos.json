@@ -220,5 +220,11 @@
     "file": "emarat.ae_serp6.jpg",
     "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emarat.ae_serp6.jpg",
     "confirmedAt": "2026-05-07"
+  },
+  "luluhypermarket.com": {
+    "status": "official",
+    "file": "luluhypermarket.com_serp2.png",
+    "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/luluhypermarket.com_serp2.png",
+    "confirmedAt": "2026-05-07"
   }
 }
