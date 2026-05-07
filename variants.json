@@ -1189,7 +1189,10 @@
     {
       "source": "favicon",
       "file": "courchevel.com_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/courchevel.com_favicon.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/courchevel.com_favicon.png",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     },
     {
       "source": "worldvectorlogo",
