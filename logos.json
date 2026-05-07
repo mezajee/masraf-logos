@@ -196,5 +196,11 @@
     "file": "marksandspencer.com_serp1.jpg",
     "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/marksandspencer.com_serp1.jpg",
     "confirmedAt": "2026-05-07"
+  },
+  "puzzlesupps.com": {
+    "status": "official",
+    "file": "puzzlesupps.com_logodev.png",
+    "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/puzzlesupps.com_logodev.png",
+    "confirmedAt": "2026-05-07"
   }
 }
