@@ -112,7 +112,8 @@
       "source": "worldvectorlogo",
       "file": "li.me_worldvectorlogo.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/li.me_worldvectorlogo.svg",
-      "active": false
+      "active": false,
+      "confirmed": true
     },
     {
       "source": "wikipedia",
