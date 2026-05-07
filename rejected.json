@@ -726,5 +726,20 @@
     "activeFile": "",
     "activeUrl": "",
     "rejectedAt": "2026-05-07T06:08:07.266Z"
+  },
+  {
+    "fileKey": "deliveroo.ae",
+    "brandName": "Deliveroo",
+    "domain": "deliveroo.ae",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/deliveroo.ae_serp6.png",
+    "rejectedFile": "deliveroo.ae_serp6.png",
+    "source": "serp6",
+    "reasons": [
+      "wrong_brand",
+      "low_quality"
+    ],
+    "activeFile": "deliveroo.ae_serp1.png",
+    "activeUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/deliveroo.ae_serp1.png",
+    "rejectedAt": "2026-05-07T06:09:06.222Z"
   }
 ]
