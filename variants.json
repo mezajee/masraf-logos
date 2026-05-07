@@ -2713,24 +2713,24 @@
   ],
   "rossignol.com": [
     {
-      "source": "favicon",
-      "file": "rossignol.com_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rossignol.com_favicon.png"
+      "source": "serp2",
+      "file": "rossignol.com_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rossignol.com_serp2.svg"
     },
     {
-      "source": "worldvectorlogo",
-      "file": "rossignol.com_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rossignol.com_worldvectorlogo.svg"
+      "source": "serp3",
+      "file": "rossignol.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rossignol.com_serp3.png"
     },
     {
-      "source": "wikipedia",
-      "file": "rossignol.com_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rossignol.com_wikipedia.svg"
+      "source": "serp4",
+      "file": "rossignol.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rossignol.com_serp4.png"
     },
     {
-      "source": "logodev",
-      "file": "rossignol.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rossignol.com_logodev.png"
+      "source": "serp5",
+      "file": "rossignol.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rossignol.com_serp5.png"
     }
   ],
   "gulfservice.ch": [
