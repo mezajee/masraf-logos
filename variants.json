@@ -4941,7 +4941,10 @@
     {
       "source": "worldvectorlogo",
       "file": "al-khawaneej-pharmacy.business.site_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-khawaneej-pharmacy.business.site_worldvectorlogo.svg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-khawaneej-pharmacy.business.site_worldvectorlogo.svg",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     },
     {
       "source": "logodev",
