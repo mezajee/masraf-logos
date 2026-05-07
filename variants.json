@@ -7428,7 +7428,8 @@
       "source": "serp4",
       "file": "deliveroo.ae_serp4.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/deliveroo.ae_serp4.png",
-      "active": false
+      "active": false,
+      "confirmed": true
     },
     {
       "source": "serp5",
