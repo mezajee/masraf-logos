@@ -178,5 +178,11 @@
     "file": "li.me_favicon.png",
     "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/li.me_favicon.png",
     "confirmedAt": "2026-05-07"
+  },
+  "whop.com": {
+    "status": "official",
+    "file": "whop.com_favicon.png",
+    "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/whop.com_favicon.png",
+    "confirmedAt": "2026-05-07"
   }
 }
