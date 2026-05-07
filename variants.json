@@ -119,7 +119,9 @@
       "source": "wikipedia",
       "file": "li.me_wikipedia.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/li.me_wikipedia.svg",
-      "active": false
+      "active": false,
+      "flagged": true,
+      "confirmed": false
     },
     {
       "source": "logodev_name",
