@@ -3839,9 +3839,29 @@
   ],
   "archerscoffee.com": [
     {
-      "source": "logodev",
-      "file": "archerscoffee.com_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/archerscoffee.com_logodev.png"
+      "source": "serp1",
+      "file": "archerscoffee.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/archerscoffee.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "archerscoffee.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/archerscoffee.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "archerscoffee.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/archerscoffee.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "archerscoffee.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/archerscoffee.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "archerscoffee.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/archerscoffee.com_serp5.jpg"
     }
   ],
   "luluhypermarket.com": [
