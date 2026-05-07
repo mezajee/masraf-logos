@@ -655,19 +655,29 @@
   ],
   "formauae.com": [
     {
-      "source": "favicon",
-      "file": "formauae.com_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/formauae.com_favicon.png"
+      "source": "serp1",
+      "file": "formauae.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/formauae.com_serp1.png"
     },
     {
-      "source": "worldvectorlogo",
-      "file": "formauae.com_worldvectorlogo.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/formauae.com_worldvectorlogo.svg"
+      "source": "serp2",
+      "file": "formauae.com_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/formauae.com_serp2.svg"
     },
     {
-      "source": "logodev_name",
-      "file": "formauae.com_logodev_name.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/formauae.com_logodev_name.png"
+      "source": "serp3",
+      "file": "formauae.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/formauae.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "formauae.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/formauae.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "formauae.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/formauae.com_serp5.png"
     }
   ],
   "cannesoutdoor.nl": [
