@@ -4103,7 +4103,10 @@
     {
       "source": "serp5",
       "file": "levelshoes.com_serp5.jpg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/levelshoes.com_serp5.jpg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/levelshoes.com_serp5.jpg",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     }
   ],
   "temu.com": [
