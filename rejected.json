@@ -96,5 +96,19 @@
     "activeFile": "",
     "activeUrl": "",
     "rejectedAt": "2026-05-07T04:32:54.516Z"
+  },
+  {
+    "fileKey": "binghatti.com",
+    "brandName": "Binghatti Hospitality",
+    "domain": "binghatti.com",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/binghatti.com_serp1.jpg",
+    "rejectedFile": "binghatti.com_serp1.jpg",
+    "source": "serp1",
+    "reasons": [
+      "not_logo_related"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-07T04:33:51.507Z"
   }
 ]
