@@ -825,5 +825,19 @@
     "activeFile": "lululemon.com_serp2.png",
     "activeUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lululemon.com_serp2.png",
     "rejectedAt": "2026-05-07T06:13:14.623Z"
+  },
+  {
+    "fileKey": "lululemon.com",
+    "brandName": "lululemon",
+    "domain": "lululemon.com",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lululemon.com_serp6.jpg",
+    "rejectedFile": "lululemon.com_serp6.jpg",
+    "source": "serp6",
+    "reasons": [
+      "not_logo_related"
+    ],
+    "activeFile": "lululemon.com_serp2.png",
+    "activeUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lululemon.com_serp2.png",
+    "rejectedAt": "2026-05-07T06:13:27.779Z"
   }
 ]
