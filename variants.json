@@ -5202,5 +5202,32 @@
       "file": "garrettpopcorn.com_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/garrettpopcorn.com_serp5.png"
     }
+  ],
+  "rashidalicafe.ae": [
+    {
+      "source": "serp1",
+      "file": "rashidalicafe.ae_serp1.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rashidalicafe.ae_serp1.webp"
+    },
+    {
+      "source": "serp2",
+      "file": "rashidalicafe.ae_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rashidalicafe.ae_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "rashidalicafe.ae_serp3.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rashidalicafe.ae_serp3.webp"
+    },
+    {
+      "source": "serp4",
+      "file": "rashidalicafe.ae_serp4.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rashidalicafe.ae_serp4.webp"
+    },
+    {
+      "source": "serp5",
+      "file": "rashidalicafe.ae_serp5.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rashidalicafe.ae_serp5.webp"
+    }
   ]
 }
