@@ -2422,14 +2422,29 @@
   ],
   "wolfis.ae": [
     {
-      "source": "favicon",
-      "file": "wolfis.ae_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wolfis.ae_favicon.png"
+      "source": "serp1",
+      "file": "wolfis.ae_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wolfis.ae_serp1.jpg"
     },
     {
-      "source": "logodev",
-      "file": "wolfis.ae_logodev.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wolfis.ae_logodev.png"
+      "source": "serp2",
+      "file": "wolfis.ae_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wolfis.ae_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "wolfis.ae_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wolfis.ae_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "wolfis.ae_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wolfis.ae_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "wolfis.ae_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wolfis.ae_serp5.jpg"
     }
   ],
   "calo.app": [
