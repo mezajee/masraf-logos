@@ -1415,5 +1415,19 @@
     "activeFile": "",
     "activeUrl": "",
     "rejectedAt": "2026-05-07T17:30:47.176Z"
+  },
+  {
+    "fileKey": "pinkberryme.com",
+    "brandName": "Pinkberry",
+    "domain": "pinkberryme.com",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pinkberryme.com_favicon.png",
+    "rejectedFile": "pinkberryme.com_favicon.png",
+    "source": "favicon",
+    "reasons": [
+      "low_quality"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-10T08:12:09.904Z"
   }
 ]
