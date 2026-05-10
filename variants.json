@@ -1422,14 +1422,15 @@
       "source": "logodev_name",
       "file": "pinkberryme.com_logodev_name.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pinkberryme.com_logodev_name.png",
-      "active": true,
+      "active": false,
       "confirmed": true
     },
     {
       "source": "logodev",
       "file": "pinkberryme.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pinkberryme.com_logodev.png",
-      "active": false
+      "active": true,
+      "confirmed": true
     }
   ],
   "eatkokoro.xyz": [
