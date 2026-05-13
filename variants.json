@@ -8021,5 +8021,12 @@
       "file": "aljaberoptical.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aljaberoptical.com_favicon.png"
     }
+  ],
+  "razer.com": [
+    {
+      "source": "favicon",
+      "file": "razer.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/razer.com_favicon.png"
+    }
   ]
 }
