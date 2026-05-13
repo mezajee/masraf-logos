@@ -3218,7 +3218,10 @@
     {
       "source": "wikipedia",
       "file": "instagram.com_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/instagram.com_wikipedia.svg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/instagram.com_wikipedia.svg",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     },
     {
       "source": "logodev_name",
