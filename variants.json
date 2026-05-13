@@ -7995,5 +7995,12 @@
       "file": "hysteria.ae_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hysteria.ae_favicon.png"
     }
+  ],
+  "almaraseemrestaurant.com": [
+    {
+      "source": "favicon",
+      "file": "almaraseemrestaurant.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/almaraseemrestaurant.com_favicon.png"
+    }
   ]
 }
