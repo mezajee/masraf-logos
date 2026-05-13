@@ -598,7 +598,10 @@
     {
       "source": "wikipedia",
       "file": "today-s-supermarket_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/today-s-supermarket_wikipedia.svg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/today-s-supermarket_wikipedia.svg",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     }
   ],
   "wearefeels.com": [
