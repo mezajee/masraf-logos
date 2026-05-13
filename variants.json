@@ -8028,5 +8028,12 @@
       "file": "razer.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/razer.com_favicon.png"
     }
+  ],
+  "bounce.ae": [
+    {
+      "source": "favicon",
+      "file": "bounce.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bounce.ae_favicon.png"
+    }
   ]
 }
