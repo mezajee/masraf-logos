@@ -1485,5 +1485,19 @@
     "activeFile": "",
     "activeUrl": "",
     "rejectedAt": "2026-05-13T12:50:01.758Z"
+  },
+  {
+    "fileKey": "instagram.com",
+    "brandName": "Hoop Desserts & Shakes",
+    "domain": "instagram.com/hoop.ae",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/instagram.com_favicon.png",
+    "rejectedFile": "instagram.com_favicon.png",
+    "source": "favicon",
+    "reasons": [
+      "generic"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-13T12:50:06.447Z"
   }
 ]
