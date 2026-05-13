@@ -1541,5 +1541,19 @@
     "activeFile": "eatkokoro.xyz_serp2.svg",
     "activeUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eatkokoro.xyz_serp2.svg",
     "rejectedAt": "2026-05-13T14:54:56.256Z"
+  },
+  {
+    "fileKey": "eatkokoro.xyz",
+    "brandName": "Kokoro Hand Roll Bar",
+    "domain": "eatkokoro.xyz",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eatkokoro.xyz_serp3.webp",
+    "rejectedFile": "eatkokoro.xyz_serp3.webp",
+    "source": "serp3",
+    "reasons": [
+      "not_logo_related"
+    ],
+    "activeFile": "eatkokoro.xyz_serp2.svg",
+    "activeUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eatkokoro.xyz_serp2.svg",
+    "rejectedAt": "2026-05-13T14:55:01.908Z"
   }
 ]
