@@ -1555,5 +1555,19 @@
     "activeFile": "eatkokoro.xyz_serp2.svg",
     "activeUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eatkokoro.xyz_serp2.svg",
     "rejectedAt": "2026-05-13T14:55:01.908Z"
+  },
+  {
+    "fileKey": "today-s-supermarket",
+    "brandName": "Today's Supermarket",
+    "domain": "",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/today-s-supermarket_wikipedia.svg",
+    "rejectedFile": "today-s-supermarket_wikipedia.svg",
+    "source": "wikipedia",
+    "reasons": [
+      "generic"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-13T17:34:33.751Z"
   }
 ]
