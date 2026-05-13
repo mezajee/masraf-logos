@@ -1471,5 +1471,19 @@
     "activeFile": "",
     "activeUrl": "",
     "rejectedAt": "2026-05-13T12:49:57.474Z"
+  },
+  {
+    "fileKey": "instagram.com",
+    "brandName": "Hoop Desserts & Shakes",
+    "domain": "instagram.com/hoop.ae",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/instagram.com_worldvectorlogo.svg",
+    "rejectedFile": "instagram.com_worldvectorlogo.svg",
+    "source": "worldvectorlogo",
+    "reasons": [
+      "generic"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-13T12:50:01.758Z"
   }
 ]
