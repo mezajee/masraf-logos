@@ -248,5 +248,11 @@
     "file": "alshaya.com_serp1.png",
     "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alshaya.com_serp1.png",
     "confirmedAt": "2026-05-13"
+  },
+  "almaya.ae": {
+    "status": "official",
+    "file": "almaya.ae_serp1.png",
+    "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/almaya.ae_serp1.png",
+    "confirmedAt": "2026-05-13"
   }
 }
