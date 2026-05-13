@@ -232,5 +232,9 @@
     "file": "pinkberryme.com_logodev.png",
     "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pinkberryme.com_logodev.png",
     "confirmedAt": "2026-05-10"
+  },
+  "instagram.com": {
+    "status": "initials",
+    "confirmedAt": "2026-05-13"
   }
 }
