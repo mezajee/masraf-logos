@@ -5410,6 +5410,11 @@
       "source": "logodev",
       "file": "asterhospitals.ae_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/asterhospitals.ae_logodev.png"
+    },
+    {
+      "source": "favicon",
+      "file": "asterhospitals.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/asterhospitals.ae_favicon.png"
     }
   ],
   "unknown-paypal-merchant": [
