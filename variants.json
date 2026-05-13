@@ -7988,5 +7988,12 @@
       "file": "geekay.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/geekay.com_favicon.png"
     }
+  ],
+  "hysteria.ae": [
+    {
+      "source": "favicon",
+      "file": "hysteria.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hysteria.ae_favicon.png"
+    }
   ]
 }
