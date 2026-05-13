@@ -1437,27 +1437,33 @@
     {
       "source": "serp1",
       "file": "eatkokoro.xyz_serp1.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eatkokoro.xyz_serp1.svg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eatkokoro.xyz_serp1.svg",
+      "active": true,
+      "confirmed": true
     },
     {
       "source": "serp2",
       "file": "eatkokoro.xyz_serp2.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eatkokoro.xyz_serp2.svg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eatkokoro.xyz_serp2.svg",
+      "active": false
     },
     {
       "source": "serp3",
       "file": "eatkokoro.xyz_serp3.webp",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eatkokoro.xyz_serp3.webp"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eatkokoro.xyz_serp3.webp",
+      "active": false
     },
     {
       "source": "serp4",
       "file": "eatkokoro.xyz_serp4.jpg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eatkokoro.xyz_serp4.jpg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eatkokoro.xyz_serp4.jpg",
+      "active": false
     },
     {
       "source": "serp5",
       "file": "eatkokoro.xyz_serp5.webp",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eatkokoro.xyz_serp5.webp"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eatkokoro.xyz_serp5.webp",
+      "active": false
     }
   ],
   "binsina.ae": [
