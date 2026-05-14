@@ -1639,5 +1639,19 @@
     "activeFile": "dintaifungae.com_serp4.png",
     "activeUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dintaifungae.com_serp4.png",
     "rejectedAt": "2026-05-14T23:41:21.729Z"
+  },
+  {
+    "fileKey": "dintaifungae.com",
+    "brandName": "Din Tai Fung",
+    "domain": "dintaifungae.com",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dintaifungae.com_serp2.jpg",
+    "rejectedFile": "dintaifungae.com_serp2.jpg",
+    "source": "serp2",
+    "reasons": [
+      "not_logo_related"
+    ],
+    "activeFile": "dintaifungae.com_serp4.png",
+    "activeUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dintaifungae.com_serp4.png",
+    "rejectedAt": "2026-05-14T23:41:26.868Z"
   }
 ]
