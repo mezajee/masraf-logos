@@ -2299,7 +2299,9 @@
       "source": "serp2",
       "file": "dintaifungae.com_serp2.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dintaifungae.com_serp2.jpg",
-      "active": false
+      "active": false,
+      "flagged": true,
+      "confirmed": false
     },
     {
       "source": "serp3",
