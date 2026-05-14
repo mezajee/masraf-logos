@@ -8244,5 +8244,32 @@
       "file": "knotbakehouse.ae_serp5.webp",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/knotbakehouse.ae_serp5.webp"
     }
+  ],
+  "ghaya-al-owais": [
+    {
+      "source": "serp1",
+      "file": "ghaya-al-owais_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ghaya-al-owais_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "ghaya-al-owais_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ghaya-al-owais_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "ghaya-al-owais_serp3.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ghaya-al-owais_serp3.svg"
+    },
+    {
+      "source": "serp4",
+      "file": "ghaya-al-owais_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ghaya-al-owais_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "ghaya-al-owais_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ghaya-al-owais_serp5.png"
+    }
   ]
 }
