@@ -1609,6 +1609,11 @@
       "file": "bismi.com_serp10.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_serp10.jpg",
       "active": false
+    },
+    {
+      "source": "favicon",
+      "file": "bismi.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bismi.com_favicon.png"
     }
   ],
   "gatheron.ae": [
