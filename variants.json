@@ -6213,6 +6213,21 @@
       "source": "serp6",
       "file": "apple.com_serp6.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/apple.com_serp6.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "apple.com_serp4.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/apple.com_serp4.svg"
+    },
+    {
+      "source": "serp1",
+      "file": "apple.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/apple.com_serp1.svg"
+    },
+    {
+      "source": "favicon",
+      "file": "apple.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/apple.com_favicon.png"
     }
   ],
   "xstrike.com": [
