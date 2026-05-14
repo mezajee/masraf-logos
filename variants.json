@@ -8374,5 +8374,22 @@
       "file": "smokerscentre.ae_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/smokerscentre.ae_serp5.png"
     }
+  ],
+  "greek-frozen-ice-cream": [
+    {
+      "source": "serp1",
+      "file": "greek-frozen-ice-cream_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/greek-frozen-ice-cream_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "greek-frozen-ice-cream_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/greek-frozen-ice-cream_serp2.png"
+    },
+    {
+      "source": "serp5",
+      "file": "greek-frozen-ice-cream_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/greek-frozen-ice-cream_serp5.png"
+    }
   ]
 }
