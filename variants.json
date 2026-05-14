@@ -9511,5 +9511,32 @@
       "file": "tebex.io_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tebex.io_favicon.png"
     }
+  ],
+  "phoenix-restaurant": [
+    {
+      "source": "serp1",
+      "file": "phoenix-restaurant_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/phoenix-restaurant_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "phoenix-restaurant_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/phoenix-restaurant_serp2.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "phoenix-restaurant_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/phoenix-restaurant_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "phoenix-restaurant_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/phoenix-restaurant_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "phoenix-restaurant_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/phoenix-restaurant_serp5.png"
+    }
   ]
 }
