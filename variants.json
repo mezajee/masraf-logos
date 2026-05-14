@@ -9044,5 +9044,32 @@
       "file": "exoptic.ae_serp6.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/exoptic.ae_serp6.jpg"
     }
+  ],
+  "humyum-restaurant": [
+    {
+      "source": "serp5",
+      "file": "humyum-restaurant_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/humyum-restaurant_serp5.png"
+    },
+    {
+      "source": "serp4",
+      "file": "humyum-restaurant_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/humyum-restaurant_serp4.png"
+    },
+    {
+      "source": "serp3",
+      "file": "humyum-restaurant_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/humyum-restaurant_serp3.png"
+    },
+    {
+      "source": "serp2",
+      "file": "humyum-restaurant_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/humyum-restaurant_serp2.png"
+    },
+    {
+      "source": "serp1",
+      "file": "humyum-restaurant_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/humyum-restaurant_serp1.png"
+    }
   ]
 }
