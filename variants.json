@@ -5926,6 +5926,21 @@
       "flagged": true,
       "confirmed": false,
       "active": false
+    },
+    {
+      "source": "serp6",
+      "file": "mumayaz.ae_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mumayaz.ae_serp6.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "mumayaz.ae_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mumayaz.ae_serp4.png"
+    },
+    {
+      "source": "favicon",
+      "file": "mumayaz.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mumayaz.ae_favicon.png"
     }
   ],
   "asterhospitals.ae": [
