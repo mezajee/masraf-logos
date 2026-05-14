@@ -9479,5 +9479,37 @@
       "file": "umamijapaneseme.com_serp7.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/umamijapaneseme.com_serp7.jpg"
     }
+  ],
+  "tebex.io": [
+    {
+      "source": "serp1",
+      "file": "tebex.io_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tebex.io_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "tebex.io_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tebex.io_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "tebex.io_serp3.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tebex.io_serp3.webp"
+    },
+    {
+      "source": "serp4",
+      "file": "tebex.io_serp4.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tebex.io_serp4.webp"
+    },
+    {
+      "source": "serp5",
+      "file": "tebex.io_serp5.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tebex.io_serp5.webp"
+    },
+    {
+      "source": "favicon",
+      "file": "tebex.io_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tebex.io_favicon.png"
+    }
   ]
 }
