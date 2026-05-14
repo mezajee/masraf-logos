@@ -6273,6 +6273,21 @@
       "flagged": true,
       "confirmed": false,
       "active": false
+    },
+    {
+      "source": "serp6",
+      "file": "kohaj-supermarket_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kohaj-supermarket_serp6.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "kohaj-supermarket_serp5.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kohaj-supermarket_serp5.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "kohaj-supermarket_serp3.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kohaj-supermarket_serp3.svg"
     }
   ],
   "mohideensupermarket.com": [
