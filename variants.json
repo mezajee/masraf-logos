@@ -9216,5 +9216,32 @@
       "file": "humyum-restaurant_serp1.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/humyum-restaurant_serp1.png"
     }
+  ],
+  "lafi-supermarket": [
+    {
+      "source": "serp1",
+      "file": "lafi-supermarket_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lafi-supermarket_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "lafi-supermarket_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lafi-supermarket_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "lafi-supermarket_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lafi-supermarket_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "lafi-supermarket_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lafi-supermarket_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "lafi-supermarket_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lafi-supermarket_serp5.png"
+    }
   ]
 }
