@@ -8325,5 +8325,32 @@
       "file": "hili-coffee-house_serp5.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hili-coffee-house_serp5.svg"
     }
+  ],
+  "stills-photo-lab": [
+    {
+      "source": "serp1",
+      "file": "stills-photo-lab_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/stills-photo-lab_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "stills-photo-lab_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/stills-photo-lab_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "stills-photo-lab_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/stills-photo-lab_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "stills-photo-lab_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/stills-photo-lab_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "stills-photo-lab_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/stills-photo-lab_serp5.png"
+    }
   ]
 }
