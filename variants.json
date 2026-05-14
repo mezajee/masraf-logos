@@ -8352,5 +8352,27 @@
       "file": "stills-photo-lab_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/stills-photo-lab_serp5.png"
     }
+  ],
+  "smokerscentre.ae": [
+    {
+      "source": "serp2",
+      "file": "smokerscentre.ae_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/smokerscentre.ae_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "smokerscentre.ae_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/smokerscentre.ae_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "smokerscentre.ae_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/smokerscentre.ae_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "smokerscentre.ae_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/smokerscentre.ae_serp5.png"
+    }
   ]
 }
