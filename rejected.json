@@ -1597,5 +1597,19 @@
     "activeFile": "adnocdistribution.ae_serp1.png",
     "activeUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/adnocdistribution.ae_serp1.png",
     "rejectedAt": "2026-05-14T21:19:00.393Z"
+  },
+  {
+    "fileKey": "adnocdistribution.ae",
+    "brandName": "ADNOC",
+    "domain": "adnocdistribution.ae",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/adnocdistribution.ae_serp6.jpg",
+    "rejectedFile": "adnocdistribution.ae_serp6.jpg",
+    "source": "serp6",
+    "reasons": [
+      "low_quality"
+    ],
+    "activeFile": "adnocdistribution.ae_serp1.png",
+    "activeUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/adnocdistribution.ae_serp1.png",
+    "rejectedAt": "2026-05-14T21:19:06.154Z"
   }
 ]
