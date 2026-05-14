@@ -8075,5 +8075,32 @@
       "file": "ingieparis.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ingieparis.com_favicon.png"
     }
+  ],
+  "rathab-trading-llc": [
+    {
+      "source": "serp1",
+      "file": "rathab-trading-llc_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rathab-trading-llc_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "rathab-trading-llc_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rathab-trading-llc_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "rathab-trading-llc_serp3.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rathab-trading-llc_serp3.svg"
+    },
+    {
+      "source": "serp4",
+      "file": "rathab-trading-llc_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rathab-trading-llc_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "rathab-trading-llc_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rathab-trading-llc_serp5.png"
+    }
   ]
 }
