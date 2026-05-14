@@ -9442,5 +9442,42 @@
       "file": "bin-beyat-m_serp9.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bin-beyat-m_serp9.jpg"
     }
+  ],
+  "umamijapaneseme.com": [
+    {
+      "source": "serp1",
+      "file": "umamijapaneseme.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/umamijapaneseme.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "umamijapaneseme.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/umamijapaneseme.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "umamijapaneseme.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/umamijapaneseme.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "umamijapaneseme.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/umamijapaneseme.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "umamijapaneseme.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/umamijapaneseme.com_serp5.jpg"
+    },
+    {
+      "source": "serp6",
+      "file": "umamijapaneseme.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/umamijapaneseme.com_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "umamijapaneseme.com_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/umamijapaneseme.com_serp7.jpg"
+    }
   ]
 }
