@@ -8035,5 +8035,12 @@
       "file": "bounce.ae_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bounce.ae_favicon.png"
     }
+  ],
+  "fiverr.com": [
+    {
+      "source": "favicon",
+      "file": "fiverr.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fiverr.com_favicon.png"
+    }
   ]
 }
