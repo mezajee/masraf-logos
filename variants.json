@@ -8418,5 +8418,27 @@
       "file": "wadi-al-madeena-trading_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wadi-al-madeena-trading_serp5.png"
     }
+  ],
+  "area4cafe.com": [
+    {
+      "source": "serp1",
+      "file": "area4cafe.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/area4cafe.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "area4cafe.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/area4cafe.com_serp2.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "area4cafe.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/area4cafe.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "area4cafe.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/area4cafe.com_serp5.png"
+    }
   ]
 }
