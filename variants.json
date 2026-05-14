@@ -8151,5 +8151,32 @@
       "file": "floc-restaurant_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/floc-restaurant_serp5.png"
     }
+  ],
+  "souvenir-phones": [
+    {
+      "source": "serp1",
+      "file": "souvenir-phones_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/souvenir-phones_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "souvenir-phones_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/souvenir-phones_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "souvenir-phones_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/souvenir-phones_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "souvenir-phones_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/souvenir-phones_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "souvenir-phones_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/souvenir-phones_serp5.png"
+    }
   ]
 }
