@@ -3075,6 +3075,11 @@
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rumailahfarms.com_serp6.jpg",
       "active": false,
       "confirmed": true
+    },
+    {
+      "source": "favicon",
+      "file": "rumailahfarms.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rumailahfarms.com_favicon.png"
     }
   ],
   "alshaya.com": [
