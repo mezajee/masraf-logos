@@ -2436,7 +2436,10 @@
     {
       "source": "wikipedia",
       "file": "noon.com_wikipedia.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/noon.com_wikipedia.svg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/noon.com_wikipedia.svg",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     },
     {
       "source": "logodev",
