@@ -8472,5 +8472,37 @@
       "file": "enoclink.ae_serp7.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/enoclink.ae_serp7.jpg"
     }
+  ],
+  "exoptic.ae": [
+    {
+      "source": "serp1",
+      "file": "exoptic.ae_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/exoptic.ae_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "exoptic.ae_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/exoptic.ae_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "exoptic.ae_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/exoptic.ae_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "exoptic.ae_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/exoptic.ae_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "exoptic.ae_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/exoptic.ae_serp5.jpg"
+    },
+    {
+      "source": "serp6",
+      "file": "exoptic.ae_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/exoptic.ae_serp6.jpg"
+    }
   ]
 }
