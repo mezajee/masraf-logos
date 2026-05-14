@@ -8040,7 +8040,9 @@
     {
       "source": "favicon",
       "file": "fiverr.com_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fiverr.com_favicon.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fiverr.com_favicon.png",
+      "active": true,
+      "confirmed": true
     }
   ]
 }
