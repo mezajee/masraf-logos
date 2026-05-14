@@ -8298,5 +8298,32 @@
       "file": "wahat-ahmad-ahmadi-auto-accessories_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wahat-ahmad-ahmadi-auto-accessories_serp5.png"
     }
+  ],
+  "hili-coffee-house": [
+    {
+      "source": "serp1",
+      "file": "hili-coffee-house_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hili-coffee-house_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "hili-coffee-house_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hili-coffee-house_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "hili-coffee-house_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hili-coffee-house_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "hili-coffee-house_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hili-coffee-house_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "hili-coffee-house_serp5.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hili-coffee-house_serp5.svg"
+    }
   ]
 }
