@@ -258,5 +258,11 @@
   "today-s-supermarket": {
     "status": "initials",
     "confirmedAt": "2026-05-13"
+  },
+  "fiverr.com": {
+    "status": "official",
+    "file": "fiverr.com_favicon.png",
+    "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fiverr.com_favicon.png",
+    "confirmedAt": "2026-05-14"
   }
 }
