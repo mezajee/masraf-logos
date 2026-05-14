@@ -8044,5 +8044,12 @@
       "active": true,
       "confirmed": true
     }
+  ],
+  "khat.qa": [
+    {
+      "source": "favicon",
+      "file": "khat.qa_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/khat.qa_favicon.png"
+    }
   ]
 }
