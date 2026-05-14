@@ -8564,7 +8564,9 @@
       "source": "serp6",
       "file": "adnocdistribution.ae_serp6.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/adnocdistribution.ae_serp6.jpg",
-      "active": false
+      "active": false,
+      "flagged": true,
+      "confirmed": false
     },
     {
       "source": "serp7",
