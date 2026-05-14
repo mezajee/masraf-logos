@@ -3460,6 +3460,11 @@
       "flagged": true,
       "confirmed": false,
       "active": false
+    },
+    {
+      "source": "serp1",
+      "file": "instagram.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/instagram.com_serp1.png"
     }
   ],
   "dm.gov.ae": [
