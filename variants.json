@@ -8178,5 +8178,32 @@
       "file": "souvenir-phones_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/souvenir-phones_serp5.png"
     }
+  ],
+  "emitech-electronics": [
+    {
+      "source": "serp1",
+      "file": "emitech-electronics_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emitech-electronics_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "emitech-electronics_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emitech-electronics_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "emitech-electronics_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emitech-electronics_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "emitech-electronics_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emitech-electronics_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "emitech-electronics_serp5.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emitech-electronics_serp5.svg"
+    }
   ]
 }
