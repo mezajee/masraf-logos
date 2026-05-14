@@ -2292,32 +2292,39 @@
     {
       "source": "serp1",
       "file": "dintaifungae.com_serp1.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dintaifungae.com_serp1.svg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dintaifungae.com_serp1.svg",
+      "active": false
     },
     {
       "source": "serp2",
       "file": "dintaifungae.com_serp2.jpg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dintaifungae.com_serp2.jpg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dintaifungae.com_serp2.jpg",
+      "active": false
     },
     {
       "source": "serp3",
       "file": "dintaifungae.com_serp3.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dintaifungae.com_serp3.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dintaifungae.com_serp3.png",
+      "active": false
     },
     {
       "source": "serp4",
       "file": "dintaifungae.com_serp4.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dintaifungae.com_serp4.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dintaifungae.com_serp4.png",
+      "active": true,
+      "confirmed": true
     },
     {
       "source": "serp5",
       "file": "dintaifungae.com_serp5.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dintaifungae.com_serp5.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dintaifungae.com_serp5.png",
+      "active": false
     },
     {
       "source": "favicon",
       "file": "dintaifungae.com_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dintaifungae.com_favicon.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dintaifungae.com_favicon.png",
+      "active": false
     }
   ],
   "scalinicucina.com": [
