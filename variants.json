@@ -145,6 +145,31 @@
       "source": "logodev",
       "file": "delore.uk_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/delore.uk_logodev.png"
+    },
+    {
+      "source": "serp1",
+      "file": "delore.uk_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/delore.uk_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "delore.uk_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/delore.uk_serp2.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "delore.uk_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/delore.uk_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "delore.uk_serp4.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/delore.uk_serp4.svg"
+    },
+    {
+      "source": "serp5",
+      "file": "delore.uk_serp5.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/delore.uk_serp5.svg"
     }
   ],
   "careem.com": [
