@@ -5012,6 +5012,16 @@
       "active": false,
       "flagged": true,
       "confirmed": false
+    },
+    {
+      "source": "serp4",
+      "file": "talabat.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/talabat.com_serp4.png"
+    },
+    {
+      "source": "serp2",
+      "file": "talabat.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/talabat.com_serp2.png"
     }
   ],
   "saddledubai.com": [
