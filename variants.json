@@ -8102,5 +8102,27 @@
       "file": "rathab-trading-llc_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rathab-trading-llc_serp5.png"
     }
+  ],
+  "old-caf-cafe": [
+    {
+      "source": "serp2",
+      "file": "old-caf-cafe_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/old-caf-cafe_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "old-caf-cafe_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/old-caf-cafe_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "old-caf-cafe_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/old-caf-cafe_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "old-caf-cafe_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/old-caf-cafe_serp5.jpg"
+    }
   ]
 }
