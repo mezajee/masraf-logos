@@ -8232,5 +8232,17 @@
       "file": "najma-al-khawaneej-star-tyre-trading_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/najma-al-khawaneej-star-tyre-trading_serp5.png"
     }
+  ],
+  "knotbakehouse.ae": [
+    {
+      "source": "serp4",
+      "file": "knotbakehouse.ae_serp4.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/knotbakehouse.ae_serp4.webp"
+    },
+    {
+      "source": "serp5",
+      "file": "knotbakehouse.ae_serp5.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/knotbakehouse.ae_serp5.webp"
+    }
   ]
 }
