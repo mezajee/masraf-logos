@@ -2496,7 +2496,8 @@
     {
       "source": "favicon",
       "file": "noon.com_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/noon.com_favicon.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/noon.com_favicon.png",
+      "confirmed": true
     },
     {
       "source": "worldvectorlogo",
