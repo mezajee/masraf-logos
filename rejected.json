@@ -1569,5 +1569,19 @@
     "activeFile": "",
     "activeUrl": "",
     "rejectedAt": "2026-05-13T17:34:33.751Z"
+  },
+  {
+    "fileKey": "noon.com",
+    "brandName": "noon",
+    "domain": "noon.com",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/noon.com_wikipedia.svg",
+    "rejectedFile": "noon.com_wikipedia.svg",
+    "source": "wikipedia",
+    "reasons": [
+      "generic"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-14T16:28:28.088Z"
   }
 ]
