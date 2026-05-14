@@ -6092,6 +6092,16 @@
       "flagged": true,
       "confirmed": false,
       "active": false
+    },
+    {
+      "source": "serp4",
+      "file": "emarat.ae_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emarat.ae_serp4.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "emarat.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emarat.ae_favicon.png"
     }
   ],
   "iex.ae": [
