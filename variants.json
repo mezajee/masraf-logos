@@ -2007,6 +2007,31 @@
       "flagged": true,
       "confirmed": false,
       "active": false
+    },
+    {
+      "source": "serp1",
+      "file": "c10-cafe_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/c10-cafe_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "c10-cafe_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/c10-cafe_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "c10-cafe_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/c10-cafe_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "c10-cafe_serp4.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/c10-cafe_serp4.svg"
+    },
+    {
+      "source": "serp5",
+      "file": "c10-cafe_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/c10-cafe_serp5.png"
     }
   ],
   "pinkberryme.com": [
