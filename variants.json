@@ -241,6 +241,36 @@
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/careem.com_logodev.png",
       "active": false,
       "confirmed": true
+    },
+    {
+      "source": "serp1",
+      "file": "careem.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/careem.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "careem.com_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/careem.com_serp2.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "careem.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/careem.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "careem.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/careem.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "careem.com_serp5.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/careem.com_serp5.svg"
+    },
+    {
+      "source": "favicon",
+      "file": "careem.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/careem.com_favicon.png"
     }
   ],
   "travelexae.com": [
