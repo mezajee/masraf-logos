@@ -6,6 +6,36 @@
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/puzzlesupps.com_logodev.png",
       "active": true,
       "confirmed": true
+    },
+    {
+      "source": "serp1",
+      "file": "puzzlesupps.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/puzzlesupps.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "puzzlesupps.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/puzzlesupps.com_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "puzzlesupps.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/puzzlesupps.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "puzzlesupps.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/puzzlesupps.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "puzzlesupps.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/puzzlesupps.com_serp5.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "puzzlesupps.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/puzzlesupps.com_favicon.png"
     }
   ],
   "bigtbarbecue.com": [
