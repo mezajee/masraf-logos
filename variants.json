@@ -1606,6 +1606,36 @@
       "flagged": true,
       "confirmed": false,
       "active": false
+    },
+    {
+      "source": "serp1",
+      "file": "maramijewelry.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maramijewelry.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "maramijewelry.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maramijewelry.com_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "maramijewelry.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maramijewelry.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "maramijewelry.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maramijewelry.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "maramijewelry.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maramijewelry.com_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "maramijewelry.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maramijewelry.com_favicon.png"
     }
   ],
   "izzy-restaurant": [
