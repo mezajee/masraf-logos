@@ -10099,7 +10099,9 @@
     {
       "source": "serp4",
       "file": "area4cafe.com_serp4.jpg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/area4cafe.com_serp4.jpg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/area4cafe.com_serp4.jpg",
+      "active": true,
+      "confirmed": true
     },
     {
       "source": "serp5",
