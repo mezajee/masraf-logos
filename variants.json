@@ -1719,6 +1719,36 @@
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emiratesparkings.com_logodev.png",
       "active": true,
       "confirmed": true
+    },
+    {
+      "source": "serp2",
+      "file": "emiratesparkings.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emiratesparkings.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "emiratesparkings.com_serp3.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emiratesparkings.com_serp3.webp"
+    },
+    {
+      "source": "serp5",
+      "file": "emiratesparkings.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emiratesparkings.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "emiratesparkings.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emiratesparkings.com_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "emiratesparkings.com_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emiratesparkings.com_serp7.jpg"
+    },
+    {
+      "source": "serp8",
+      "file": "emiratesparkings.com_serp8.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emiratesparkings.com_serp8.jpg"
     }
   ],
   "digitaldubai.ae": [
