@@ -1681,5 +1681,19 @@
     "activeFile": "",
     "activeUrl": "",
     "rejectedAt": "2026-05-15T00:02:34.394Z"
+  },
+  {
+    "fileKey": "area4cafe.com",
+    "brandName": "Area 4 Cafe",
+    "domain": "area4cafe.com",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/area4cafe.com_serp1.png",
+    "rejectedFile": "area4cafe.com_serp1.png",
+    "source": "serp1",
+    "reasons": [
+      "wrong_brand"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-15T00:02:39.590Z"
   }
 ]
