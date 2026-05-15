@@ -1667,5 +1667,19 @@
     "activeFile": "dintaifungae.com_serp4.png",
     "activeUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dintaifungae.com_serp4.png",
     "rejectedAt": "2026-05-14T23:41:45.906Z"
+  },
+  {
+    "fileKey": "area4cafe.com",
+    "brandName": "Area 4 Cafe",
+    "domain": "area4cafe.com",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/area4cafe.com_serp5.png",
+    "rejectedFile": "area4cafe.com_serp5.png",
+    "source": "serp5",
+    "reasons": [
+      "wrong_brand"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-15T00:02:34.394Z"
   }
 ]
