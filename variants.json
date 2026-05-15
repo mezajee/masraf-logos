@@ -11621,5 +11621,57 @@
       "file": "scarlets.ae_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/scarlets.ae_favicon.png"
     }
+  ],
+  "valtrans.com": [
+    {
+      "source": "serp1",
+      "file": "valtrans.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/valtrans.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "valtrans.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/valtrans.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "valtrans.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/valtrans.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "valtrans.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/valtrans.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "valtrans.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/valtrans.com_serp5.jpg"
+    },
+    {
+      "source": "serp6",
+      "file": "valtrans.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/valtrans.com_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "valtrans.com_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/valtrans.com_serp7.jpg"
+    },
+    {
+      "source": "serp8",
+      "file": "valtrans.com_serp8.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/valtrans.com_serp8.jpg"
+    },
+    {
+      "source": "serp9",
+      "file": "valtrans.com_serp9.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/valtrans.com_serp9.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "valtrans.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/valtrans.com_favicon.png"
+    }
   ]
 }
