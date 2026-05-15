@@ -11557,5 +11557,37 @@
       "file": "phoenix-restaurant_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/phoenix-restaurant_serp5.png"
     }
+  ],
+  "twopointoh.ae": [
+    {
+      "source": "serp1",
+      "file": "twopointoh.ae_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/twopointoh.ae_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "twopointoh.ae_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/twopointoh.ae_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "twopointoh.ae_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/twopointoh.ae_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "twopointoh.ae_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/twopointoh.ae_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "twopointoh.ae_serp5.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/twopointoh.ae_serp5.webp"
+    },
+    {
+      "source": "favicon",
+      "file": "twopointoh.ae_favicon.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/twopointoh.ae_favicon.jpg"
+    }
   ]
 }
