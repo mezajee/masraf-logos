@@ -11589,5 +11589,37 @@
       "file": "twopointoh.ae_favicon.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/twopointoh.ae_favicon.jpg"
     }
+  ],
+  "scarlets.ae": [
+    {
+      "source": "serp1",
+      "file": "scarlets.ae_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/scarlets.ae_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "scarlets.ae_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/scarlets.ae_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "scarlets.ae_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/scarlets.ae_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "scarlets.ae_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/scarlets.ae_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "scarlets.ae_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/scarlets.ae_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "scarlets.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/scarlets.ae_favicon.png"
+    }
   ]
 }
