@@ -2348,6 +2348,36 @@
       "source": "logodev",
       "file": "zara.com_logodev.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/zara.com_logodev.png"
+    },
+    {
+      "source": "serp1",
+      "file": "zara.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/zara.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "zara.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/zara.com_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "zara.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/zara.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "zara.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/zara.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "zara.com_serp5.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/zara.com_serp5.svg"
+    },
+    {
+      "source": "favicon",
+      "file": "zara.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/zara.com_favicon.png"
     }
   ],
   "ae.limestore.com": [
