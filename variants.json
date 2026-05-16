@@ -11698,7 +11698,9 @@
     {
       "source": "serp1",
       "file": "the-chancery-rosewood_serp1.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/the-chancery-rosewood_serp1.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/the-chancery-rosewood_serp1.png",
+      "active": true,
+      "confirmed": true
     }
   ]
 }
