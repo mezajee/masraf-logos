@@ -11941,5 +11941,37 @@
       "file": "aupaindantan.fr_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aupaindantan.fr_favicon.png"
     }
+  ],
+  "polarcafecourchevel.com": [
+    {
+      "source": "serp1",
+      "file": "polarcafecourchevel.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/polarcafecourchevel.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "polarcafecourchevel.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/polarcafecourchevel.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "polarcafecourchevel.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/polarcafecourchevel.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "polarcafecourchevel.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/polarcafecourchevel.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "polarcafecourchevel.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/polarcafecourchevel.com_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "polarcafecourchevel.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/polarcafecourchevel.com_favicon.png"
+    }
   ]
 }
