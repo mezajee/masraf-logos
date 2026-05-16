@@ -11877,5 +11877,37 @@
       "file": "mycar4wd.com_serp7.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mycar4wd.com_serp7.jpg"
     }
+  ],
+  "lek2altitude.com": [
+    {
+      "source": "serp1",
+      "file": "lek2altitude.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lek2altitude.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "lek2altitude.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lek2altitude.com_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "lek2altitude.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lek2altitude.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "lek2altitude.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lek2altitude.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "lek2altitude.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lek2altitude.com_serp5.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "lek2altitude.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lek2altitude.com_favicon.png"
+    }
   ]
 }
