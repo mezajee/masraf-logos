@@ -288,5 +288,11 @@
     "file": "area4cafe.com_serp4.jpg",
     "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/area4cafe.com_serp4.jpg",
     "confirmedAt": "2026-05-15"
+  },
+  "selfridges.com": {
+    "status": "official",
+    "file": "selfridges.com_logodev.png",
+    "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/selfridges.com_logodev.png",
+    "confirmedAt": "2026-05-16"
   }
 }
