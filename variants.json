@@ -11776,5 +11776,37 @@
       "file": "g-taxi_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/g-taxi_serp5.png"
     }
+  ],
+  "atelier-robuchon.ae": [
+    {
+      "source": "serp1",
+      "file": "atelier-robuchon.ae_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/atelier-robuchon.ae_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "atelier-robuchon.ae_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/atelier-robuchon.ae_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "atelier-robuchon.ae_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/atelier-robuchon.ae_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "atelier-robuchon.ae_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/atelier-robuchon.ae_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "atelier-robuchon.ae_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/atelier-robuchon.ae_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "atelier-robuchon.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/atelier-robuchon.ae_favicon.png"
+    }
   ]
 }
