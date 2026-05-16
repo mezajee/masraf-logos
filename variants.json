@@ -11909,5 +11909,37 @@
       "file": "lek2altitude.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lek2altitude.com_favicon.png"
     }
+  ],
+  "aupaindantan.fr": [
+    {
+      "source": "serp1",
+      "file": "aupaindantan.fr_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aupaindantan.fr_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "aupaindantan.fr_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aupaindantan.fr_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "aupaindantan.fr_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aupaindantan.fr_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "aupaindantan.fr_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aupaindantan.fr_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "aupaindantan.fr_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aupaindantan.fr_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "aupaindantan.fr_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aupaindantan.fr_favicon.png"
+    }
   ]
 }
