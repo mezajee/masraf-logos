@@ -11808,5 +11808,37 @@
       "file": "atelier-robuchon.ae_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/atelier-robuchon.ae_favicon.png"
     }
+  ],
+  "infinities.co.uk": [
+    {
+      "source": "serp1",
+      "file": "infinities.co.uk_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/infinities.co.uk_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "infinities.co.uk_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/infinities.co.uk_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "infinities.co.uk_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/infinities.co.uk_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "infinities.co.uk_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/infinities.co.uk_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "infinities.co.uk_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/infinities.co.uk_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "infinities.co.uk_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/infinities.co.uk_favicon.png"
+    }
   ]
 }
