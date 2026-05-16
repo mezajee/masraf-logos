@@ -3005,7 +3005,8 @@
       "source": "serp1",
       "file": "selfridges.com_serp1.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/selfridges.com_serp1.svg",
-      "active": false
+      "active": false,
+      "confirmed": true
     },
     {
       "source": "serp2",
