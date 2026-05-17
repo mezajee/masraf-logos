@@ -18075,5 +18075,37 @@
       "file": "carpoworld.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/carpoworld.com_favicon.png"
     }
+  ],
+  "waitrose.ae": [
+    {
+      "source": "serp1",
+      "file": "waitrose.ae_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/waitrose.ae_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "waitrose.ae_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/waitrose.ae_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "waitrose.ae_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/waitrose.ae_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "waitrose.ae_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/waitrose.ae_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "waitrose.ae_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/waitrose.ae_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "waitrose.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/waitrose.ae_favicon.png"
+    }
   ]
 }
