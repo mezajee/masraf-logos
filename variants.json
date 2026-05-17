@@ -18107,5 +18107,37 @@
       "file": "waitrose.ae_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/waitrose.ae_favicon.png"
     }
+  ],
+  "farmerj.com": [
+    {
+      "source": "serp1",
+      "file": "farmerj.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/farmerj.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "farmerj.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/farmerj.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "farmerj.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/farmerj.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "farmerj.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/farmerj.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "farmerj.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/farmerj.com_serp5.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "farmerj.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/farmerj.com_favicon.png"
+    }
   ]
 }
