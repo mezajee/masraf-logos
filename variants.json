@@ -17330,5 +17330,27 @@
       "file": "cafe-20_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cafe-20_serp5.png"
     }
+  ],
+  "voyage_uae": [
+    {
+      "source": "serp1",
+      "file": "voyage_uae_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/voyage_uae_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "voyage_uae_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/voyage_uae_serp2.png"
+    },
+    {
+      "source": "serp4",
+      "file": "voyage_uae_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/voyage_uae_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "voyage_uae_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/voyage_uae_serp5.png"
+    }
   ]
 }
