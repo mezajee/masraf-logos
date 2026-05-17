@@ -18609,5 +18609,37 @@
       "file": "reserveps.com_favicon.webp",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/reserveps.com_favicon.webp"
     }
+  ],
+  "aa.com": [
+    {
+      "source": "serp1",
+      "file": "aa.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aa.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "aa.com_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aa.com_serp2.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "aa.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aa.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "aa.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aa.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "aa.com_serp5.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aa.com_serp5.webp"
+    },
+    {
+      "source": "favicon",
+      "file": "aa.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aa.com_favicon.png"
+    }
   ]
 }
