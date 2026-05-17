@@ -16906,5 +16906,37 @@
       "file": "footlocker.fr_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/footlocker.fr_favicon.png"
     }
+  ],
+  "jimmyfairly.com": [
+    {
+      "source": "serp1",
+      "file": "jimmyfairly.com_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/jimmyfairly.com_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "jimmyfairly.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/jimmyfairly.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "jimmyfairly.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/jimmyfairly.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "jimmyfairly.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/jimmyfairly.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "jimmyfairly.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/jimmyfairly.com_serp5.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "jimmyfairly.com_favicon.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/jimmyfairly.com_favicon.jpg"
+    }
   ]
 }
