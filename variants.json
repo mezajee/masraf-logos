@@ -14041,5 +14041,32 @@
       "file": "izuburger.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/izuburger.com_favicon.png"
     }
+  ],
+  "abnaa-yousuf-ahli-investments": [
+    {
+      "source": "serp1",
+      "file": "abnaa-yousuf-ahli-investments_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/abnaa-yousuf-ahli-investments_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "abnaa-yousuf-ahli-investments_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/abnaa-yousuf-ahli-investments_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "abnaa-yousuf-ahli-investments_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/abnaa-yousuf-ahli-investments_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "abnaa-yousuf-ahli-investments_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/abnaa-yousuf-ahli-investments_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "abnaa-yousuf-ahli-investments_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/abnaa-yousuf-ahli-investments_serp5.png"
+    }
   ]
 }
