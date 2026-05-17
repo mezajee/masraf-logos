@@ -15207,5 +15207,12 @@
       "file": "bateel.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bateel.com_favicon.png"
     }
+  ],
+  "moncler.com": [
+    {
+      "source": "favicon",
+      "file": "moncler.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/moncler.com_favicon.png"
+    }
   ]
 }
