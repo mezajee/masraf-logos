@@ -16021,5 +16021,32 @@
       "file": "al-ghafa-foodstuff-trading_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-ghafa-foodstuff-trading_serp5.png"
     }
+  ],
+  "qazaq-restaurant": [
+    {
+      "source": "serp1",
+      "file": "qazaq-restaurant_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/qazaq-restaurant_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "qazaq-restaurant_serp2.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/qazaq-restaurant_serp2.webp"
+    },
+    {
+      "source": "serp3",
+      "file": "qazaq-restaurant_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/qazaq-restaurant_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "qazaq-restaurant_serp4.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/qazaq-restaurant_serp4.webp"
+    },
+    {
+      "source": "serp5",
+      "file": "qazaq-restaurant_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/qazaq-restaurant_serp5.png"
+    }
   ]
 }
