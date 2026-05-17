@@ -1709,5 +1709,19 @@
     "activeFile": "",
     "activeUrl": "",
     "rejectedAt": "2026-05-15T00:02:56.661Z"
+  },
+  {
+    "fileKey": "nabooda-auto.com",
+    "brandName": "Porsche Service Centre",
+    "domain": "nabooda-auto.com",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nabooda-auto.com_serp5.jpg",
+    "rejectedFile": "nabooda-auto.com_serp5.jpg",
+    "source": "serp5",
+    "reasons": [
+      "not_logo_related"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-17T11:41:38.399Z"
   }
 ]
