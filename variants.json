@@ -15669,5 +15669,32 @@
       "file": "greatamericanbagel.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/greatamericanbagel.com_favicon.png"
     }
+  ],
+  "kojin2.com": [
+    {
+      "source": "serp2",
+      "file": "kojin2.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kojin2.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "kojin2.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kojin2.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "kojin2.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kojin2.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "kojin2.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kojin2.com_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "kojin2.com_favicon.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kojin2.com_favicon.jpg"
+    }
   ]
 }
