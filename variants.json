@@ -15573,5 +15573,37 @@
       "file": "kissthehippo.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kissthehippo.com_favicon.png"
     }
+  ],
+  "themaineoysterbar.com": [
+    {
+      "source": "serp1",
+      "file": "themaineoysterbar.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/themaineoysterbar.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "themaineoysterbar.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/themaineoysterbar.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "themaineoysterbar.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/themaineoysterbar.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "themaineoysterbar.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/themaineoysterbar.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "themaineoysterbar.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/themaineoysterbar.com_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "themaineoysterbar.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/themaineoysterbar.com_favicon.png"
+    }
   ]
 }
