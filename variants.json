@@ -12744,5 +12744,32 @@
       "file": "new-nad-rashid-pharmacy_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/new-nad-rashid-pharmacy_serp5.png"
     }
+  ],
+  "revopoint3d.com": [
+    {
+      "source": "serp1",
+      "file": "revopoint3d.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/revopoint3d.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "revopoint3d.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/revopoint3d.com_serp2.png"
+    },
+    {
+      "source": "serp4",
+      "file": "revopoint3d.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/revopoint3d.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "revopoint3d.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/revopoint3d.com_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "revopoint3d.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/revopoint3d.com_favicon.png"
+    }
   ]
 }
