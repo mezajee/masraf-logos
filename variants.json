@@ -17463,5 +17463,62 @@
       "file": "harrods.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/harrods.com_favicon.png"
     }
+  ],
+  "hrhiggins.co.uk": [
+    {
+      "source": "serp1",
+      "file": "hrhiggins.co.uk_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hrhiggins.co.uk_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "hrhiggins.co.uk_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hrhiggins.co.uk_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "hrhiggins.co.uk_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hrhiggins.co.uk_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "hrhiggins.co.uk_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hrhiggins.co.uk_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "hrhiggins.co.uk_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hrhiggins.co.uk_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "hrhiggins.co.uk_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hrhiggins.co.uk_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "hrhiggins.co.uk_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hrhiggins.co.uk_serp7.jpg"
+    },
+    {
+      "source": "serp8",
+      "file": "hrhiggins.co.uk_serp8.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hrhiggins.co.uk_serp8.jpg"
+    },
+    {
+      "source": "serp9",
+      "file": "hrhiggins.co.uk_serp9.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hrhiggins.co.uk_serp9.jpg"
+    },
+    {
+      "source": "serp10",
+      "file": "hrhiggins.co.uk_serp10.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hrhiggins.co.uk_serp10.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "hrhiggins.co.uk_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hrhiggins.co.uk_favicon.png"
+    }
   ]
 }
