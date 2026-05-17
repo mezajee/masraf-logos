@@ -300,5 +300,11 @@
     "file": "the-chancery-rosewood_serp1.png",
     "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/the-chancery-rosewood_serp1.png",
     "confirmedAt": "2026-05-16"
+  },
+  "peninsula.com": {
+    "status": "official",
+    "file": "peninsula.com_serp1.png",
+    "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/peninsula.com_serp1.png",
+    "confirmedAt": "2026-05-17"
   }
 }
