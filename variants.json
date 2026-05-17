@@ -15962,5 +15962,37 @@
       "file": "alera-ventures_serp5.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alera-ventures_serp5.svg"
     }
+  ],
+  "rivas.ae": [
+    {
+      "source": "serp1",
+      "file": "rivas.ae_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rivas.ae_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "rivas.ae_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rivas.ae_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "rivas.ae_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rivas.ae_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "rivas.ae_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rivas.ae_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "rivas.ae_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rivas.ae_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "rivas.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rivas.ae_favicon.png"
+    }
   ]
 }
