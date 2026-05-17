@@ -17207,5 +17207,37 @@
       "file": "restaurantmantel.com_favicon.webp",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/restaurantmantel.com_favicon.webp"
     }
+  ],
+  "greenbagelcafe.com": [
+    {
+      "source": "serp1",
+      "file": "greenbagelcafe.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/greenbagelcafe.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "greenbagelcafe.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/greenbagelcafe.com_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "greenbagelcafe.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/greenbagelcafe.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "greenbagelcafe.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/greenbagelcafe.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "greenbagelcafe.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/greenbagelcafe.com_serp5.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "greenbagelcafe.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/greenbagelcafe.com_favicon.png"
+    }
   ]
 }
