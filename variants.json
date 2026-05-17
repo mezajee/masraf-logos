@@ -16331,5 +16331,32 @@
       "file": "vivir-coffee-shop_serp5.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/vivir-coffee-shop_serp5.jpg"
     }
+  ],
+  "slrpramen.com": [
+    {
+      "source": "serp1",
+      "file": "slrpramen.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/slrpramen.com_serp1.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "slrpramen.com_serp3.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/slrpramen.com_serp3.svg"
+    },
+    {
+      "source": "serp4",
+      "file": "slrpramen.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/slrpramen.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "slrpramen.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/slrpramen.com_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "slrpramen.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/slrpramen.com_favicon.png"
+    }
   ]
 }
