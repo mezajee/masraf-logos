@@ -12943,5 +12943,37 @@
       "file": "ec.shj.ae_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ec.shj.ae_favicon.png"
     }
+  ],
+  "futuretyresuae.com": [
+    {
+      "source": "serp1",
+      "file": "futuretyresuae.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/futuretyresuae.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "futuretyresuae.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/futuretyresuae.com_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "futuretyresuae.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/futuretyresuae.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "futuretyresuae.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/futuretyresuae.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "futuretyresuae.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/futuretyresuae.com_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "futuretyresuae.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/futuretyresuae.com_favicon.png"
+    }
   ]
 }
