@@ -18690,5 +18690,37 @@
       "file": "allianz-assistance.ae_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/allianz-assistance.ae_favicon.png"
     }
+  ],
+  "flylax.com": [
+    {
+      "source": "serp1",
+      "file": "flylax.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/flylax.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "flylax.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/flylax.com_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "flylax.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/flylax.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "flylax.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/flylax.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "flylax.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/flylax.com_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "flylax.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/flylax.com_favicon.png"
+    }
   ]
 }
