@@ -14943,5 +14943,47 @@
       "file": "kaercher.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kaercher.com_favicon.png"
     }
+  ],
+  "asterpharmacy.ae": [
+    {
+      "source": "serp1",
+      "file": "asterpharmacy.ae_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/asterpharmacy.ae_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "asterpharmacy.ae_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/asterpharmacy.ae_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "asterpharmacy.ae_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/asterpharmacy.ae_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "asterpharmacy.ae_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/asterpharmacy.ae_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "asterpharmacy.ae_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/asterpharmacy.ae_serp5.jpg"
+    },
+    {
+      "source": "serp6",
+      "file": "asterpharmacy.ae_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/asterpharmacy.ae_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "asterpharmacy.ae_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/asterpharmacy.ae_serp7.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "asterpharmacy.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/asterpharmacy.ae_favicon.png"
+    }
   ]
 }
