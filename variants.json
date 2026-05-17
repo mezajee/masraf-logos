@@ -12321,5 +12321,37 @@
       "file": "numberbarn.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/numberbarn.com_favicon.png"
     }
+  ],
+  "acting": [
+    {
+      "source": "serp1",
+      "file": "acting_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/acting_serp1.png"
+    },
+    {
+      "source": "serp3",
+      "file": "acting_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/acting_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "acting_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/acting_serp4.png"
+    },
+    {
+      "source": "serp6",
+      "file": "acting_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/acting_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "acting_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/acting_serp7.jpg"
+    },
+    {
+      "source": "serp8",
+      "file": "acting_serp8.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/acting_serp8.jpg"
+    }
   ]
 }
