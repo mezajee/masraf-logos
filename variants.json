@@ -18033,5 +18033,47 @@
       "file": "dorchestercollection.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dorchestercollection.com_favicon.png"
     }
+  ],
+  "carpoworld.com": [
+    {
+      "source": "serp1",
+      "file": "carpoworld.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/carpoworld.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "carpoworld.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/carpoworld.com_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "carpoworld.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/carpoworld.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "carpoworld.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/carpoworld.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "carpoworld.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/carpoworld.com_serp5.jpg"
+    },
+    {
+      "source": "serp6",
+      "file": "carpoworld.com_serp6.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/carpoworld.com_serp6.png"
+    },
+    {
+      "source": "serp7",
+      "file": "carpoworld.com_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/carpoworld.com_serp7.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "carpoworld.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/carpoworld.com_favicon.png"
+    }
   ]
 }
