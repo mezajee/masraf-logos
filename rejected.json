@@ -1877,5 +1877,19 @@
     "activeFile": "nabooda-auto.com_serp6.png",
     "activeUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nabooda-auto.com_serp6.png",
     "rejectedAt": "2026-05-17T11:44:42.646Z"
+  },
+  {
+    "fileKey": "graincafe.ae",
+    "brandName": "Grain Cafe",
+    "domain": "graincafe.ae",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/graincafe.ae_serp5.png",
+    "rejectedFile": "graincafe.ae_serp5.png",
+    "source": "serp5",
+    "reasons": [
+      "not_logo_related"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-17T16:20:03.366Z"
   }
 ]
