@@ -15337,5 +15337,42 @@
       "file": "hilton.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hilton.com_favicon.png"
     }
+  ],
+  "daisygreenfood.com": [
+    {
+      "source": "serp1",
+      "file": "daisygreenfood.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/daisygreenfood.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "daisygreenfood.com_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/daisygreenfood.com_serp2.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "daisygreenfood.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/daisygreenfood.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "daisygreenfood.com_serp4.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/daisygreenfood.com_serp4.svg"
+    },
+    {
+      "source": "serp5",
+      "file": "daisygreenfood.com_serp5.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/daisygreenfood.com_serp5.svg"
+    },
+    {
+      "source": "serp6",
+      "file": "daisygreenfood.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/daisygreenfood.com_serp6.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "daisygreenfood.com_favicon.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/daisygreenfood.com_favicon.webp"
+    }
   ]
 }
