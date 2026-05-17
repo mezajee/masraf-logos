@@ -12609,5 +12609,37 @@
       "file": "bordomavidubai.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bordomavidubai.com_favicon.png"
     }
+  ],
+  "agmyatkaung.github.io": [
+    {
+      "source": "serp1",
+      "file": "agmyatkaung.github.io_serp1.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/agmyatkaung.github.io_serp1.webp"
+    },
+    {
+      "source": "serp2",
+      "file": "agmyatkaung.github.io_serp2.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/agmyatkaung.github.io_serp2.webp"
+    },
+    {
+      "source": "serp3",
+      "file": "agmyatkaung.github.io_serp3.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/agmyatkaung.github.io_serp3.webp"
+    },
+    {
+      "source": "serp4",
+      "file": "agmyatkaung.github.io_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/agmyatkaung.github.io_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "agmyatkaung.github.io_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/agmyatkaung.github.io_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "agmyatkaung.github.io_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/agmyatkaung.github.io_favicon.png"
+    }
   ]
 }
