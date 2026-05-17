@@ -18375,5 +18375,37 @@
       "file": "privatpraxis-private-medical-practice_serp5.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/privatpraxis-private-medical-practice_serp5.svg"
     }
+  ],
+  "free-now.com": [
+    {
+      "source": "serp1",
+      "file": "free-now.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/free-now.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "free-now.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/free-now.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "free-now.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/free-now.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "free-now.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/free-now.com_serp4.jpg"
+    },
+    {
+      "source": "serp6",
+      "file": "free-now.com_serp6.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/free-now.com_serp6.png"
+    },
+    {
+      "source": "favicon",
+      "file": "free-now.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/free-now.com_favicon.png"
+    }
   ]
 }
