@@ -15541,5 +15541,37 @@
       "file": "portobello.com.br_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/portobello.com.br_serp5.png"
     }
+  ],
+  "kissthehippo.com": [
+    {
+      "source": "serp1",
+      "file": "kissthehippo.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kissthehippo.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "kissthehippo.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kissthehippo.com_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "kissthehippo.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kissthehippo.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "kissthehippo.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kissthehippo.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "kissthehippo.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kissthehippo.com_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "kissthehippo.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kissthehippo.com_favicon.png"
+    }
   ]
 }
