@@ -14911,5 +14911,37 @@
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/peninsula.com_serp5.jpg",
       "confirmed": true
     }
+  ],
+  "kaercher.com": [
+    {
+      "source": "serp1",
+      "file": "kaercher.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kaercher.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "kaercher.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kaercher.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "kaercher.com_serp3.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kaercher.com_serp3.svg"
+    },
+    {
+      "source": "serp4",
+      "file": "kaercher.com_serp4.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kaercher.com_serp4.svg"
+    },
+    {
+      "source": "serp5",
+      "file": "kaercher.com_serp5.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kaercher.com_serp5.svg"
+    },
+    {
+      "source": "favicon",
+      "file": "kaercher.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kaercher.com_favicon.png"
+    }
   ]
 }
