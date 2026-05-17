@@ -18934,5 +18934,42 @@
       "file": "avenue31cafe.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/avenue31cafe.com_favicon.png"
     }
+  ],
+  "parkwhiz.com": [
+    {
+      "source": "serp1",
+      "file": "parkwhiz.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/parkwhiz.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "parkwhiz.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/parkwhiz.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "parkwhiz.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/parkwhiz.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "parkwhiz.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/parkwhiz.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "parkwhiz.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/parkwhiz.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "parkwhiz.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/parkwhiz.com_serp6.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "parkwhiz.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/parkwhiz.com_favicon.png"
+    }
   ]
 }
