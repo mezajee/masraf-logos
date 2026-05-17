@@ -16407,5 +16407,37 @@
       "file": "carine.ae_serp4.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/carine.ae_serp4.png"
     }
+  ],
+  "milas-restaurant": [
+    {
+      "source": "serp1",
+      "file": "milas-restaurant_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/milas-restaurant_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "milas-restaurant_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/milas-restaurant_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "milas-restaurant_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/milas-restaurant_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "milas-restaurant_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/milas-restaurant_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "milas-restaurant_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/milas-restaurant_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "milas-restaurant_serp6.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/milas-restaurant_serp6.png"
+    }
   ]
 }
