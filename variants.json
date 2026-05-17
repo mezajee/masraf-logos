@@ -17271,5 +17271,42 @@
       "file": "nice.aeroport.fr_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nice.aeroport.fr_favicon.png"
     }
+  ],
+  "mawgif.com": [
+    {
+      "source": "serp1",
+      "file": "mawgif.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mawgif.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "mawgif.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mawgif.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "mawgif.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mawgif.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "mawgif.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mawgif.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "mawgif.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mawgif.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "mawgif.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mawgif.com_serp6.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "mawgif.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mawgif.com_favicon.png"
+    }
   ]
 }
