@@ -6533,7 +6533,10 @@
     {
       "source": "serp14",
       "file": "nabooda-auto.com_serp14.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nabooda-auto.com_serp14.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nabooda-auto.com_serp14.png",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     }
   ],
   "arabsweet-uae.com": [
