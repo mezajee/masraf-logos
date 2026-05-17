@@ -16358,5 +16358,32 @@
       "file": "slrpramen.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/slrpramen.com_favicon.png"
     }
+  ],
+  "al-rehla-restaurant": [
+    {
+      "source": "serp1",
+      "file": "al-rehla-restaurant_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-rehla-restaurant_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "al-rehla-restaurant_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-rehla-restaurant_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "al-rehla-restaurant_serp3.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-rehla-restaurant_serp3.svg"
+    },
+    {
+      "source": "serp4",
+      "file": "al-rehla-restaurant_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-rehla-restaurant_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "al-rehla-restaurant_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-rehla-restaurant_serp5.png"
+    }
   ]
 }
