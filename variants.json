@@ -13832,5 +13832,37 @@
       "file": "caffenero.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/caffenero.com_favicon.png"
     }
+  ],
+  "mtm-powersports.com": [
+    {
+      "source": "serp1",
+      "file": "mtm-powersports.com_serp1.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mtm-powersports.com_serp1.webp"
+    },
+    {
+      "source": "serp2",
+      "file": "mtm-powersports.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mtm-powersports.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "mtm-powersports.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mtm-powersports.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "mtm-powersports.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mtm-powersports.com_serp4.png"
+    },
+    {
+      "source": "serp6",
+      "file": "mtm-powersports.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mtm-powersports.com_serp6.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "mtm-powersports.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mtm-powersports.com_favicon.png"
+    }
   ]
 }
