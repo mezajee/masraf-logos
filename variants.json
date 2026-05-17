@@ -13438,5 +13438,37 @@
       "file": "al-zabadi-al-mumayez_serp8.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-zabadi-al-mumayez_serp8.jpg"
     }
+  ],
+  "yifangteame.com": [
+    {
+      "source": "serp1",
+      "file": "yifangteame.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/yifangteame.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "yifangteame.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/yifangteame.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "yifangteame.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/yifangteame.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "yifangteame.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/yifangteame.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "yifangteame.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/yifangteame.com_serp5.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "yifangteame.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/yifangteame.com_favicon.png"
+    }
   ]
 }
