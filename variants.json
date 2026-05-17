@@ -18513,5 +18513,37 @@
       "file": "rush-group.ae_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rush-group.ae_favicon.png"
     }
+  ],
+  "bose.ae": [
+    {
+      "source": "serp1",
+      "file": "bose.ae_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bose.ae_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "bose.ae_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bose.ae_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "bose.ae_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bose.ae_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "bose.ae_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bose.ae_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "bose.ae_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bose.ae_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "bose.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bose.ae_favicon.png"
+    }
   ]
 }
