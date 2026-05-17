@@ -18230,5 +18230,37 @@
       "file": "super-trim-gents-salon_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/super-trim-gents-salon_serp5.png"
     }
+  ],
+  "beefbar.com": [
+    {
+      "source": "serp1",
+      "file": "beefbar.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/beefbar.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "beefbar.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/beefbar.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "beefbar.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/beefbar.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "beefbar.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/beefbar.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "beefbar.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/beefbar.com_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "beefbar.com_favicon.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/beefbar.com_favicon.jpg"
+    }
   ]
 }
