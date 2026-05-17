@@ -12019,5 +12019,42 @@
       "file": "sherpa.net_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sherpa.net_favicon.png"
     }
+  ],
+  "bagatelle.com": [
+    {
+      "source": "serp1",
+      "file": "bagatelle.com_serp1.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bagatelle.com_serp1.webp"
+    },
+    {
+      "source": "serp2",
+      "file": "bagatelle.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bagatelle.com_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "bagatelle.com_serp3.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bagatelle.com_serp3.webp"
+    },
+    {
+      "source": "serp4",
+      "file": "bagatelle.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bagatelle.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "bagatelle.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bagatelle.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "bagatelle.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bagatelle.com_serp6.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "bagatelle.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bagatelle.com_favicon.png"
+    }
   ]
 }
