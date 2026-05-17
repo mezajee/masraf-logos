@@ -13677,5 +13677,37 @@
       "file": "hoop-last-exit.business.site_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hoop-last-exit.business.site_favicon.png"
     }
+  ],
+  "highmotion.ae": [
+    {
+      "source": "serp1",
+      "file": "highmotion.ae_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/highmotion.ae_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "highmotion.ae_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/highmotion.ae_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "highmotion.ae_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/highmotion.ae_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "highmotion.ae_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/highmotion.ae_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "highmotion.ae_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/highmotion.ae_serp5.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "highmotion.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/highmotion.ae_favicon.png"
+    }
   ]
 }
