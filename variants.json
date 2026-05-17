@@ -17074,5 +17074,42 @@
       "file": "senequier.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/senequier.com_favicon.png"
     }
+  ],
+  "pharma-europenne.fr": [
+    {
+      "source": "serp1",
+      "file": "pharma-europenne.fr_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pharma-europenne.fr_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "pharma-europenne.fr_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pharma-europenne.fr_serp2.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "pharma-europenne.fr_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pharma-europenne.fr_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "pharma-europenne.fr_serp4.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pharma-europenne.fr_serp4.svg"
+    },
+    {
+      "source": "serp5",
+      "file": "pharma-europenne.fr_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pharma-europenne.fr_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "pharma-europenne.fr_serp6.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pharma-europenne.fr_serp6.png"
+    },
+    {
+      "source": "serp7",
+      "file": "pharma-europenne.fr_serp7.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pharma-europenne.fr_serp7.png"
+    }
   ]
 }
