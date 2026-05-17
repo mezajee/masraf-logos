@@ -6476,12 +6476,15 @@
     {
       "source": "serp6",
       "file": "nabooda-auto.com_serp6.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nabooda-auto.com_serp6.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nabooda-auto.com_serp6.png",
+      "active": true,
+      "confirmed": true
     },
     {
       "source": "serp7",
       "file": "nabooda-auto.com_serp7.webp",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nabooda-auto.com_serp7.webp"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nabooda-auto.com_serp7.webp",
+      "active": false
     },
     {
       "source": "serp8",
@@ -6494,7 +6497,8 @@
     {
       "source": "serp9",
       "file": "nabooda-auto.com_serp9.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nabooda-auto.com_serp9.svg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nabooda-auto.com_serp9.svg",
+      "active": false
     }
   ],
   "arabsweet-uae.com": [
