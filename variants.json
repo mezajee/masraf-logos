@@ -15482,5 +15482,37 @@
       "file": "pediped.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pediped.com_favicon.png"
     }
+  ],
+  "taxiworld.co.uk": [
+    {
+      "source": "serp1",
+      "file": "taxiworld.co.uk_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/taxiworld.co.uk_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "taxiworld.co.uk_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/taxiworld.co.uk_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "taxiworld.co.uk_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/taxiworld.co.uk_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "taxiworld.co.uk_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/taxiworld.co.uk_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "taxiworld.co.uk_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/taxiworld.co.uk_serp5.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "taxiworld.co.uk_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/taxiworld.co.uk_favicon.png"
+    }
   ]
 }
