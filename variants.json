@@ -14315,5 +14315,37 @@
       "file": "uk.venchi.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uk.venchi.com_favicon.png"
     }
+  ],
+  "thefarmgirl.co.uk": [
+    {
+      "source": "serp1",
+      "file": "thefarmgirl.co.uk_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thefarmgirl.co.uk_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "thefarmgirl.co.uk_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thefarmgirl.co.uk_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "thefarmgirl.co.uk_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thefarmgirl.co.uk_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "thefarmgirl.co.uk_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thefarmgirl.co.uk_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "thefarmgirl.co.uk_serp5.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thefarmgirl.co.uk_serp5.svg"
+    },
+    {
+      "source": "favicon",
+      "file": "thefarmgirl.co.uk_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thefarmgirl.co.uk_favicon.png"
+    }
   ]
 }
