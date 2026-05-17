@@ -18754,5 +18754,37 @@
       "file": "thespherevegas.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thespherevegas.com_favicon.png"
     }
+  ],
+  "joudcoffee.com": [
+    {
+      "source": "serp1",
+      "file": "joudcoffee.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/joudcoffee.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "joudcoffee.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/joudcoffee.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "joudcoffee.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/joudcoffee.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "joudcoffee.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/joudcoffee.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "joudcoffee.com_serp5.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/joudcoffee.com_serp5.webp"
+    },
+    {
+      "source": "favicon",
+      "file": "joudcoffee.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/joudcoffee.com_favicon.png"
+    }
   ]
 }
