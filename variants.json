@@ -12486,5 +12486,62 @@
       "file": "the-grey.co_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/the-grey.co_favicon.png"
     }
+  ],
+  "platinumlist.net": [
+    {
+      "source": "serp1",
+      "file": "platinumlist.net_serp1.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/platinumlist.net_serp1.webp"
+    },
+    {
+      "source": "serp2",
+      "file": "platinumlist.net_serp2.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/platinumlist.net_serp2.webp"
+    },
+    {
+      "source": "serp3",
+      "file": "platinumlist.net_serp3.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/platinumlist.net_serp3.webp"
+    },
+    {
+      "source": "serp4",
+      "file": "platinumlist.net_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/platinumlist.net_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "platinumlist.net_serp5.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/platinumlist.net_serp5.svg"
+    },
+    {
+      "source": "serp6",
+      "file": "platinumlist.net_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/platinumlist.net_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "platinumlist.net_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/platinumlist.net_serp7.jpg"
+    },
+    {
+      "source": "serp8",
+      "file": "platinumlist.net_serp8.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/platinumlist.net_serp8.jpg"
+    },
+    {
+      "source": "serp9",
+      "file": "platinumlist.net_serp9.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/platinumlist.net_serp9.jpg"
+    },
+    {
+      "source": "serp10",
+      "file": "platinumlist.net_serp10.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/platinumlist.net_serp10.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "platinumlist.net_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/platinumlist.net_favicon.png"
+    }
   ]
 }
