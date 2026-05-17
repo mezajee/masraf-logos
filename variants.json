@@ -16304,5 +16304,32 @@
       "file": "myocumdubai.com_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/myocumdubai.com_serp5.png"
     }
+  ],
+  "vivir-coffee-shop": [
+    {
+      "source": "serp1",
+      "file": "vivir-coffee-shop_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/vivir-coffee-shop_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "vivir-coffee-shop_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/vivir-coffee-shop_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "vivir-coffee-shop_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/vivir-coffee-shop_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "vivir-coffee-shop_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/vivir-coffee-shop_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "vivir-coffee-shop_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/vivir-coffee-shop_serp5.jpg"
+    }
   ]
 }
