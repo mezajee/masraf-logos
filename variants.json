@@ -18316,5 +18316,37 @@
       "file": "mehmet-emin-ba_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mehmet-emin-ba_serp5.png"
     }
+  ],
+  "schlossberghotelhomburg.de": [
+    {
+      "source": "serp1",
+      "file": "schlossberghotelhomburg.de_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/schlossberghotelhomburg.de_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "schlossberghotelhomburg.de_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/schlossberghotelhomburg.de_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "schlossberghotelhomburg.de_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/schlossberghotelhomburg.de_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "schlossberghotelhomburg.de_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/schlossberghotelhomburg.de_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "schlossberghotelhomburg.de_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/schlossberghotelhomburg.de_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "schlossberghotelhomburg.de_favicon.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/schlossberghotelhomburg.de_favicon.jpg"
+    }
   ]
 }
