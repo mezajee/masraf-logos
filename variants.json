@@ -16655,5 +16655,37 @@
       "file": "reifkushiyaki.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/reifkushiyaki.com_favicon.png"
     }
+  ],
+  "ibizagranhotel.com": [
+    {
+      "source": "serp1",
+      "file": "ibizagranhotel.com_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ibizagranhotel.com_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "ibizagranhotel.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ibizagranhotel.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "ibizagranhotel.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ibizagranhotel.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "ibizagranhotel.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ibizagranhotel.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "ibizagranhotel.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ibizagranhotel.com_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "ibizagranhotel.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ibizagranhotel.com_favicon.png"
+    }
   ]
 }
