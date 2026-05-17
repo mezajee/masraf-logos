@@ -4173,7 +4173,8 @@
       "source": "favicon",
       "file": "lpmrestaurants.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lpmrestaurants.com_favicon.png",
-      "active": false
+      "active": false,
+      "confirmed": true
     }
   ],
   "amazon.ae": [
