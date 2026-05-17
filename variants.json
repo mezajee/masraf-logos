@@ -13364,5 +13364,37 @@
       "file": "cioccabocca.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cioccabocca.com_favicon.png"
     }
+  ],
+  "tableotto.ae": [
+    {
+      "source": "serp1",
+      "file": "tableotto.ae_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tableotto.ae_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "tableotto.ae_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tableotto.ae_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "tableotto.ae_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tableotto.ae_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "tableotto.ae_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tableotto.ae_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "tableotto.ae_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tableotto.ae_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "tableotto.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tableotto.ae_favicon.png"
+    }
   ]
 }
