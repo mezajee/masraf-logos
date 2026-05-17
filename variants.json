@@ -14841,5 +14841,37 @@
       "file": "thebreadbasketae.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thebreadbasketae.com_favicon.png"
     }
+  ],
+  "puravidamiami.com": [
+    {
+      "source": "serp1",
+      "file": "puravidamiami.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/puravidamiami.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "puravidamiami.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/puravidamiami.com_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "puravidamiami.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/puravidamiami.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "puravidamiami.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/puravidamiami.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "puravidamiami.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/puravidamiami.com_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "puravidamiami.com_favicon.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/puravidamiami.com_favicon.webp"
+    }
   ]
 }
