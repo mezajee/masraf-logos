@@ -14721,5 +14721,22 @@
       "file": "spaceseatery.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/spaceseatery.com_favicon.png"
     }
+  ],
+  "fourseasons.com": [
+    {
+      "source": "serp1",
+      "file": "fourseasons.com_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fourseasons.com_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "fourseasons.com_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fourseasons.com_serp2.svg"
+    },
+    {
+      "source": "favicon",
+      "file": "fourseasons.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fourseasons.com_favicon.png"
+    }
   ]
 }
