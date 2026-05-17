@@ -2045,5 +2045,19 @@
     "activeFile": "johnbellcroyden.co.uk_serp3.jpg",
     "activeUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/johnbellcroyden.co.uk_serp3.jpg",
     "rejectedAt": "2026-05-17T16:23:20.291Z"
+  },
+  {
+    "fileKey": "johnbellcroyden.co.uk",
+    "brandName": "John Bell & Croyden",
+    "domain": "johnbellcroyden.co.uk",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/johnbellcroyden.co.uk_serp7.jpg",
+    "rejectedFile": "johnbellcroyden.co.uk_serp7.jpg",
+    "source": "serp7",
+    "reasons": [
+      "not_logo_related"
+    ],
+    "activeFile": "johnbellcroyden.co.uk_serp3.jpg",
+    "activeUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/johnbellcroyden.co.uk_serp3.jpg",
+    "rejectedAt": "2026-05-17T16:23:28.982Z"
   }
 ]
