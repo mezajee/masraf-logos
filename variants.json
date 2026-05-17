@@ -18262,5 +18262,32 @@
       "file": "beefbar.com_favicon.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/beefbar.com_favicon.jpg"
     }
+  ],
+  "sigau-mohya-g": [
+    {
+      "source": "serp1",
+      "file": "sigau-mohya-g_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sigau-mohya-g_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "sigau-mohya-g_serp2.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sigau-mohya-g_serp2.webp"
+    },
+    {
+      "source": "serp3",
+      "file": "sigau-mohya-g_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sigau-mohya-g_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "sigau-mohya-g_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sigau-mohya-g_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "sigau-mohya-g_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sigau-mohya-g_serp5.png"
+    }
   ]
 }
