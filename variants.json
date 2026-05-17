@@ -12078,5 +12078,32 @@
       "file": "maya-altitude.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maya-altitude.com_favicon.png"
     }
+  ],
+  "xbox.com": [
+    {
+      "source": "serp1",
+      "file": "xbox.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xbox.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "xbox.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xbox.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "xbox.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xbox.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "xbox.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xbox.com_serp4.png"
+    },
+    {
+      "source": "favicon",
+      "file": "xbox.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xbox.com_favicon.png"
+    }
   ]
 }
