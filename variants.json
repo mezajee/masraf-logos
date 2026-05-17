@@ -14571,5 +14571,32 @@
       "file": "rxcoffeeapothecary.ae_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rxcoffeeapothecary.ae_favicon.png"
     }
+  ],
+  "zumarestaurant.com": [
+    {
+      "source": "serp2",
+      "file": "zumarestaurant.com_serp2.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/zumarestaurant.com_serp2.webp"
+    },
+    {
+      "source": "serp3",
+      "file": "zumarestaurant.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/zumarestaurant.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "zumarestaurant.com_serp4.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/zumarestaurant.com_serp4.svg"
+    },
+    {
+      "source": "serp5",
+      "file": "zumarestaurant.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/zumarestaurant.com_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "zumarestaurant.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/zumarestaurant.com_favicon.png"
+    }
   ]
 }
