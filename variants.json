@@ -12587,5 +12587,27 @@
       "file": "place-coffee-shop_serp3.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/place-coffee-shop_serp3.png"
     }
+  ],
+  "bordomavidubai.com": [
+    {
+      "source": "serp1",
+      "file": "bordomavidubai.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bordomavidubai.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "bordomavidubai.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bordomavidubai.com_serp2.png"
+    },
+    {
+      "source": "serp4",
+      "file": "bordomavidubai.com_serp4.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bordomavidubai.com_serp4.webp"
+    },
+    {
+      "source": "favicon",
+      "file": "bordomavidubai.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bordomavidubai.com_favicon.png"
+    }
   ]
 }
