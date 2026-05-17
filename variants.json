@@ -17584,5 +17584,37 @@
       "file": "ralphlauren.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ralphlauren.com_favicon.png"
     }
+  ],
+  "ergonfoods.com": [
+    {
+      "source": "serp1",
+      "file": "ergonfoods.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ergonfoods.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "ergonfoods.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ergonfoods.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "ergonfoods.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ergonfoods.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "ergonfoods.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ergonfoods.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "ergonfoods.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ergonfoods.com_serp5.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "ergonfoods.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ergonfoods.com_favicon.png"
+    }
   ]
 }
