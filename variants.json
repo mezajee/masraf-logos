@@ -15760,5 +15760,37 @@
       "file": "mandolinrestaurant.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mandolinrestaurant.com_favicon.png"
     }
+  ],
+  "squareup.com": [
+    {
+      "source": "serp1",
+      "file": "squareup.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/squareup.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "squareup.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/squareup.com_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "squareup.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/squareup.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "squareup.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/squareup.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "squareup.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/squareup.com_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "squareup.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/squareup.com_favicon.png"
+    }
   ]
 }
