@@ -17912,5 +17912,37 @@
       "file": "bigkidicecream.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bigkidicecream.com_favicon.png"
     }
+  ],
+  "aloyoga.com": [
+    {
+      "source": "serp1",
+      "file": "aloyoga.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aloyoga.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "aloyoga.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aloyoga.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "aloyoga.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aloyoga.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "aloyoga.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aloyoga.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "aloyoga.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aloyoga.com_serp5.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "aloyoga.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aloyoga.com_favicon.png"
+    }
   ]
 }
