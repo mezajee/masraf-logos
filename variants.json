@@ -12543,5 +12543,37 @@
       "file": "platinumlist.net_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/platinumlist.net_favicon.png"
     }
+  ],
+  "me.bathandbodyworks.ae": [
+    {
+      "source": "serp1",
+      "file": "me.bathandbodyworks.ae_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/me.bathandbodyworks.ae_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "me.bathandbodyworks.ae_serp2.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/me.bathandbodyworks.ae_serp2.webp"
+    },
+    {
+      "source": "serp3",
+      "file": "me.bathandbodyworks.ae_serp3.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/me.bathandbodyworks.ae_serp3.webp"
+    },
+    {
+      "source": "serp4",
+      "file": "me.bathandbodyworks.ae_serp4.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/me.bathandbodyworks.ae_serp4.webp"
+    },
+    {
+      "source": "serp5",
+      "file": "me.bathandbodyworks.ae_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/me.bathandbodyworks.ae_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "me.bathandbodyworks.ae_favicon.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/me.bathandbodyworks.ae_favicon.svg"
+    }
   ]
 }
