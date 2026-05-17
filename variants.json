@@ -14598,5 +14598,37 @@
       "file": "zumarestaurant.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/zumarestaurant.com_favicon.png"
     }
+  ],
+  "jumeirah.com": [
+    {
+      "source": "serp1",
+      "file": "jumeirah.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/jumeirah.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "jumeirah.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/jumeirah.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "jumeirah.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/jumeirah.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "jumeirah.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/jumeirah.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "jumeirah.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/jumeirah.com_serp5.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "jumeirah.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/jumeirah.com_favicon.png"
+    }
   ]
 }
