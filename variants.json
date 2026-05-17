@@ -13012,5 +13012,27 @@
       "file": "gargash.ae_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gargash.ae_favicon.png"
     }
+  ],
+  "al-khawaneej-general-trading": [
+    {
+      "source": "serp1",
+      "file": "al-khawaneej-general-trading_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-khawaneej-general-trading_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "al-khawaneej-general-trading_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-khawaneej-general-trading_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "al-khawaneej-general-trading_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-khawaneej-general-trading_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "al-khawaneej-general-trading_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-khawaneej-general-trading_serp4.png"
+    }
   ]
 }
