@@ -18289,5 +18289,32 @@
       "file": "sigau-mohya-g_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sigau-mohya-g_serp5.png"
     }
+  ],
+  "mehmet-emin-ba": [
+    {
+      "source": "serp1",
+      "file": "mehmet-emin-ba_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mehmet-emin-ba_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "mehmet-emin-ba_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mehmet-emin-ba_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "mehmet-emin-ba_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mehmet-emin-ba_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "mehmet-emin-ba_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mehmet-emin-ba_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "mehmet-emin-ba_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mehmet-emin-ba_serp5.png"
+    }
   ]
 }
