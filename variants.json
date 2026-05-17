@@ -6517,7 +6517,10 @@
     {
       "source": "serp12",
       "file": "nabooda-auto.com_serp12.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nabooda-auto.com_serp12.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nabooda-auto.com_serp12.png",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     },
     {
       "source": "serp13",
