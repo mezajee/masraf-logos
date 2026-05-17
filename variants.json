@@ -15994,5 +15994,32 @@
       "file": "rivas.ae_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rivas.ae_favicon.png"
     }
+  ],
+  "al-ghafa-foodstuff-trading": [
+    {
+      "source": "serp1",
+      "file": "al-ghafa-foodstuff-trading_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-ghafa-foodstuff-trading_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "al-ghafa-foodstuff-trading_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-ghafa-foodstuff-trading_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "al-ghafa-foodstuff-trading_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-ghafa-foodstuff-trading_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "al-ghafa-foodstuff-trading_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-ghafa-foodstuff-trading_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "al-ghafa-foodstuff-trading_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-ghafa-foodstuff-trading_serp5.png"
+    }
   ]
 }
