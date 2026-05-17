@@ -12154,5 +12154,32 @@
       "file": "ups.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ups.com_favicon.png"
     }
+  ],
+  "dronedeploy.com": [
+    {
+      "source": "serp1",
+      "file": "dronedeploy.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dronedeploy.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "dronedeploy.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dronedeploy.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "dronedeploy.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dronedeploy.com_serp3.png"
+    },
+    {
+      "source": "serp5",
+      "file": "dronedeploy.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dronedeploy.com_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "dronedeploy.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dronedeploy.com_favicon.png"
+    }
   ]
 }
