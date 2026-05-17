@@ -16385,5 +16385,27 @@
       "file": "al-rehla-restaurant_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/al-rehla-restaurant_serp5.png"
     }
+  ],
+  "carine.ae": [
+    {
+      "source": "serp1",
+      "file": "carine.ae_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/carine.ae_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "carine.ae_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/carine.ae_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "carine.ae_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/carine.ae_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "carine.ae_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/carine.ae_serp4.png"
+    }
   ]
 }
