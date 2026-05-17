@@ -15049,5 +15049,42 @@
       "file": "dusit.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dusit.com_favicon.png"
     }
+  ],
+  "dubairetail.ae": [
+    {
+      "source": "serp1",
+      "file": "dubairetail.ae_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dubairetail.ae_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "dubairetail.ae_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dubairetail.ae_serp2.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "dubairetail.ae_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dubairetail.ae_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "dubairetail.ae_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dubairetail.ae_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "dubairetail.ae_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dubairetail.ae_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "dubairetail.ae_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dubairetail.ae_serp6.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "dubairetail.ae_favicon.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dubairetail.ae_favicon.jpg"
+    }
   ]
 }
