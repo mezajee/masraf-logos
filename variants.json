@@ -17520,5 +17520,37 @@
       "file": "hrhiggins.co.uk_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hrhiggins.co.uk_favicon.png"
     }
+  ],
+  "nobuhotels.com": [
+    {
+      "source": "serp1",
+      "file": "nobuhotels.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nobuhotels.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "nobuhotels.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nobuhotels.com_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "nobuhotels.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nobuhotels.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "nobuhotels.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nobuhotels.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "nobuhotels.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nobuhotels.com_serp5.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "nobuhotels.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nobuhotels.com_favicon.png"
+    }
   ]
 }
