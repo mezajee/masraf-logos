@@ -16719,5 +16719,42 @@
       "file": "dubaimaritimecity.com_favicon.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dubaimaritimecity.com_favicon.jpg"
     }
+  ],
+  "rebelstore.ae": [
+    {
+      "source": "serp1",
+      "file": "rebelstore.ae_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rebelstore.ae_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "rebelstore.ae_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rebelstore.ae_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "rebelstore.ae_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rebelstore.ae_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "rebelstore.ae_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rebelstore.ae_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "rebelstore.ae_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rebelstore.ae_serp5.jpg"
+    },
+    {
+      "source": "serp6",
+      "file": "rebelstore.ae_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rebelstore.ae_serp6.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "rebelstore.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rebelstore.ae_favicon.png"
+    }
   ]
 }
