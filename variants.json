@@ -14878,17 +14878,21 @@
     {
       "source": "favicon",
       "file": "peninsula.com_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/peninsula.com_favicon.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/peninsula.com_favicon.png",
+      "active": false
     },
     {
       "source": "serp1",
       "file": "peninsula.com_serp1.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/peninsula.com_serp1.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/peninsula.com_serp1.png",
+      "active": true,
+      "confirmed": true
     },
     {
       "source": "serp2",
       "file": "peninsula.com_serp2.svg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/peninsula.com_serp2.svg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/peninsula.com_serp2.svg",
+      "active": false
     }
   ]
 }
