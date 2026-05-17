@@ -312,5 +312,11 @@
     "file": "gargash.ae_serp3.png",
     "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gargash.ae_serp3.png",
     "confirmedAt": "2026-05-17"
+  },
+  "tesla.com": {
+    "status": "official",
+    "file": "tesla.com_favicon.png",
+    "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tesla.com_favicon.png",
+    "confirmedAt": "2026-05-17"
   }
 }
