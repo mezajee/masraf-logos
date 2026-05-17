@@ -15155,5 +15155,57 @@
       "file": "shefaa.ae_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/shefaa.ae_favicon.png"
     }
+  ],
+  "bateel.com": [
+    {
+      "source": "serp1",
+      "file": "bateel.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bateel.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "bateel.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bateel.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "bateel.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bateel.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "bateel.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bateel.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "bateel.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bateel.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "bateel.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bateel.com_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "bateel.com_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bateel.com_serp7.jpg"
+    },
+    {
+      "source": "serp8",
+      "file": "bateel.com_serp8.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bateel.com_serp8.jpg"
+    },
+    {
+      "source": "serp9",
+      "file": "bateel.com_serp9.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bateel.com_serp9.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "bateel.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bateel.com_favicon.png"
+    }
   ]
 }
