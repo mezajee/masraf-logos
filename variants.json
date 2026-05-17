@@ -12685,5 +12685,37 @@
       "file": "bachacoffee.com_serp6.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bachacoffee.com_serp6.jpg"
     }
+  ],
+  "difc.com": [
+    {
+      "source": "serp1",
+      "file": "difc.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/difc.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "difc.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/difc.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "difc.com_serp3.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/difc.com_serp3.webp"
+    },
+    {
+      "source": "serp4",
+      "file": "difc.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/difc.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "difc.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/difc.com_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "difc.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/difc.com_favicon.png"
+    }
   ]
 }
