@@ -16594,5 +16594,37 @@
       "file": "infoempresa.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/infoempresa.com_favicon.png"
     }
+  ],
+  "oakley.com": [
+    {
+      "source": "serp1",
+      "file": "oakley.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oakley.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "oakley.com_serp2.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oakley.com_serp2.webp"
+    },
+    {
+      "source": "serp3",
+      "file": "oakley.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oakley.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "oakley.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oakley.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "oakley.com_serp5.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oakley.com_serp5.webp"
+    },
+    {
+      "source": "favicon",
+      "file": "oakley.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oakley.com_favicon.png"
+    }
   ]
 }
