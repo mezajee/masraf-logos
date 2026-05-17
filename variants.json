@@ -18439,5 +18439,37 @@
       "file": "aria.ae_favicon.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aria.ae_favicon.jpg"
     }
+  ],
+  "julith.coffee": [
+    {
+      "source": "serp1",
+      "file": "julith.coffee_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/julith.coffee_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "julith.coffee_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/julith.coffee_serp2.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "julith.coffee_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/julith.coffee_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "julith.coffee_serp4.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/julith.coffee_serp4.svg"
+    },
+    {
+      "source": "serp5",
+      "file": "julith.coffee_serp5.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/julith.coffee_serp5.webp"
+    },
+    {
+      "source": "favicon",
+      "file": "julith.coffee_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/julith.coffee_favicon.png"
+    }
   ]
 }
