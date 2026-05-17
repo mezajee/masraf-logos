@@ -16633,5 +16633,27 @@
       "file": "berenjak.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/berenjak.com_favicon.png"
     }
+  ],
+  "reifkushiyaki.com": [
+    {
+      "source": "serp1",
+      "file": "reifkushiyaki.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/reifkushiyaki.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "reifkushiyaki.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/reifkushiyaki.com_serp2.png"
+    },
+    {
+      "source": "serp5",
+      "file": "reifkushiyaki.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/reifkushiyaki.com_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "reifkushiyaki.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/reifkushiyaki.com_favicon.png"
+    }
   ]
 }
