@@ -12353,5 +12353,27 @@
       "file": "acting_serp8.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/acting_serp8.jpg"
     }
+  ],
+  "adobe.com": [
+    {
+      "source": "serp1",
+      "file": "adobe.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/adobe.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "adobe.com_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/adobe.com_serp2.svg"
+    },
+    {
+      "source": "serp5",
+      "file": "adobe.com_serp5.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/adobe.com_serp5.svg"
+    },
+    {
+      "source": "favicon",
+      "file": "adobe.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/adobe.com_favicon.png"
+    }
   ]
 }
