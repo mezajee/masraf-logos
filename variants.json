@@ -12132,5 +12132,27 @@
       "file": "trykayu.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/trykayu.com_favicon.png"
     }
+  ],
+  "ups.com": [
+    {
+      "source": "serp2",
+      "file": "ups.com_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ups.com_serp2.svg"
+    },
+    {
+      "source": "serp5",
+      "file": "ups.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ups.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "ups.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ups.com_serp6.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "ups.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ups.com_favicon.png"
+    }
   ]
 }
