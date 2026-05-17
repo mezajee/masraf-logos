@@ -18722,5 +18722,37 @@
       "file": "flylax.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/flylax.com_favicon.png"
     }
+  ],
+  "thespherevegas.com": [
+    {
+      "source": "serp1",
+      "file": "thespherevegas.com_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thespherevegas.com_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "thespherevegas.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thespherevegas.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "thespherevegas.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thespherevegas.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "thespherevegas.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thespherevegas.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "thespherevegas.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thespherevegas.com_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "thespherevegas.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thespherevegas.com_favicon.png"
+    }
   ]
 }
