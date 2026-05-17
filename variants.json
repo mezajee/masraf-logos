@@ -17175,5 +17175,37 @@
       "file": "carltoncannes.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/carltoncannes.com_favicon.png"
     }
+  ],
+  "restaurantmantel.com": [
+    {
+      "source": "serp1",
+      "file": "restaurantmantel.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/restaurantmantel.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "restaurantmantel.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/restaurantmantel.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "restaurantmantel.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/restaurantmantel.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "restaurantmantel.com_serp4.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/restaurantmantel.com_serp4.webp"
+    },
+    {
+      "source": "serp5",
+      "file": "restaurantmantel.com_serp5.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/restaurantmantel.com_serp5.webp"
+    },
+    {
+      "source": "favicon",
+      "file": "restaurantmantel.com_favicon.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/restaurantmantel.com_favicon.webp"
+    }
   ]
 }
