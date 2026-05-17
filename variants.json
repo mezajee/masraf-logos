@@ -6484,7 +6484,9 @@
       "source": "serp7",
       "file": "nabooda-auto.com_serp7.webp",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nabooda-auto.com_serp7.webp",
-      "active": false
+      "active": false,
+      "flagged": true,
+      "confirmed": false
     },
     {
       "source": "serp8",
