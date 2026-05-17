@@ -14194,5 +14194,62 @@
       "file": "johnbellcroyden.co.uk_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/johnbellcroyden.co.uk_favicon.png"
     }
+  ],
+  "cabvision.com": [
+    {
+      "source": "serp1",
+      "file": "cabvision.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cabvision.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "cabvision.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cabvision.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "cabvision.com_serp3.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cabvision.com_serp3.svg"
+    },
+    {
+      "source": "serp4",
+      "file": "cabvision.com_serp4.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cabvision.com_serp4.svg"
+    },
+    {
+      "source": "serp5",
+      "file": "cabvision.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cabvision.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "cabvision.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cabvision.com_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "cabvision.com_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cabvision.com_serp7.jpg"
+    },
+    {
+      "source": "serp8",
+      "file": "cabvision.com_serp8.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cabvision.com_serp8.jpg"
+    },
+    {
+      "source": "serp9",
+      "file": "cabvision.com_serp9.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cabvision.com_serp9.jpg"
+    },
+    {
+      "source": "serp10",
+      "file": "cabvision.com_serp10.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cabvision.com_serp10.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "cabvision.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cabvision.com_favicon.png"
+    }
   ]
 }
