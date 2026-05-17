@@ -18348,5 +18348,32 @@
       "file": "schlossberghotelhomburg.de_favicon.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/schlossberghotelhomburg.de_favicon.jpg"
     }
+  ],
+  "privatpraxis-private-medical-practice": [
+    {
+      "source": "serp1",
+      "file": "privatpraxis-private-medical-practice_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/privatpraxis-private-medical-practice_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "privatpraxis-private-medical-practice_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/privatpraxis-private-medical-practice_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "privatpraxis-private-medical-practice_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/privatpraxis-private-medical-practice_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "privatpraxis-private-medical-practice_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/privatpraxis-private-medical-practice_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "privatpraxis-private-medical-practice_serp5.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/privatpraxis-private-medical-practice_serp5.svg"
+    }
   ]
 }
