@@ -14662,5 +14662,32 @@
       "file": "emaxme.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/emaxme.com_favicon.png"
     }
+  ],
+  "ldckitchen.com": [
+    {
+      "source": "serp2",
+      "file": "ldckitchen.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ldckitchen.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "ldckitchen.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ldckitchen.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "ldckitchen.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ldckitchen.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "ldckitchen.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ldckitchen.com_serp5.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "ldckitchen.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ldckitchen.com_favicon.png"
+    }
   ]
 }
