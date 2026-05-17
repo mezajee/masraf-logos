@@ -13982,5 +13982,37 @@
       "file": "angel-island-restaurant_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/angel-island-restaurant_serp5.png"
     }
+  ],
+  "tobysestate.com.au": [
+    {
+      "source": "serp1",
+      "file": "tobysestate.com.au_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tobysestate.com.au_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "tobysestate.com.au_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tobysestate.com.au_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "tobysestate.com.au_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tobysestate.com.au_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "tobysestate.com.au_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tobysestate.com.au_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "tobysestate.com.au_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tobysestate.com.au_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "tobysestate.com.au_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tobysestate.com.au_favicon.png"
+    }
   ]
 }
