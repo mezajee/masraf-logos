@@ -14522,5 +14522,22 @@
       "file": "uaeacupuncture.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uaeacupuncture.com_favicon.png"
     }
+  ],
+  "rotana.com": [
+    {
+      "source": "serp3",
+      "file": "rotana.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rotana.com_serp3.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "rotana.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rotana.com_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "rotana.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rotana.com_favicon.png"
+    }
   ]
 }
