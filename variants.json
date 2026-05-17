@@ -15017,5 +15017,37 @@
       "file": "arabica.coffee_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/arabica.coffee_favicon.png"
     }
+  ],
+  "dusit.com": [
+    {
+      "source": "serp1",
+      "file": "dusit.com_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dusit.com_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "dusit.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dusit.com_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "dusit.com_serp3.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dusit.com_serp3.svg"
+    },
+    {
+      "source": "serp4",
+      "file": "dusit.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dusit.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "dusit.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dusit.com_serp5.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "dusit.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dusit.com_favicon.png"
+    }
   ]
 }
