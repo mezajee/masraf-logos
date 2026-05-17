@@ -1989,5 +1989,19 @@
     "activeFile": "",
     "activeUrl": "",
     "rejectedAt": "2026-05-17T16:21:25.495Z"
+  },
+  {
+    "fileKey": "graincafe.ae",
+    "brandName": "Grain Cafe",
+    "domain": "graincafe.ae",
+    "rejectedUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/graincafe.ae_serp1.png",
+    "rejectedFile": "graincafe.ae_serp1.png",
+    "source": "serp1",
+    "reasons": [
+      "not_logo_related"
+    ],
+    "activeFile": "",
+    "activeUrl": "",
+    "rejectedAt": "2026-05-17T16:21:34.758Z"
   }
 ]
