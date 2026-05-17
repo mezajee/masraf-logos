@@ -16756,5 +16756,27 @@
       "file": "rebelstore.ae_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rebelstore.ae_favicon.png"
     }
+  ],
+  "kibsons.com": [
+    {
+      "source": "serp1",
+      "file": "kibsons.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kibsons.com_serp1.png"
+    },
+    {
+      "source": "serp3",
+      "file": "kibsons.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kibsons.com_serp3.png"
+    },
+    {
+      "source": "serp6",
+      "file": "kibsons.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kibsons.com_serp6.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "kibsons.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kibsons.com_favicon.png"
+    }
   ]
 }
