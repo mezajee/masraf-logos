@@ -14985,5 +14985,37 @@
       "file": "asterpharmacy.ae_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/asterpharmacy.ae_favicon.png"
     }
+  ],
+  "arabica.coffee": [
+    {
+      "source": "serp1",
+      "file": "arabica.coffee_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/arabica.coffee_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "arabica.coffee_serp2.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/arabica.coffee_serp2.webp"
+    },
+    {
+      "source": "serp3",
+      "file": "arabica.coffee_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/arabica.coffee_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "arabica.coffee_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/arabica.coffee_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "arabica.coffee_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/arabica.coffee_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "arabica.coffee_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/arabica.coffee_favicon.png"
+    }
   ]
 }
