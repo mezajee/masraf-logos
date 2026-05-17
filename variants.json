@@ -17352,5 +17352,42 @@
       "file": "voyage_uae_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/voyage_uae_serp5.png"
     }
+  ],
+  "marinapharmacy.com": [
+    {
+      "source": "serp1",
+      "file": "marinapharmacy.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/marinapharmacy.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "marinapharmacy.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/marinapharmacy.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "marinapharmacy.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/marinapharmacy.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "marinapharmacy.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/marinapharmacy.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "marinapharmacy.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/marinapharmacy.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "marinapharmacy.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/marinapharmacy.com_serp6.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "marinapharmacy.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/marinapharmacy.com_favicon.png"
+    }
   ]
 }
