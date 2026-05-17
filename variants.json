@@ -15381,5 +15381,37 @@
       "file": "japaneseknifecompany.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/japaneseknifecompany.com_favicon.png"
     }
+  ],
+  "aromebakery.co.uk": [
+    {
+      "source": "serp1",
+      "file": "aromebakery.co.uk_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aromebakery.co.uk_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "aromebakery.co.uk_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aromebakery.co.uk_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "aromebakery.co.uk_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aromebakery.co.uk_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "aromebakery.co.uk_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aromebakery.co.uk_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "aromebakery.co.uk_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aromebakery.co.uk_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "aromebakery.co.uk_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aromebakery.co.uk_favicon.png"
+    }
   ]
 }
