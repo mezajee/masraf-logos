@@ -14283,5 +14283,37 @@
       "file": "ivycollection.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ivycollection.com_favicon.png"
     }
+  ],
+  "uk.venchi.com": [
+    {
+      "source": "serp1",
+      "file": "uk.venchi.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uk.venchi.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "uk.venchi.com_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uk.venchi.com_serp2.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "uk.venchi.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uk.venchi.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "uk.venchi.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uk.venchi.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "uk.venchi.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uk.venchi.com_serp5.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "uk.venchi.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uk.venchi.com_favicon.png"
+    }
   ]
 }
