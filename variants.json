@@ -13741,5 +13741,32 @@
       "file": "peetscoffee.me_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/peetscoffee.me_favicon.png"
     }
+  ],
+  "relaisdelentrecote.fr": [
+    {
+      "source": "serp1",
+      "file": "relaisdelentrecote.fr_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/relaisdelentrecote.fr_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "relaisdelentrecote.fr_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/relaisdelentrecote.fr_serp2.png"
+    },
+    {
+      "source": "serp4",
+      "file": "relaisdelentrecote.fr_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/relaisdelentrecote.fr_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "relaisdelentrecote.fr_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/relaisdelentrecote.fr_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "relaisdelentrecote.fr_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/relaisdelentrecote.fr_favicon.png"
+    }
   ]
 }
