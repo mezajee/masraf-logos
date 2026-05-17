@@ -12208,5 +12208,32 @@
       "file": "skioptima.com_serp5.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/skioptima.com_serp5.jpg"
     }
+  ],
+  "airgate-sa.com": [
+    {
+      "source": "serp1",
+      "file": "airgate-sa.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/airgate-sa.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "airgate-sa.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/airgate-sa.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "airgate-sa.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/airgate-sa.com_serp3.png"
+    },
+    {
+      "source": "serp6",
+      "file": "airgate-sa.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/airgate-sa.com_serp6.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "airgate-sa.com_favicon.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/airgate-sa.com_favicon.jpg"
+    }
   ]
 }
