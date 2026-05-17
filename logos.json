@@ -324,5 +324,11 @@
     "file": "lpmrestaurants.com_serp1.svg",
     "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lpmrestaurants.com_serp1.svg",
     "confirmedAt": "2026-05-17"
+  },
+  "nabooda-auto.com": {
+    "status": "official",
+    "file": "nabooda-auto.com_serp6.png",
+    "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nabooda-auto.com_serp6.png",
+    "confirmedAt": "2026-05-17"
   }
 }
