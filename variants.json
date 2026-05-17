@@ -16899,5 +16899,12 @@
       "file": "shop.mango.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/shop.mango.com_favicon.png"
     }
+  ],
+  "footlocker.fr": [
+    {
+      "source": "favicon",
+      "file": "footlocker.fr_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/footlocker.fr_favicon.png"
+    }
   ]
 }
