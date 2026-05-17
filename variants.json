@@ -15246,5 +15246,37 @@
       "file": "activeplus.ae_serp6.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/activeplus.ae_serp6.jpg"
     }
+  ],
+  "auto-service-center": [
+    {
+      "source": "serp1",
+      "file": "auto-service-center_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/auto-service-center_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "auto-service-center_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/auto-service-center_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "auto-service-center_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/auto-service-center_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "auto-service-center_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/auto-service-center_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "auto-service-center_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/auto-service-center_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "auto-service-center_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/auto-service-center_serp6.jpg"
+    }
   ]
 }
