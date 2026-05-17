@@ -12771,5 +12771,47 @@
       "file": "revopoint3d.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/revopoint3d.com_favicon.png"
     }
+  ],
+  "somewhere.ae": [
+    {
+      "source": "serp2",
+      "file": "somewhere.ae_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/somewhere.ae_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "somewhere.ae_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/somewhere.ae_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "somewhere.ae_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/somewhere.ae_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "somewhere.ae_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/somewhere.ae_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "somewhere.ae_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/somewhere.ae_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "somewhere.ae_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/somewhere.ae_serp7.jpg"
+    },
+    {
+      "source": "serp8",
+      "file": "somewhere.ae_serp8.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/somewhere.ae_serp8.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "somewhere.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/somewhere.ae_favicon.png"
+    }
   ]
 }
