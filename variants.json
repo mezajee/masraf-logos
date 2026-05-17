@@ -13502,5 +13502,47 @@
       "file": "rafjaf-eats-restaurant_serp6.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rafjaf-eats-restaurant_serp6.jpg"
     }
+  ],
+  "qatarairways.com": [
+    {
+      "source": "serp1",
+      "file": "qatarairways.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/qatarairways.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "qatarairways.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/qatarairways.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "qatarairways.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/qatarairways.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "qatarairways.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/qatarairways.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "qatarairways.com_serp5.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/qatarairways.com_serp5.svg"
+    },
+    {
+      "source": "serp6",
+      "file": "qatarairways.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/qatarairways.com_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "qatarairways.com_serp7.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/qatarairways.com_serp7.png"
+    },
+    {
+      "source": "favicon",
+      "file": "qatarairways.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/qatarairways.com_favicon.png"
+    }
   ]
 }
