@@ -18971,5 +18971,27 @@
       "file": "parkwhiz.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/parkwhiz.com_favicon.png"
     }
+  ],
+  "valet-parking": [
+    {
+      "source": "serp2",
+      "file": "valet-parking_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/valet-parking_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "valet-parking_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/valet-parking_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "valet-parking_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/valet-parking_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "valet-parking_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/valet-parking_serp5.png"
+    }
   ]
 }
