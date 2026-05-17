@@ -18641,5 +18641,37 @@
       "file": "aa.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aa.com_favicon.png"
     }
+  ],
+  "delta.com": [
+    {
+      "source": "serp1",
+      "file": "delta.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/delta.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "delta.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/delta.com_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "delta.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/delta.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "delta.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/delta.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "delta.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/delta.com_serp5.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "delta.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/delta.com_favicon.png"
+    }
   ]
 }
