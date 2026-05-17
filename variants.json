@@ -14347,5 +14347,37 @@
       "file": "thefarmgirl.co.uk_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thefarmgirl.co.uk_favicon.png"
     }
+  ],
+  "blkcabcoffee.com": [
+    {
+      "source": "serp1",
+      "file": "blkcabcoffee.com_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/blkcabcoffee.com_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "blkcabcoffee.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/blkcabcoffee.com_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "blkcabcoffee.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/blkcabcoffee.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "blkcabcoffee.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/blkcabcoffee.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "blkcabcoffee.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/blkcabcoffee.com_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "blkcabcoffee.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/blkcabcoffee.com_favicon.png"
+    }
   ]
 }
