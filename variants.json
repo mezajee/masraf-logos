@@ -15792,5 +15792,42 @@
       "file": "squareup.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/squareup.com_favicon.png"
     }
+  ],
+  "hermes.com": [
+    {
+      "source": "serp1",
+      "file": "hermes.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hermes.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "hermes.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hermes.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "hermes.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hermes.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "hermes.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hermes.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "hermes.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hermes.com_serp5.jpg"
+    },
+    {
+      "source": "serp6",
+      "file": "hermes.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hermes.com_serp6.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "hermes.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hermes.com_favicon.png"
+    }
   ]
 }
