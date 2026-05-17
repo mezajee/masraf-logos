@@ -6498,7 +6498,9 @@
       "source": "serp9",
       "file": "nabooda-auto.com_serp9.svg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nabooda-auto.com_serp9.svg",
-      "active": false
+      "active": false,
+      "flagged": true,
+      "confirmed": false
     }
   ],
   "arabsweet-uae.com": [
