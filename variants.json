@@ -5952,7 +5952,8 @@
       "source": "serp1",
       "file": "tesla.com_serp1.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tesla.com_serp1.jpg",
-      "active": false
+      "active": false,
+      "confirmed": true
     }
   ],
   "fas": [
