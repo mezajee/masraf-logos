@@ -16048,5 +16048,37 @@
       "file": "qazaq-restaurant_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/qazaq-restaurant_serp5.png"
     }
+  ],
+  "porsche-design.com": [
+    {
+      "source": "serp1",
+      "file": "porsche-design.com_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/porsche-design.com_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "porsche-design.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/porsche-design.com_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "porsche-design.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/porsche-design.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "porsche-design.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/porsche-design.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "porsche-design.com_serp5.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/porsche-design.com_serp5.webp"
+    },
+    {
+      "source": "favicon",
+      "file": "porsche-design.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/porsche-design.com_favicon.png"
+    }
   ]
 }
