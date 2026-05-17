@@ -18139,5 +18139,37 @@
       "file": "farmerj.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/farmerj.com_favicon.png"
     }
+  ],
+  "5asec.ae": [
+    {
+      "source": "serp1",
+      "file": "5asec.ae_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/5asec.ae_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "5asec.ae_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/5asec.ae_serp2.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "5asec.ae_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/5asec.ae_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "5asec.ae_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/5asec.ae_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "5asec.ae_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/5asec.ae_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "5asec.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/5asec.ae_favicon.png"
+    }
   ]
 }
