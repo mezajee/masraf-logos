@@ -14809,5 +14809,37 @@
       "file": "halmcollective.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/halmcollective.com_favicon.png"
     }
+  ],
+  "thebreadbasketae.com": [
+    {
+      "source": "serp1",
+      "file": "thebreadbasketae.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thebreadbasketae.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "thebreadbasketae.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thebreadbasketae.com_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "thebreadbasketae.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thebreadbasketae.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "thebreadbasketae.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thebreadbasketae.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "thebreadbasketae.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thebreadbasketae.com_serp5.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "thebreadbasketae.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thebreadbasketae.com_favicon.png"
+    }
   ]
 }
