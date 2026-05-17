@@ -318,5 +318,11 @@
     "file": "tesla.com_favicon.png",
     "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tesla.com_favicon.png",
     "confirmedAt": "2026-05-17"
+  },
+  "lpmrestaurants.com": {
+    "status": "official",
+    "file": "lpmrestaurants.com_serp2.png",
+    "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lpmrestaurants.com_serp2.png",
+    "confirmedAt": "2026-05-17"
   }
 }
