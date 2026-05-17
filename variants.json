@@ -12375,5 +12375,42 @@
       "file": "adobe.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/adobe.com_favicon.png"
     }
+  ],
+  "thegalleria.ae": [
+    {
+      "source": "serp1",
+      "file": "thegalleria.ae_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thegalleria.ae_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "thegalleria.ae_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thegalleria.ae_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "thegalleria.ae_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thegalleria.ae_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "thegalleria.ae_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thegalleria.ae_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "thegalleria.ae_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thegalleria.ae_serp5.jpg"
+    },
+    {
+      "source": "serp6",
+      "file": "thegalleria.ae_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thegalleria.ae_serp6.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "thegalleria.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/thegalleria.ae_favicon.png"
+    }
   ]
 }
