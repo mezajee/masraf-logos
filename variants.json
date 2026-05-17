@@ -15696,5 +15696,37 @@
       "file": "kojin2.com_favicon.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kojin2.com_favicon.jpg"
     }
+  ],
+  "classmarine.ae": [
+    {
+      "source": "serp1",
+      "file": "classmarine.ae_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/classmarine.ae_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "classmarine.ae_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/classmarine.ae_serp2.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "classmarine.ae_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/classmarine.ae_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "classmarine.ae_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/classmarine.ae_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "classmarine.ae_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/classmarine.ae_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "classmarine.ae_favicon.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/classmarine.ae_favicon.jpg"
+    }
   ]
 }
