@@ -13571,5 +13571,47 @@
       "file": "lifepharmacy.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lifepharmacy.com_favicon.png"
     }
+  ],
+  "freshfruitscompany.com": [
+    {
+      "source": "serp1",
+      "file": "freshfruitscompany.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/freshfruitscompany.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "freshfruitscompany.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/freshfruitscompany.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "freshfruitscompany.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/freshfruitscompany.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "freshfruitscompany.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/freshfruitscompany.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "freshfruitscompany.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/freshfruitscompany.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "freshfruitscompany.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/freshfruitscompany.com_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "freshfruitscompany.com_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/freshfruitscompany.com_serp7.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "freshfruitscompany.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/freshfruitscompany.com_favicon.png"
+    }
   ]
 }
