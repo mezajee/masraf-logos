@@ -13768,5 +13768,37 @@
       "file": "relaisdelentrecote.fr_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/relaisdelentrecote.fr_favicon.png"
     }
+  ],
+  "abuauf.com": [
+    {
+      "source": "serp1",
+      "file": "abuauf.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/abuauf.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "abuauf.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/abuauf.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "abuauf.com_serp3.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/abuauf.com_serp3.webp"
+    },
+    {
+      "source": "serp4",
+      "file": "abuauf.com_serp4.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/abuauf.com_serp4.webp"
+    },
+    {
+      "source": "serp5",
+      "file": "abuauf.com_serp5.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/abuauf.com_serp5.webp"
+    },
+    {
+      "source": "favicon",
+      "file": "abuauf.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/abuauf.com_favicon.png"
+    }
   ]
 }
