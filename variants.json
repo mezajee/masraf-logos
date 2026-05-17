@@ -13544,5 +13544,32 @@
       "file": "qatarairways.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/qatarairways.com_favicon.png"
     }
+  ],
+  "lifepharmacy.com": [
+    {
+      "source": "serp1",
+      "file": "lifepharmacy.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lifepharmacy.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "lifepharmacy.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lifepharmacy.com_serp2.png"
+    },
+    {
+      "source": "serp4",
+      "file": "lifepharmacy.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lifepharmacy.com_serp4.png"
+    },
+    {
+      "source": "serp6",
+      "file": "lifepharmacy.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lifepharmacy.com_serp6.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "lifepharmacy.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/lifepharmacy.com_favicon.png"
+    }
   ]
 }
