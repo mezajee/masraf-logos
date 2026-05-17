@@ -17552,5 +17552,37 @@
       "file": "nobuhotels.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/nobuhotels.com_favicon.png"
     }
+  ],
+  "ralphlauren.com": [
+    {
+      "source": "serp1",
+      "file": "ralphlauren.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ralphlauren.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "ralphlauren.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ralphlauren.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "ralphlauren.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ralphlauren.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "ralphlauren.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ralphlauren.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "ralphlauren.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ralphlauren.com_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "ralphlauren.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ralphlauren.com_favicon.png"
+    }
   ]
 }
