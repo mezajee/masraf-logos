@@ -17838,5 +17838,42 @@
       "file": "departmentofcoffee.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/departmentofcoffee.com_favicon.png"
     }
+  ],
+  "wearetipjar.com": [
+    {
+      "source": "serp1",
+      "file": "wearetipjar.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wearetipjar.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "wearetipjar.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wearetipjar.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "wearetipjar.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wearetipjar.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "wearetipjar.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wearetipjar.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "wearetipjar.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wearetipjar.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "wearetipjar.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wearetipjar.com_serp6.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "wearetipjar.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wearetipjar.com_favicon.png"
+    }
   ]
 }
