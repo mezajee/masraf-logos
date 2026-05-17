@@ -17111,5 +17111,37 @@
       "file": "pharma-europenne.fr_serp7.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pharma-europenne.fr_serp7.png"
     }
+  ],
+  "bmhotelsresorts.com": [
+    {
+      "source": "serp1",
+      "file": "bmhotelsresorts.com_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bmhotelsresorts.com_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "bmhotelsresorts.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bmhotelsresorts.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "bmhotelsresorts.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bmhotelsresorts.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "bmhotelsresorts.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bmhotelsresorts.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "bmhotelsresorts.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bmhotelsresorts.com_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "bmhotelsresorts.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bmhotelsresorts.com_favicon.png"
+    }
   ]
 }
