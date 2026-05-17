@@ -15123,5 +15123,37 @@
       "file": "choithramsgcc.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/choithramsgcc.com_favicon.png"
     }
+  ],
+  "shefaa.ae": [
+    {
+      "source": "serp1",
+      "file": "shefaa.ae_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/shefaa.ae_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "shefaa.ae_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/shefaa.ae_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "shefaa.ae_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/shefaa.ae_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "shefaa.ae_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/shefaa.ae_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "shefaa.ae_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/shefaa.ae_serp5.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "shefaa.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/shefaa.ae_favicon.png"
+    }
   ]
 }
