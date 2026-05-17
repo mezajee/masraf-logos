@@ -16995,5 +16995,57 @@
       "file": "blade.com_favicon.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/blade.com_favicon.jpg"
     }
+  ],
+  "sasscafe-dubai.ae": [
+    {
+      "source": "serp1",
+      "file": "sasscafe-dubai.ae_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sasscafe-dubai.ae_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "sasscafe-dubai.ae_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sasscafe-dubai.ae_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "sasscafe-dubai.ae_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sasscafe-dubai.ae_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "sasscafe-dubai.ae_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sasscafe-dubai.ae_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "sasscafe-dubai.ae_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sasscafe-dubai.ae_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "sasscafe-dubai.ae_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sasscafe-dubai.ae_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "sasscafe-dubai.ae_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sasscafe-dubai.ae_serp7.jpg"
+    },
+    {
+      "source": "serp8",
+      "file": "sasscafe-dubai.ae_serp8.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sasscafe-dubai.ae_serp8.jpg"
+    },
+    {
+      "source": "serp9",
+      "file": "sasscafe-dubai.ae_serp9.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sasscafe-dubai.ae_serp9.jpg"
+    },
+    {
+      "source": "serp10",
+      "file": "sasscafe-dubai.ae_serp10.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/sasscafe-dubai.ae_serp10.jpg"
+    }
   ]
 }
