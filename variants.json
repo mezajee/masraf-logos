@@ -13613,5 +13613,37 @@
       "file": "freshfruitscompany.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/freshfruitscompany.com_favicon.png"
     }
+  ],
+  "crowneplazadubaimarina.com": [
+    {
+      "source": "serp1",
+      "file": "crowneplazadubaimarina.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/crowneplazadubaimarina.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "crowneplazadubaimarina.com_serp2.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/crowneplazadubaimarina.com_serp2.webp"
+    },
+    {
+      "source": "serp3",
+      "file": "crowneplazadubaimarina.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/crowneplazadubaimarina.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "crowneplazadubaimarina.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/crowneplazadubaimarina.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "crowneplazadubaimarina.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/crowneplazadubaimarina.com_serp5.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "crowneplazadubaimarina.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/crowneplazadubaimarina.com_favicon.png"
+    }
   ]
 }
