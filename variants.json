@@ -12105,5 +12105,32 @@
       "file": "xbox.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/xbox.com_favicon.png"
     }
+  ],
+  "trykayu.com": [
+    {
+      "source": "serp1",
+      "file": "trykayu.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/trykayu.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "trykayu.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/trykayu.com_serp2.png"
+    },
+    {
+      "source": "serp4",
+      "file": "trykayu.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/trykayu.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "trykayu.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/trykayu.com_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "trykayu.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/trykayu.com_favicon.png"
+    }
   ]
 }
