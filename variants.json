@@ -12289,5 +12289,37 @@
       "file": "caviarhouse-prunier.com_favicon.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/caviarhouse-prunier.com_favicon.jpg"
     }
+  ],
+  "numberbarn.com": [
+    {
+      "source": "serp1",
+      "file": "numberbarn.com_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/numberbarn.com_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "numberbarn.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/numberbarn.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "numberbarn.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/numberbarn.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "numberbarn.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/numberbarn.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "numberbarn.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/numberbarn.com_serp5.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "numberbarn.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/numberbarn.com_favicon.png"
+    }
   ]
 }
