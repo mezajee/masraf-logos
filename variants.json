@@ -15728,5 +15728,37 @@
       "file": "classmarine.ae_favicon.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/classmarine.ae_favicon.jpg"
     }
+  ],
+  "mandolinrestaurant.com": [
+    {
+      "source": "serp1",
+      "file": "mandolinrestaurant.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mandolinrestaurant.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "mandolinrestaurant.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mandolinrestaurant.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "mandolinrestaurant.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mandolinrestaurant.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "mandolinrestaurant.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mandolinrestaurant.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "mandolinrestaurant.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mandolinrestaurant.com_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "mandolinrestaurant.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mandolinrestaurant.com_favicon.png"
+    }
   ]
 }
