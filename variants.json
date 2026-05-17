@@ -15908,5 +15908,37 @@
       "file": "theplazacoralgables.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/theplazacoralgables.com_favicon.png"
     }
+  ],
+  "mrkhoory.com": [
+    {
+      "source": "serp1",
+      "file": "mrkhoory.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mrkhoory.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "mrkhoory.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mrkhoory.com_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "mrkhoory.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mrkhoory.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "mrkhoory.com_serp4.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mrkhoory.com_serp4.webp"
+    },
+    {
+      "source": "serp5",
+      "file": "mrkhoory.com_serp5.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mrkhoory.com_serp5.webp"
+    },
+    {
+      "source": "favicon",
+      "file": "mrkhoory.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mrkhoory.com_favicon.png"
+    }
   ]
 }
