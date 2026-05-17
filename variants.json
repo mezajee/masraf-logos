@@ -13204,5 +13204,37 @@
       "file": "altayermotors.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/altayermotors.com_favicon.png"
     }
+  ],
+  "mittsandtrays.com": [
+    {
+      "source": "serp1",
+      "file": "mittsandtrays.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mittsandtrays.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "mittsandtrays.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mittsandtrays.com_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "mittsandtrays.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mittsandtrays.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "mittsandtrays.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mittsandtrays.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "mittsandtrays.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mittsandtrays.com_serp5.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "mittsandtrays.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mittsandtrays.com_favicon.png"
+    }
   ]
 }
