@@ -12181,5 +12181,32 @@
       "file": "dronedeploy.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dronedeploy.com_favicon.png"
     }
+  ],
+  "skioptima.com": [
+    {
+      "source": "serp1",
+      "file": "skioptima.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/skioptima.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "skioptima.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/skioptima.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "skioptima.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/skioptima.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "skioptima.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/skioptima.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "skioptima.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/skioptima.com_serp5.jpg"
+    }
   ]
 }
