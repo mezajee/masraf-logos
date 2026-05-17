@@ -15514,5 +15514,32 @@
       "file": "taxiworld.co.uk_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/taxiworld.co.uk_favicon.png"
     }
+  ],
+  "portobello.com.br": [
+    {
+      "source": "serp1",
+      "file": "portobello.com.br_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/portobello.com.br_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "portobello.com.br_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/portobello.com.br_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "portobello.com.br_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/portobello.com.br_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "portobello.com.br_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/portobello.com.br_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "portobello.com.br_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/portobello.com.br_serp5.png"
+    }
   ]
 }
