@@ -14873,5 +14873,12 @@
       "file": "puravidamiami.com_favicon.webp",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/puravidamiami.com_favicon.webp"
     }
+  ],
+  "peninsula.com": [
+    {
+      "source": "favicon",
+      "file": "peninsula.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/peninsula.com_favicon.png"
+    }
   ]
 }
