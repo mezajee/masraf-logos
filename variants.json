@@ -13236,5 +13236,37 @@
       "file": "mittsandtrays.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mittsandtrays.com_favicon.png"
     }
+  ],
+  "caesars.com": [
+    {
+      "source": "serp1",
+      "file": "caesars.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/caesars.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "caesars.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/caesars.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "caesars.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/caesars.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "caesars.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/caesars.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "caesars.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/caesars.com_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "caesars.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/caesars.com_favicon.png"
+    }
   ]
 }
