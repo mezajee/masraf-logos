@@ -13645,5 +13645,37 @@
       "file": "crowneplazadubaimarina.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/crowneplazadubaimarina.com_favicon.png"
     }
+  ],
+  "hoop-last-exit.business.site": [
+    {
+      "source": "serp1",
+      "file": "hoop-last-exit.business.site_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hoop-last-exit.business.site_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "hoop-last-exit.business.site_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hoop-last-exit.business.site_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "hoop-last-exit.business.site_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hoop-last-exit.business.site_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "hoop-last-exit.business.site_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hoop-last-exit.business.site_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "hoop-last-exit.business.site_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hoop-last-exit.business.site_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "hoop-last-exit.business.site_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hoop-last-exit.business.site_favicon.png"
+    }
   ]
 }
