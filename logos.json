@@ -306,5 +306,11 @@
     "file": "peninsula.com_serp5.jpg",
     "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/peninsula.com_serp5.jpg",
     "confirmedAt": "2026-05-17"
+  },
+  "gargash.ae": {
+    "status": "official",
+    "file": "gargash.ae_serp3.png",
+    "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gargash.ae_serp3.png",
+    "confirmedAt": "2026-05-17"
   }
 }
