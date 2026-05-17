@@ -16080,5 +16080,42 @@
       "file": "porsche-design.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/porsche-design.com_favicon.png"
     }
+  ],
+  "uber.com": [
+    {
+      "source": "serp1",
+      "file": "uber.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uber.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "uber.com_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uber.com_serp2.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "uber.com_serp3.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uber.com_serp3.svg"
+    },
+    {
+      "source": "serp4",
+      "file": "uber.com_serp4.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uber.com_serp4.svg"
+    },
+    {
+      "source": "serp5",
+      "file": "uber.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uber.com_serp5.jpg"
+    },
+    {
+      "source": "serp6",
+      "file": "uber.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uber.com_serp6.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "uber.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/uber.com_favicon.png"
+    }
   ]
 }
