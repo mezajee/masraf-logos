@@ -15637,5 +15637,37 @@
       "file": "marriott.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/marriott.com_favicon.png"
     }
+  ],
+  "greatamericanbagel.com": [
+    {
+      "source": "serp1",
+      "file": "greatamericanbagel.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/greatamericanbagel.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "greatamericanbagel.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/greatamericanbagel.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "greatamericanbagel.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/greatamericanbagel.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "greatamericanbagel.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/greatamericanbagel.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "greatamericanbagel.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/greatamericanbagel.com_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "greatamericanbagel.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/greatamericanbagel.com_favicon.png"
+    }
   ]
 }
