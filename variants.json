@@ -12980,37 +12980,45 @@
     {
       "source": "serp1",
       "file": "gargash.ae_serp1.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gargash.ae_serp1.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gargash.ae_serp1.png",
+      "active": false
     },
     {
       "source": "serp2",
       "file": "gargash.ae_serp2.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gargash.ae_serp2.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gargash.ae_serp2.png",
+      "active": false
     },
     {
       "source": "serp3",
       "file": "gargash.ae_serp3.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gargash.ae_serp3.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gargash.ae_serp3.png",
+      "active": true,
+      "confirmed": true
     },
     {
       "source": "serp4",
       "file": "gargash.ae_serp4.webp",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gargash.ae_serp4.webp"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gargash.ae_serp4.webp",
+      "active": false
     },
     {
       "source": "serp5",
       "file": "gargash.ae_serp5.webp",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gargash.ae_serp5.webp"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gargash.ae_serp5.webp",
+      "active": false
     },
     {
       "source": "serp6",
       "file": "gargash.ae_serp6.jpg",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gargash.ae_serp6.jpg"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gargash.ae_serp6.jpg",
+      "active": false
     },
     {
       "source": "favicon",
       "file": "gargash.ae_favicon.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gargash.ae_favicon.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gargash.ae_favicon.png",
+      "active": false
     }
   ],
   "al-khawaneej-general-trading": [
