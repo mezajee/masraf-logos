@@ -8735,7 +8735,10 @@
     {
       "source": "serp2",
       "file": "graincafe.ae_serp2.png",
-      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/graincafe.ae_serp2.png"
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/graincafe.ae_serp2.png",
+      "flagged": true,
+      "confirmed": false,
+      "active": false
     },
     {
       "source": "serp3",
