@@ -15940,5 +15940,27 @@
       "file": "mrkhoory.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mrkhoory.com_favicon.png"
     }
+  ],
+  "alera-ventures": [
+    {
+      "source": "serp1",
+      "file": "alera-ventures_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alera-ventures_serp1.png"
+    },
+    {
+      "source": "serp3",
+      "file": "alera-ventures_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alera-ventures_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "alera-ventures_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alera-ventures_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "alera-ventures_serp5.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/alera-ventures_serp5.svg"
+    }
   ]
 }
