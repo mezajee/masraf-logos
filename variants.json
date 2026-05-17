@@ -17426,5 +17426,42 @@
       "file": "leclairdegenie.com_favicon.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/leclairdegenie.com_favicon.jpg"
     }
+  ],
+  "harrods.com": [
+    {
+      "source": "serp1",
+      "file": "harrods.com_serp1.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/harrods.com_serp1.webp"
+    },
+    {
+      "source": "serp2",
+      "file": "harrods.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/harrods.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "harrods.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/harrods.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "harrods.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/harrods.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "harrods.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/harrods.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "harrods.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/harrods.com_serp6.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "harrods.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/harrods.com_favicon.png"
+    }
   ]
 }
