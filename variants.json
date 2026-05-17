@@ -13172,5 +13172,37 @@
       "file": "maisonkitsune.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/maisonkitsune.com_favicon.png"
     }
+  ],
+  "altayermotors.com": [
+    {
+      "source": "serp1",
+      "file": "altayermotors.com_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/altayermotors.com_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "altayermotors.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/altayermotors.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "altayermotors.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/altayermotors.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "altayermotors.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/altayermotors.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "altayermotors.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/altayermotors.com_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "altayermotors.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/altayermotors.com_favicon.png"
+    }
   ]
 }
