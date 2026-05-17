@@ -16626,5 +16626,12 @@
       "file": "oakley.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/oakley.com_favicon.png"
     }
+  ],
+  "berenjak.com": [
+    {
+      "source": "favicon",
+      "file": "berenjak.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/berenjak.com_favicon.png"
+    }
   ]
 }
