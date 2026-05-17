@@ -17875,5 +17875,42 @@
       "file": "wearetipjar.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/wearetipjar.com_favicon.png"
     }
+  ],
+  "bigkidicecream.com": [
+    {
+      "source": "serp1",
+      "file": "bigkidicecream.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bigkidicecream.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "bigkidicecream.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bigkidicecream.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "bigkidicecream.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bigkidicecream.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "bigkidicecream.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bigkidicecream.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "bigkidicecream.com_serp5.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bigkidicecream.com_serp5.webp"
+    },
+    {
+      "source": "serp6",
+      "file": "bigkidicecream.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bigkidicecream.com_serp6.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "bigkidicecream.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bigkidicecream.com_favicon.png"
+    }
   ]
 }
