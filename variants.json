@@ -14539,5 +14539,37 @@
       "file": "rotana.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rotana.com_favicon.png"
     }
+  ],
+  "rxcoffeeapothecary.ae": [
+    {
+      "source": "serp1",
+      "file": "rxcoffeeapothecary.ae_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rxcoffeeapothecary.ae_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "rxcoffeeapothecary.ae_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rxcoffeeapothecary.ae_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "rxcoffeeapothecary.ae_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rxcoffeeapothecary.ae_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "rxcoffeeapothecary.ae_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rxcoffeeapothecary.ae_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "rxcoffeeapothecary.ae_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rxcoffeeapothecary.ae_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "rxcoffeeapothecary.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/rxcoffeeapothecary.ae_favicon.png"
+    }
   ]
 }
