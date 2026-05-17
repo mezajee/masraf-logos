@@ -18577,5 +18577,37 @@
       "file": "pendry.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pendry.com_favicon.png"
     }
+  ],
+  "reserveps.com": [
+    {
+      "source": "serp1",
+      "file": "reserveps.com_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/reserveps.com_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "reserveps.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/reserveps.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "reserveps.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/reserveps.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "reserveps.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/reserveps.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "reserveps.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/reserveps.com_serp5.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "reserveps.com_favicon.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/reserveps.com_favicon.webp"
+    }
   ]
 }
