@@ -15605,5 +15605,37 @@
       "file": "themaineoysterbar.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/themaineoysterbar.com_favicon.png"
     }
+  ],
+  "marriott.com": [
+    {
+      "source": "serp1",
+      "file": "marriott.com_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/marriott.com_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "marriott.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/marriott.com_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "marriott.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/marriott.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "marriott.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/marriott.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "marriott.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/marriott.com_serp5.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "marriott.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/marriott.com_favicon.png"
+    }
   ]
 }
