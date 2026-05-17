@@ -18407,5 +18407,37 @@
       "file": "free-now.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/free-now.com_favicon.png"
     }
+  ],
+  "aria.ae": [
+    {
+      "source": "serp1",
+      "file": "aria.ae_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aria.ae_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "aria.ae_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aria.ae_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "aria.ae_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aria.ae_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "aria.ae_serp4.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aria.ae_serp4.svg"
+    },
+    {
+      "source": "serp5",
+      "file": "aria.ae_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aria.ae_serp5.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "aria.ae_favicon.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aria.ae_favicon.jpg"
+    }
   ]
 }
