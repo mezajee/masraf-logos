@@ -18673,5 +18673,22 @@
       "file": "delta.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/delta.com_favicon.png"
     }
+  ],
+  "allianz-assistance.ae": [
+    {
+      "source": "serp4",
+      "file": "allianz-assistance.ae_serp4.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/allianz-assistance.ae_serp4.svg"
+    },
+    {
+      "source": "serp5",
+      "file": "allianz-assistance.ae_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/allianz-assistance.ae_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "allianz-assistance.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/allianz-assistance.ae_favicon.png"
+    }
   ]
 }
