@@ -12879,5 +12879,32 @@
       "file": "icoffee.ae_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/icoffee.ae_favicon.png"
     }
+  ],
+  "gourmetinnovations.com": [
+    {
+      "source": "serp1",
+      "file": "gourmetinnovations.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gourmetinnovations.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "gourmetinnovations.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gourmetinnovations.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "gourmetinnovations.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gourmetinnovations.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "gourmetinnovations.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gourmetinnovations.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "gourmetinnovations.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gourmetinnovations.com_serp5.png"
+    }
   ]
 }
