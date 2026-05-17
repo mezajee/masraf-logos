@@ -14314,7 +14314,9 @@
       "source": "serp7",
       "file": "johnbellcroyden.co.uk_serp7.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/johnbellcroyden.co.uk_serp7.jpg",
-      "active": false
+      "active": false,
+      "flagged": true,
+      "confirmed": false
     },
     {
       "source": "serp8",
