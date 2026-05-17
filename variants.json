@@ -14416,5 +14416,32 @@
       "file": "moorfields.ae_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/moorfields.ae_favicon.png"
     }
+  ],
+  "tayloroldbondst.co.uk": [
+    {
+      "source": "serp1",
+      "file": "tayloroldbondst.co.uk_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tayloroldbondst.co.uk_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "tayloroldbondst.co.uk_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tayloroldbondst.co.uk_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "tayloroldbondst.co.uk_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tayloroldbondst.co.uk_serp3.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "tayloroldbondst.co.uk_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tayloroldbondst.co.uk_serp5.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "tayloroldbondst.co.uk_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tayloroldbondst.co.uk_favicon.png"
+    }
   ]
 }
