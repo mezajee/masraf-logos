@@ -15829,5 +15829,47 @@
       "file": "hermes.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/hermes.com_favicon.png"
     }
+  ],
+  "turo.com": [
+    {
+      "source": "serp1",
+      "file": "turo.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/turo.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "turo.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/turo.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "turo.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/turo.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "turo.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/turo.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "turo.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/turo.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "turo.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/turo.com_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "turo.com_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/turo.com_serp7.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "turo.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/turo.com_favicon.png"
+    }
   ]
 }
