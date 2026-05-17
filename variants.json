@@ -16938,5 +16938,62 @@
       "file": "jimmyfairly.com_favicon.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/jimmyfairly.com_favicon.jpg"
     }
+  ],
+  "blade.com": [
+    {
+      "source": "serp1",
+      "file": "blade.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/blade.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "blade.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/blade.com_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "blade.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/blade.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "blade.com_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/blade.com_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "blade.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/blade.com_serp5.jpg"
+    },
+    {
+      "source": "serp6",
+      "file": "blade.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/blade.com_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "blade.com_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/blade.com_serp7.jpg"
+    },
+    {
+      "source": "serp8",
+      "file": "blade.com_serp8.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/blade.com_serp8.jpg"
+    },
+    {
+      "source": "serp9",
+      "file": "blade.com_serp9.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/blade.com_serp9.jpg"
+    },
+    {
+      "source": "serp10",
+      "file": "blade.com_serp10.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/blade.com_serp10.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "blade.com_favicon.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/blade.com_favicon.jpg"
+    }
   ]
 }
