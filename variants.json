@@ -16439,5 +16439,37 @@
       "file": "milas-restaurant_serp6.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/milas-restaurant_serp6.png"
     }
+  ],
+  "bayfrontparkmiami.com": [
+    {
+      "source": "serp1",
+      "file": "bayfrontparkmiami.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bayfrontparkmiami.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "bayfrontparkmiami.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bayfrontparkmiami.com_serp2.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "bayfrontparkmiami.com_serp4.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bayfrontparkmiami.com_serp4.svg"
+    },
+    {
+      "source": "serp5",
+      "file": "bayfrontparkmiami.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bayfrontparkmiami.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "bayfrontparkmiami.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bayfrontparkmiami.com_serp6.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "bayfrontparkmiami.com_favicon.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bayfrontparkmiami.com_favicon.jpg"
+    }
   ]
 }
