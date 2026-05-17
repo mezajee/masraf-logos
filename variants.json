@@ -14443,5 +14443,32 @@
       "file": "tayloroldbondst.co.uk_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/tayloroldbondst.co.uk_favicon.png"
     }
+  ],
+  "dyson.ae": [
+    {
+      "source": "serp1",
+      "file": "dyson.ae_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dyson.ae_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "dyson.ae_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dyson.ae_serp2.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "dyson.ae_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dyson.ae_serp3.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "dyson.ae_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dyson.ae_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "dyson.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/dyson.ae_favicon.png"
+    }
   ]
 }
