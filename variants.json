@@ -14738,5 +14738,12 @@
       "file": "fourseasons.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/fourseasons.com_favicon.png"
     }
+  ],
+  "aig.com": [
+    {
+      "source": "favicon",
+      "file": "aig.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aig.com_favicon.png"
+    }
   ]
 }
