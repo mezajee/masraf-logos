@@ -18993,5 +18993,37 @@
       "file": "valet-parking_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/valet-parking_serp5.png"
     }
+  ],
+  "bloomingdales.ae": [
+    {
+      "source": "serp1",
+      "file": "bloomingdales.ae_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bloomingdales.ae_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "bloomingdales.ae_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bloomingdales.ae_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "bloomingdales.ae_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bloomingdales.ae_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "bloomingdales.ae_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bloomingdales.ae_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "bloomingdales.ae_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bloomingdales.ae_serp5.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "bloomingdales.ae_favicon.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/bloomingdales.ae_favicon.webp"
+    }
   ]
 }
