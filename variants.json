@@ -17616,5 +17616,37 @@
       "file": "ergonfoods.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ergonfoods.com_favicon.png"
     }
+  ],
+  "starbucks.ae": [
+    {
+      "source": "serp1",
+      "file": "starbucks.ae_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/starbucks.ae_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "starbucks.ae_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/starbucks.ae_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "starbucks.ae_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/starbucks.ae_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "starbucks.ae_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/starbucks.ae_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "starbucks.ae_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/starbucks.ae_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "starbucks.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/starbucks.ae_favicon.png"
+    }
   ]
 }
