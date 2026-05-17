@@ -18855,5 +18855,52 @@
       "file": "safewayparking.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/safewayparking.com_favicon.png"
     }
+  ],
+  "kith.com": [
+    {
+      "source": "serp1",
+      "file": "kith.com_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kith.com_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "kith.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kith.com_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "kith.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kith.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "kith.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kith.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "kith.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kith.com_serp5.jpg"
+    },
+    {
+      "source": "serp6",
+      "file": "kith.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kith.com_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "kith.com_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kith.com_serp7.jpg"
+    },
+    {
+      "source": "serp8",
+      "file": "kith.com_serp8.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kith.com_serp8.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "kith.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/kith.com_favicon.png"
+    }
   ]
 }
