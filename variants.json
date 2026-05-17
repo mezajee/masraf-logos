@@ -16277,5 +16277,32 @@
       "file": "google.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/google.com_favicon.png"
     }
+  ],
+  "myocumdubai.com": [
+    {
+      "source": "serp1",
+      "file": "myocumdubai.com_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/myocumdubai.com_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "myocumdubai.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/myocumdubai.com_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "myocumdubai.com_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/myocumdubai.com_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "myocumdubai.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/myocumdubai.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "myocumdubai.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/myocumdubai.com_serp5.png"
+    }
   ]
 }
