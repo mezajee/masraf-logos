@@ -18171,5 +18171,37 @@
       "file": "5asec.ae_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/5asec.ae_favicon.png"
     }
+  ],
+  "stitchintimetailoring.ae": [
+    {
+      "source": "serp1",
+      "file": "stitchintimetailoring.ae_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/stitchintimetailoring.ae_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "stitchintimetailoring.ae_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/stitchintimetailoring.ae_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "stitchintimetailoring.ae_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/stitchintimetailoring.ae_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "stitchintimetailoring.ae_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/stitchintimetailoring.ae_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "stitchintimetailoring.ae_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/stitchintimetailoring.ae_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "stitchintimetailoring.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/stitchintimetailoring.ae_favicon.png"
+    }
   ]
 }
