@@ -12267,5 +12267,27 @@
       "file": "youtube.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/youtube.com_favicon.png"
     }
+  ],
+  "caviarhouse-prunier.com": [
+    {
+      "source": "serp1",
+      "file": "caviarhouse-prunier.com_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/caviarhouse-prunier.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "caviarhouse-prunier.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/caviarhouse-prunier.com_serp2.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "caviarhouse-prunier.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/caviarhouse-prunier.com_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "caviarhouse-prunier.com_favicon.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/caviarhouse-prunier.com_favicon.jpg"
+    }
   ]
 }
