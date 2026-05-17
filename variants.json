@@ -15413,5 +15413,42 @@
       "file": "aromebakery.co.uk_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/aromebakery.co.uk_favicon.png"
     }
+  ],
+  "eggbreak.com": [
+    {
+      "source": "serp1",
+      "file": "eggbreak.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eggbreak.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "eggbreak.com_serp2.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eggbreak.com_serp2.webp"
+    },
+    {
+      "source": "serp3",
+      "file": "eggbreak.com_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eggbreak.com_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "eggbreak.com_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eggbreak.com_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "eggbreak.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eggbreak.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "eggbreak.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eggbreak.com_serp6.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "eggbreak.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/eggbreak.com_favicon.png"
+    }
   ]
 }
