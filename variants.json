@@ -13864,5 +13864,37 @@
       "file": "mtm-powersports.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mtm-powersports.com_favicon.png"
     }
+  ],
+  "babeldubai.co": [
+    {
+      "source": "serp1",
+      "file": "babeldubai.co_serp1.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/babeldubai.co_serp1.jpg"
+    },
+    {
+      "source": "serp2",
+      "file": "babeldubai.co_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/babeldubai.co_serp2.jpg"
+    },
+    {
+      "source": "serp3",
+      "file": "babeldubai.co_serp3.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/babeldubai.co_serp3.jpg"
+    },
+    {
+      "source": "serp4",
+      "file": "babeldubai.co_serp4.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/babeldubai.co_serp4.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "babeldubai.co_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/babeldubai.co_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "babeldubai.co_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/babeldubai.co_favicon.png"
+    }
   ]
 }
