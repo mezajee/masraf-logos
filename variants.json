@@ -12664,7 +12664,8 @@
       "source": "serp3",
       "file": "me.bathandbodyworks.ae_serp3.webp",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/me.bathandbodyworks.ae_serp3.webp",
-      "active": false
+      "active": false,
+      "confirmed": true
     },
     {
       "source": "serp4",
