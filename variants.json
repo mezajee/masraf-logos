@@ -14884,6 +14884,11 @@
       "source": "serp1",
       "file": "peninsula.com_serp1.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/peninsula.com_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "peninsula.com_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/peninsula.com_serp2.svg"
     }
   ]
 }
