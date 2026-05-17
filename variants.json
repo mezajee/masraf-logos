@@ -12235,5 +12235,37 @@
       "file": "airgate-sa.com_favicon.jpg",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/airgate-sa.com_favicon.jpg"
     }
+  ],
+  "youtube.com": [
+    {
+      "source": "serp1",
+      "file": "youtube.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/youtube.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "youtube.com_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/youtube.com_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "youtube.com_serp3.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/youtube.com_serp3.svg"
+    },
+    {
+      "source": "serp4",
+      "file": "youtube.com_serp4.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/youtube.com_serp4.svg"
+    },
+    {
+      "source": "serp5",
+      "file": "youtube.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/youtube.com_serp5.png"
+    },
+    {
+      "source": "favicon",
+      "file": "youtube.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/youtube.com_favicon.png"
+    }
   ]
 }
