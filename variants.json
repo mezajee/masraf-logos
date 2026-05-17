@@ -17308,5 +17308,27 @@
       "file": "mawgif.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/mawgif.com_favicon.png"
     }
+  ],
+  "cafe-20": [
+    {
+      "source": "serp1",
+      "file": "cafe-20_serp1.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cafe-20_serp1.png"
+    },
+    {
+      "source": "serp2",
+      "file": "cafe-20_serp2.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cafe-20_serp2.png"
+    },
+    {
+      "source": "serp3",
+      "file": "cafe-20_serp3.webp",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cafe-20_serp3.webp"
+    },
+    {
+      "source": "serp5",
+      "file": "cafe-20_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/cafe-20_serp5.png"
+    }
   ]
 }
