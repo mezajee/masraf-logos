@@ -12845,5 +12845,32 @@
       "file": "zbooni.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/zbooni.com_favicon.png"
     }
+  ],
+  "follow-store-trading": [
+    {
+      "source": "serp1",
+      "file": "follow-store-trading_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/follow-store-trading_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "follow-store-trading_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/follow-store-trading_serp2.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "follow-store-trading_serp3.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/follow-store-trading_serp3.png"
+    },
+    {
+      "source": "serp4",
+      "file": "follow-store-trading_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/follow-store-trading_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "follow-store-trading_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/follow-store-trading_serp5.png"
+    }
   ]
 }
