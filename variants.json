@@ -12906,5 +12906,42 @@
       "file": "gourmetinnovations.com_serp5.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/gourmetinnovations.com_serp5.png"
     }
+  ],
+  "ec.shj.ae": [
+    {
+      "source": "serp1",
+      "file": "ec.shj.ae_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ec.shj.ae_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "ec.shj.ae_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ec.shj.ae_serp2.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "ec.shj.ae_serp3.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ec.shj.ae_serp3.svg"
+    },
+    {
+      "source": "serp4",
+      "file": "ec.shj.ae_serp4.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ec.shj.ae_serp4.png"
+    },
+    {
+      "source": "serp5",
+      "file": "ec.shj.ae_serp5.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ec.shj.ae_serp5.svg"
+    },
+    {
+      "source": "serp6",
+      "file": "ec.shj.ae_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ec.shj.ae_serp6.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "ec.shj.ae_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/ec.shj.ae_favicon.png"
+    }
   ]
 }
