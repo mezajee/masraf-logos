@@ -19269,5 +19269,37 @@
       "file": "majidalfuttaim.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/majidalfuttaim.com_favicon.png"
     }
+  ],
+  "pepsidrc.com": [
+    {
+      "source": "serp1",
+      "file": "pepsidrc.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pepsidrc.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "pepsidrc.com_serp2.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pepsidrc.com_serp2.svg"
+    },
+    {
+      "source": "serp3",
+      "file": "pepsidrc.com_serp3.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pepsidrc.com_serp3.svg"
+    },
+    {
+      "source": "serp4",
+      "file": "pepsidrc.com_serp4.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pepsidrc.com_serp4.svg"
+    },
+    {
+      "source": "serp5",
+      "file": "pepsidrc.com_serp5.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pepsidrc.com_serp5.jpg"
+    },
+    {
+      "source": "favicon",
+      "file": "pepsidrc.com_favicon.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pepsidrc.com_favicon.png"
+    }
   ]
 }
