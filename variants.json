@@ -19301,5 +19301,32 @@
       "file": "pepsidrc.com_favicon.png",
       "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/pepsidrc.com_favicon.png"
     }
+  ],
+  "enoc.com": [
+    {
+      "source": "serp1",
+      "file": "enoc.com_serp1.svg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/enoc.com_serp1.svg"
+    },
+    {
+      "source": "serp2",
+      "file": "enoc.com_serp2.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/enoc.com_serp2.jpg"
+    },
+    {
+      "source": "serp5",
+      "file": "enoc.com_serp5.png",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/enoc.com_serp5.png"
+    },
+    {
+      "source": "serp6",
+      "file": "enoc.com_serp6.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/enoc.com_serp6.jpg"
+    },
+    {
+      "source": "serp7",
+      "file": "enoc.com_serp7.jpg",
+      "githubUrl": "https://raw.githubusercontent.com/mezajee/masraf-logos/main/variants/enoc.com_serp7.jpg"
+    }
   ]
 }
